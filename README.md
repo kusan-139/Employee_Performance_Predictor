@@ -28,28 +28,30 @@ This system can help HR teams and management make data-driven decisions related 
 ## 📂 Project Structure
 
 ```
-
 Employee_Performance_Predictor_Project/
 │
 ├── app/
-│   └── app.py (Streamlit web application for prediction)
+│   └── app.py
+│       └── Streamlit web application for prediction
 │
 ├── data/
-│   └── Extended_Employee_Performance_and_Productivity_Data.csv (Main dataset used for training and testing)
+│   └── Extended_Employee_Performance_and_Productivity_Data.csv
+│       └── Main dataset used for training and testing
 │
 ├── models/
-│   └── employee_perf_model.pkl (Trained machine learning model)
+│   └── employee_perf_model.pkl
+│       └── Trained machine learning model
 │
 ├── reports/
 │   ├── auc_score.txt
 │   ├── classification_report.txt
 │   ├── confusion_matrix.png
 │   └── roc_curve.png
-│   └── Model evaluation outputs
+│       └── Model evaluation outputs
 │
 ├── src/
 │   └── train.py
-│   └── Script for data preprocessing, training, and evaluation
+│       └── Data preprocessing, training, and evaluation script
 │
 ├── requirements.txt
 │   └── Python dependencies
@@ -58,8 +60,9 @@ Employee_Performance_Predictor_Project/
 │   └── Project documentation
 │
 └── Test/
-└── Sample test resources
+    └── Sample test resources
 
+```
 ````
 
 ---
