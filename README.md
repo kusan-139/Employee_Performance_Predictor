@@ -1,4 +1,3 @@
-````markdown
 # Employee Performance Predictor
 
 ## 📌 Project Overview
@@ -62,7 +61,6 @@ Employee_Performance_Predictor_Project/
 │
 └── Test/
     └── Sample test resources
-````
 
 ---
 
@@ -183,7 +181,6 @@ streamlit run app/app.py
 ## 👤 Author
 
 **Kusan Chakraborty**
-B.Tech – Computer Science & Engineering (Data Science)
 
 ---
 
@@ -200,4 +197,5 @@ You are free to:
 This software, provided proper credit is given to the author.
 
 © 2026 Kusan Chakraborty
+
 
