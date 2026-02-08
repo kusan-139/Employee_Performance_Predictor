@@ -1,17 +1,17 @@
-```markdown
+````markdown
 # Employee Performance Predictor
 
 ## 📌 Project Overview
-The **Employee Performance Predictor** is a machine learning–based application designed to predict employee performance levels using historical employee data.  
-The project follows a complete ML pipeline—from data preprocessing and model training to evaluation and deployment using a **Streamlit** web interface.
+The **Employee Performance Predictor** is an end-to-end machine learning application that predicts employee performance levels based on historical productivity and performance data.  
+The project covers the complete ML lifecycle—from data preprocessing and model training to evaluation and deployment using a **Streamlit** web application.
 
-This system can help HR teams and management make data-driven decisions related to employee productivity and performance assessment.
+This system helps HR teams and management make **data-driven decisions** related to employee performance analysis.
 
 ---
 
 ## 🎯 Objectives
 - Analyze employee productivity and performance data
-- Train a supervised machine learning model for performance prediction
+- Build a supervised machine learning model for performance prediction
 - Evaluate the model using standard classification metrics
 - Deploy the trained model as an interactive web application
 
@@ -20,14 +20,15 @@ This system can help HR teams and management make data-driven decisions related 
 ## 🧠 Machine Learning Approach
 - **Problem Type:** Classification  
 - **Algorithm Used:** Random Forest Classifier  
-- **Libraries:** Scikit-learn, Pandas, NumPy  
+- **Libraries:** Pandas, NumPy, Scikit-learn  
+- **Model Persistence:** Joblib  
 - **Deployment:** Streamlit  
 
 ---
 
 ## 📂 Project Structure
 
-```
+```text
 Employee_Performance_Predictor_Project/
 │
 ├── app/
@@ -61,8 +62,6 @@ Employee_Performance_Predictor_Project/
 │
 └── Test/
     └── Sample test resources
-
-```
 ````
 
 ---
@@ -70,50 +69,81 @@ Employee_Performance_Predictor_Project/
 ## ⚙️ Project Workflow
 
 ### 1️⃣ Data Collection
-- Employee performance and productivity data is loaded from CSV files.
-- Dataset includes both numerical and categorical features.
+
+* Employee performance and productivity data is loaded from CSV files.
+* Dataset contains both numerical and categorical features.
 
 ### 2️⃣ Data Preprocessing
-- Missing values handled using `SimpleImputer`
-- Numerical features scaled using `RobustScaler`
-- Categorical features encoded using `OneHotEncoder`
-- Preprocessing handled via `ColumnTransformer`
+
+* Handling missing values using `SimpleImputer`
+* Scaling numerical features using `RobustScaler`
+* Encoding categorical features using `OneHotEncoder`
+* Preprocessing implemented using `ColumnTransformer`
 
 ### 3️⃣ Model Training
-- Data split into training and testing sets
-- Random Forest Classifier used for prediction
-- Model trained using a Scikit-learn pipeline
-- Trained model saved as `.pkl` using `joblib`
+
+* Dataset split into training and testing sets
+* Random Forest Classifier trained using a Scikit-learn pipeline
+* Trained model saved using `joblib` as a `.pkl` file
 
 ### 4️⃣ Model Evaluation
-- Classification Report (Precision, Recall, F1-score)
-- Confusion Matrix
-- ROC Curve
-- AUC Score
-- All evaluation outputs stored in the `reports/` folder
+
+* Classification Report (Precision, Recall, F1-score)
+* Confusion Matrix
+* ROC Curve
+* AUC Score
+* Evaluation results stored in the `reports/` directory
 
 ### 5️⃣ Deployment
-- Streamlit app loads the trained model
-- Users can input employee data via UI
-- App predicts employee performance in real time
-- Evaluation plots and metrics displayed interactively
+
+* Streamlit application loads the trained model
+* User inputs employee data via the web interface
+* Application predicts employee performance in real time
 
 ---
 
-## 🚀 How to Run the Project
+## 🏋️ How to Train the Model
 
-### 1️⃣ Install Dependencies
-```bash
-pip install -r requirements.txt
-````
+1. **Install Dependencies**
 
-### 2️⃣ Train the Model
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-```bash
-python src/train.py
-```
+2. **Ensure Dataset Availability**
 
-### 3️⃣ Run the Streamlit App
+   * Place the dataset in the `data/` directory:
+
+     ```
+     Extended_Employee_Performance_and_Productivity_Data.csv
+     ```
+
+3. **Run the Training Script**
+
+   ```bash
+   python src/train.py
+   ```
+
+4. **Training Output**
+
+   * Trained model saved in `models/`
+   * Evaluation reports generated in `reports/`
+   * Model ready for deployment in the Streamlit app
+
+### 🔄 Retraining the Model
+
+To retrain the model with updated data:
+
+* Replace the dataset in the `data/` directory
+* Re-run:
+
+  ```bash
+  python src/train.py
+  ```
+
+---
+
+## 🚀 How to Run the Application
 
 ```bash
 streamlit run app/app.py
@@ -142,16 +172,17 @@ streamlit run app/app.py
 
 ## 🔮 Future Enhancements
 
-* Add more advanced models (XGBoost, LightGBM)
+* Use advanced models (XGBoost, LightGBM)
 * Hyperparameter tuning
-* Role-based employee prediction
-* Integration with live HR databases
+* Role-specific performance prediction
+* Integration with real-time HR databases
 * Model explainability using SHAP
 
+---
 
 ## 👤 Author
 
-**Kusan Chakraborty**  
+**Kusan Chakraborty**
 B.Tech – Computer Science & Engineering (Data Science)
 
 ---
@@ -161,10 +192,12 @@ B.Tech – Computer Science & Engineering (Data Science)
 This project is licensed under the **MIT License**.
 
 You are free to:
-- Use
-- Modify
-- Distribute
+
+* Use
+* Modify
+* Distribute
 
 This software, provided proper credit is given to the author.
 
 © 2026 Kusan Chakraborty
+
