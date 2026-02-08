@@ -1,0 +1,2001 @@
+Employee_ID,Department,Gender,Age,Job_Title,Hire_Date,Years_At_Company,Education_Level,Performance_Score,Monthly_Salary,Work_Hours_Per_Week,Projects_Handled,Overtime_Hours,Sick_Days,Remote_Work_Frequency,Team_Size,Training_Hours,Promotions,Employee_Satisfaction_Score,Resigned
+30001,Finance,Female,53,Manager,2015-10-18,1,High School,2.79,46674,49,1,12,2,3,12,81,2,4.07,No
+30002,Operations,Female,33,Specialist,2016-09-11,12,Diploma,3.95,63028,46,10,5,1,2,6,99,1,2.04,No
+30003,Sales,Female,29,Manager,2013-01-19,9,Master,5.0,180000,58,1,12,10,2,3,52,0,3.43,No
+30004,HR,Male,32,Specialist,2022-09-22,2,High School,3.75,38525,43,2,27,2,3,7,49,2,4.39,No
+30005,Marketing,Male,40,Engineer,2016-06-30,4,Diploma,4.4,41999,41,6,24,2,3,9,69,2,4.43,No
+30006,Sales,Male,55,Consultant,2014-12-18,8,High School,3.09,25411,53,10,9,5,3,9,7,2,3.38,No
+30007,Finance,Male,36,Analyst,2016-02-08,2,Diploma,2.74,22164,46,6,4,10,3,10,56,0,4.07,Yes
+30008,Finance,Female,48,Manager,2015-05-30,8,Bachelor,3.91,85642,52,10,17,0,1,7,95,2,3.7,Yes
+30009,Operations,Male,45,Engineer,2012-10-18,5,Diploma,3.37,25680,46,10,12,7,1,2,63,0,2.53,No
+30010,Marketing,Male,30,Engineer,2011-01-13,5,Bachelor,3.43,77776,38,10,17,6,2,11,94,2,3.55,Yes
+30011,Marketing,Male,57,Analyst,2016-06-08,14,High School,4.31,36694,58,3,22,6,1,11,11,2,3.0,No
+30012,IT,Male,43,Engineer,2012-11-13,11,Master,4.29,111103,40,4,26,5,1,5,68,0,2.78,No
+30013,Finance,Male,34,Engineer,2012-02-19,10,High School,2.86,25381,56,9,23,0,4,13,35,1,3.38,No
+30014,IT,Female,49,Engineer,2022-10-25,8,High School,2.71,36780,35,1,2,1,1,12,84,0,4.52,No
+30015,Operations,Female,36,Engineer,2011-06-07,9,Bachelor,4.62,94621,58,1,26,0,0,4,32,0,4.54,No
+30016,Finance,Male,49,Analyst,2018-11-03,5,Master,3.93,51735,57,6,12,11,4,7,81,1,2.47,No
+30017,Sales,Female,38,Engineer,2021-08-28,9,Master,4.49,118936,40,10,13,3,1,9,56,2,3.55,No
+30018,Marketing,Male,55,Specialist,2013-11-10,12,PhD,5.0,180000,44,3,27,0,4,4,33,1,3.83,Yes
+30019,Marketing,Female,40,Analyst,2017-04-24,6,Master,4.96,73928,35,8,5,11,0,7,42,2,4.02,No
+30020,Marketing,Male,47,Consultant,2013-03-01,6,Diploma,3.25,27623,51,2,24,8,3,4,58,1,3.94,Yes
+30021,Marketing,Male,53,Analyst,2015-12-01,4,Bachelor,3.73,65942,55,5,8,5,0,7,85,1,4.72,No
+30022,Operations,Male,59,Engineer,2020-05-09,10,Master,5.0,112093,58,10,9,11,4,3,90,2,3.11,No
+30023,Finance,Male,33,Specialist,2020-11-08,1,Diploma,3.06,28788,46,11,31,2,0,2,82,0,4.67,No
+30024,IT,Female,55,Consultant,2019-03-03,3,Master,4.16,106696,57,7,9,0,2,8,60,2,2.58,No
+30025,Marketing,Male,55,Specialist,2019-05-30,9,PhD,5.0,176533,46,3,31,7,0,5,83,1,2.41,No
+30026,Sales,Female,39,Analyst,2012-08-24,4,Master,4.74,99327,36,5,24,1,0,10,42,2,4.56,No
+30027,Operations,Male,35,Manager,2010-02-16,3,Bachelor,4.39,60012,53,6,19,5,0,8,30,1,2.83,No
+30028,HR,Male,49,Consultant,2015-04-06,6,High School,4.68,41125,45,7,21,10,3,9,24,2,2.06,Yes
+30029,IT,Male,41,Specialist,2017-02-10,14,Diploma,4.58,52093,46,3,19,5,2,3,42,2,3.38,Yes
+30030,Marketing,Female,58,Analyst,2014-09-26,3,Diploma,2.82,27018,40,6,13,6,3,2,37,1,3.03,Yes
+30031,Sales,Female,50,Engineer,2018-05-16,7,Diploma,3.66,25976,40,1,4,1,2,11,64,0,4.38,No
+30032,Marketing,Male,52,Consultant,2021-03-01,9,Bachelor,3.57,84823,57,4,8,11,0,11,83,0,3.89,Yes
+30033,Marketing,Male,38,Specialist,2021-04-19,10,Bachelor,4.77,102249,47,5,16,4,4,8,17,0,2.88,No
+30034,Finance,Male,43,Engineer,2011-11-30,8,Diploma,3.85,26881,53,1,20,3,2,6,41,0,2.64,No
+30035,Finance,Female,46,Engineer,2022-05-23,5,Master,3.43,83294,57,7,25,9,0,6,97,0,4.55,No
+30036,HR,Male,26,Consultant,2011-04-02,10,Master,4.08,111818,45,6,18,6,2,9,80,1,2.45,No
+30037,Marketing,Male,49,Consultant,2017-02-20,9,Master,5.0,108925,38,3,22,2,1,5,84,2,4.67,Yes
+30038,Marketing,Female,37,Engineer,2016-09-13,9,Diploma,2.55,48635,54,8,17,1,4,11,9,1,4.55,No
+30039,Finance,Male,41,Manager,2012-05-22,7,Bachelor,5.0,135350,44,11,20,11,3,2,71,1,4.32,No
+30040,Marketing,Female,30,Consultant,2021-03-13,11,Bachelor,4.63,70543,41,10,11,6,3,3,99,1,2.37,Yes
+30041,Finance,Female,47,Specialist,2011-09-25,2,Diploma,3.2,30130,35,4,10,1,0,6,6,0,2.58,No
+30042,Finance,Male,52,Engineer,2020-06-22,7,Bachelor,4.45,53577,44,4,9,0,3,7,53,0,4.01,No
+30043,IT,Male,28,Analyst,2016-09-23,5,Master,4.97,107090,54,10,27,3,0,3,92,0,3.73,No
+30044,IT,Male,54,Manager,2013-08-07,12,Bachelor,5.0,139622,42,3,21,5,4,13,33,0,2.74,Yes
+30045,Marketing,Female,50,Specialist,2014-06-03,13,Master,5.0,180000,49,5,26,0,3,11,92,1,2.82,No
+30046,IT,Male,38,Consultant,2015-11-05,8,Bachelor,5.0,105297,56,7,14,3,3,14,8,0,4.53,No
+30047,Operations,Female,30,Engineer,2017-12-10,5,Master,4.71,100542,51,11,29,3,0,9,45,0,2.74,No
+30048,Operations,Male,57,Analyst,2011-12-20,0,Master,2.63,63149,55,3,27,11,4,3,17,1,4.35,No
+30049,Sales,Female,24,Analyst,2020-08-14,11,Master,4.13,75307,39,9,30,5,3,7,86,2,4.08,No
+30050,Finance,Male,23,Analyst,2014-11-14,11,Master,3.97,87240,48,9,1,3,2,7,8,1,2.01,No
+30051,HR,Female,46,Specialist,2022-02-24,0,Bachelor,3.37,38683,41,7,29,8,3,2,62,2,4.26,No
+30052,Finance,Male,57,Manager,2021-05-28,7,Bachelor,5.0,96991,54,4,25,11,2,3,94,2,4.21,No
+30053,Sales,Male,33,Analyst,2013-10-02,4,Diploma,4.04,25721,40,10,32,0,1,2,37,1,2.74,Yes
+30054,Operations,Female,32,Engineer,2010-08-19,8,Master,4.1,113436,54,11,3,8,4,10,5,0,2.29,No
+30055,Marketing,Female,53,Consultant,2019-09-09,7,High School,4.2,25713,55,11,11,7,1,10,99,1,4.45,No
+30056,IT,Female,45,Specialist,2017-07-03,7,Bachelor,4.26,55896,46,11,32,7,0,8,91,2,4.61,Yes
+30057,Sales,Male,58,Specialist,2012-12-13,1,Diploma,2.88,33900,54,11,24,8,1,5,90,0,4.12,No
+30058,Sales,Female,25,Manager,2018-07-21,8,Bachelor,5.0,141467,54,2,15,3,1,12,62,0,4.65,Yes
+30059,HR,Male,31,Engineer,2018-03-09,11,Master,5.0,172521,51,7,26,10,0,4,86,1,3.3,No
+30060,IT,Male,55,Manager,2014-08-07,3,Diploma,3.28,47823,52,4,28,4,0,13,8,1,2.08,No
+30061,IT,Female,24,Engineer,2011-06-12,14,Master,4.51,108700,51,7,11,0,2,3,13,2,4.66,No
+30062,HR,Male,24,Engineer,2022-01-15,9,Master,5.0,97800,40,6,29,10,1,14,91,0,2.03,No
+30063,Marketing,Female,24,Manager,2011-09-01,5,Bachelor,4.17,99547,57,11,5,5,0,4,77,1,4.36,No
+30064,Operations,Male,50,Analyst,2011-12-05,9,Diploma,3.92,37156,39,4,10,2,3,3,90,0,3.28,No
+30065,Finance,Female,48,Engineer,2010-12-28,2,Master,3.53,129544,42,4,5,7,2,14,51,1,2.15,No
+30066,Operations,Female,43,Manager,2022-07-06,10,Bachelor,3.94,85692,52,8,26,5,3,10,21,2,3.13,No
+30067,Operations,Female,43,Manager,2016-06-21,2,Master,4.08,95306,38,3,34,7,3,9,90,2,3.79,No
+30068,Operations,Female,28,Analyst,2017-06-09,11,Bachelor,3.53,47705,48,9,22,1,3,7,11,0,2.91,Yes
+30069,Marketing,Female,34,Manager,2017-03-04,7,Master,4.92,130392,58,1,18,4,2,3,62,2,3.35,No
+30070,Operations,Female,56,Consultant,2013-09-07,3,Master,4.79,88099,58,10,5,9,4,12,93,0,2.71,No
+30071,Marketing,Male,42,Analyst,2010-07-27,6,High School,3.68,24337,52,6,26,3,1,3,43,2,3.91,Yes
+30072,Marketing,Female,59,Manager,2016-06-20,1,High School,3.33,36208,56,8,34,1,0,6,29,2,4.05,No
+30073,Sales,Female,30,Analyst,2012-06-20,14,Master,5.0,139520,48,3,27,2,3,8,89,1,4.42,No
+30074,Finance,Male,55,Analyst,2013-10-10,9,Diploma,3.17,35060,47,9,2,7,0,12,68,2,4.52,No
+30075,Operations,Female,59,Manager,2011-09-22,14,Diploma,4.87,77486,46,3,8,2,3,9,81,0,4.7,No
+30076,Operations,Male,25,Analyst,2012-06-19,2,High School,2.96,25216,38,2,21,10,2,10,31,2,4.33,No
+30077,Finance,Male,31,Analyst,2013-10-02,0,Bachelor,3.83,47435,57,3,15,4,2,9,96,1,2.68,Yes
+30078,Sales,Female,48,Analyst,2013-03-16,3,Master,5.0,45103,37,2,20,4,0,9,74,2,2.79,Yes
+30079,Sales,Female,35,Manager,2017-04-04,10,Master,5.0,127756,38,2,7,9,3,4,59,2,4.28,No
+30080,Marketing,Female,25,Specialist,2013-12-08,7,Diploma,4.27,38442,41,5,21,11,1,13,96,0,2.75,No
+30081,Marketing,Male,41,Analyst,2011-10-22,12,Master,3.93,65947,44,11,11,10,4,7,52,1,3.06,Yes
+30082,Sales,Male,27,Analyst,2010-01-31,0,High School,2.58,22228,42,3,21,2,2,11,84,2,4.75,No
+30083,IT,Male,51,Manager,2012-02-19,11,Diploma,4.09,48045,48,9,31,9,0,4,12,1,2.0,No
+30084,Sales,Female,52,Engineer,2017-03-24,12,Diploma,3.15,37054,49,3,14,6,1,6,52,2,2.31,No
+30085,Operations,Female,28,Engineer,2010-07-08,8,Bachelor,4.22,64281,36,3,21,11,0,8,65,2,4.74,Yes
+30086,Finance,Male,54,Analyst,2020-02-03,8,Bachelor,3.77,42505,44,10,21,7,4,5,40,2,2.92,No
+30087,Finance,Male,48,Manager,2015-07-26,4,Bachelor,4.63,116746,56,9,9,1,2,11,75,0,2.95,Yes
+30088,Sales,Female,32,Engineer,2016-06-16,13,Bachelor,5.0,80184,36,10,24,7,1,8,13,1,2.28,Yes
+30089,HR,Male,55,Engineer,2016-01-30,2,PhD,5.0,180000,57,10,25,4,4,13,83,0,2.76,No
+30090,Marketing,Male,46,Engineer,2016-12-23,13,Diploma,4.4,56568,47,3,1,3,1,7,65,2,2.94,No
+30091,IT,Male,33,Manager,2012-01-24,5,Diploma,2.69,33378,38,1,1,4,3,13,24,0,4.14,No
+30092,IT,Female,57,Analyst,2011-11-07,1,Master,2.92,96021,44,11,2,6,2,8,39,1,3.45,Yes
+30093,Sales,Male,30,Specialist,2016-11-24,14,Diploma,4.51,36064,38,4,17,9,0,3,85,2,4.73,No
+30094,Sales,Female,59,Analyst,2017-03-14,13,Bachelor,5.0,38542,46,5,27,9,4,12,55,0,2.6,Yes
+30095,IT,Female,51,Specialist,2015-03-22,14,PhD,5.0,180000,43,10,3,8,0,10,74,2,2.37,No
+30096,Sales,Female,50,Analyst,2019-11-13,2,High School,3.6,25277,53,11,29,4,2,14,26,1,3.92,No
+30097,Sales,Female,49,Analyst,2017-03-28,6,Master,4.32,49976,56,10,4,0,3,6,12,1,3.43,Yes
+30098,Operations,Male,42,Engineer,2017-05-25,3,High School,3.93,22199,35,8,23,8,0,2,80,0,3.36,No
+30099,Sales,Male,55,Specialist,2014-02-13,11,Bachelor,4.81,77980,53,7,21,4,3,6,26,2,4.45,No
+30100,Marketing,Female,47,Specialist,2010-04-12,0,Bachelor,2.36,60318,36,4,1,5,4,6,49,0,3.98,Yes
+30101,IT,Female,29,Analyst,2017-04-01,8,Bachelor,4.83,50999,54,4,1,8,4,2,13,2,4.54,No
+30102,Operations,Male,56,Specialist,2022-08-23,13,Master,5.0,180000,42,7,16,10,4,10,99,0,4.65,No
+30103,IT,Female,27,Engineer,2018-10-15,4,High School,2.78,28537,41,7,32,3,3,6,79,1,3.45,No
+30104,IT,Male,48,Engineer,2010-01-14,4,High School,4.06,32259,40,5,21,11,1,6,37,1,2.65,No
+30105,Marketing,Female,34,Analyst,2016-09-13,11,Bachelor,3.91,49356,45,7,21,3,4,2,21,1,3.41,No
+30106,Marketing,Male,48,Analyst,2017-07-20,13,Master,5.0,151583,56,2,25,11,1,10,54,2,4.16,No
+30107,IT,Female,46,Manager,2013-11-22,2,High School,2.81,29929,55,4,20,0,4,12,7,2,4.42,Yes
+30108,Sales,Female,48,Analyst,2022-12-25,9,Bachelor,4.44,59196,46,8,34,8,1,3,74,0,3.19,No
+30109,Finance,Male,57,Specialist,2021-10-26,3,High School,3.09,36785,43,11,25,2,4,2,5,0,3.71,Yes
+30110,Operations,Female,31,Manager,2019-07-30,4,Bachelor,3.28,79588,35,7,24,9,1,12,96,0,2.83,No
+30111,IT,Male,28,Engineer,2015-12-27,12,PhD,5.0,180000,58,9,6,2,4,14,52,2,3.04,No
+30112,Operations,Female,24,Manager,2019-06-17,2,Master,5.0,158575,51,10,11,5,3,14,24,0,2.23,Yes
+30113,Operations,Male,36,Engineer,2019-07-18,10,Bachelor,3.96,56276,48,9,31,9,3,9,44,2,2.74,No
+30114,Sales,Male,43,Engineer,2014-04-03,5,Bachelor,3.93,92688,45,1,17,11,2,2,78,1,3.09,No
+30115,Marketing,Female,35,Manager,2015-02-10,10,PhD,5.0,180000,51,5,27,2,4,10,85,1,3.76,Yes
+30116,Sales,Male,31,Analyst,2011-03-22,13,Master,4.95,96299,55,6,25,10,1,14,56,2,2.01,No
+30117,IT,Female,47,Manager,2011-05-15,6,High School,3.85,39861,42,4,0,9,2,3,69,2,2.35,No
+30118,Marketing,Female,38,Analyst,2012-10-06,10,Bachelor,3.7,39615,41,2,30,1,4,2,74,2,3.47,Yes
+30119,HR,Male,41,Analyst,2014-12-19,9,Bachelor,5.0,71731,46,5,31,9,3,10,71,1,4.29,No
+30120,Marketing,Male,54,Engineer,2017-05-15,3,Bachelor,3.5,64572,59,11,13,7,2,4,24,1,3.86,No
+30121,Finance,Male,30,Manager,2022-01-01,11,Bachelor,4.64,100758,51,1,13,9,0,10,44,0,3.26,No
+30122,Sales,Male,44,Manager,2019-06-03,1,Diploma,2.89,44547,59,11,1,3,3,6,25,0,3.9,No
+30123,Sales,Male,42,Analyst,2014-01-15,13,Diploma,2.7,44675,43,1,18,3,4,14,58,2,4.6,No
+30124,Finance,Female,59,Engineer,2015-12-30,10,Master,5.0,115468,38,7,24,8,4,4,88,1,3.72,No
+30125,Finance,Female,34,Specialist,2019-05-20,14,Master,5.0,180000,51,4,7,5,4,6,81,2,4.42,No
+30126,HR,Male,50,Specialist,2018-02-15,13,High School,4.03,30143,46,1,5,8,4,4,20,0,2.95,No
+30127,Finance,Male,22,Analyst,2012-04-03,11,Master,5.0,68748,38,3,13,11,0,12,24,2,3.24,Yes
+30128,HR,Male,51,Specialist,2018-04-20,12,Master,5.0,131293,55,6,26,4,0,14,37,1,3.81,No
+30129,HR,Female,36,Engineer,2020-11-29,9,Master,5.0,86349,49,4,22,9,2,3,89,2,2.3,No
+30130,Sales,Female,29,Manager,2015-05-19,12,Diploma,3.85,76992,38,1,30,6,2,2,22,0,4.64,No
+30131,IT,Male,36,Specialist,2019-01-26,10,Diploma,4.9,48222,58,3,8,11,3,2,50,0,2.14,No
+30132,Sales,Male,34,Engineer,2017-04-30,10,Diploma,2.83,32263,41,6,12,11,0,3,27,1,4.24,Yes
+30133,Finance,Male,22,Analyst,2022-07-09,8,Master,4.7,112659,48,11,17,2,1,8,85,2,4.39,No
+30134,Marketing,Male,36,Analyst,2021-09-08,7,PhD,3.37,84200,52,5,28,1,2,12,28,0,3.55,No
+30135,IT,Male,35,Specialist,2012-03-12,10,Bachelor,5.0,96329,43,10,23,5,2,4,28,0,2.32,No
+30136,HR,Male,41,Manager,2020-09-26,14,High School,4.81,50010,46,3,18,3,3,3,62,0,4.35,No
+30137,Marketing,Female,45,Analyst,2016-11-05,11,High School,3.34,19319,43,3,12,9,0,8,30,2,3.56,No
+30138,Marketing,Male,35,Engineer,2013-08-11,10,Diploma,2.46,42289,41,5,27,1,1,3,46,0,4.16,No
+30139,IT,Male,47,Engineer,2020-08-02,12,High School,3.91,45633,36,7,8,3,4,14,22,2,4.25,Yes
+30140,Operations,Female,37,Analyst,2014-03-19,11,Bachelor,4.54,76209,54,7,29,0,3,8,52,0,4.48,No
+30141,Operations,Male,28,Manager,2010-09-28,1,Diploma,2.93,37432,35,8,21,1,0,13,21,1,2.34,No
+30142,Finance,Male,32,Engineer,2017-05-20,7,High School,4.4,34048,37,8,10,7,4,8,85,2,4.07,No
+30143,Finance,Female,33,Manager,2016-05-01,1,Diploma,3.16,47142,55,4,11,9,0,13,66,0,3.92,No
+30144,HR,Female,32,Engineer,2017-06-10,2,Diploma,1.87,22403,39,10,28,8,3,4,23,2,4.74,No
+30145,Finance,Female,48,Specialist,2016-06-27,10,Bachelor,4.8,56779,51,6,11,5,4,7,86,2,2.38,No
+30146,Sales,Female,57,Manager,2018-09-01,8,Diploma,3.69,40819,44,1,22,2,1,4,74,2,4.4,No
+30147,Operations,Female,48,Engineer,2011-06-06,4,Bachelor,5.0,85758,55,11,23,3,2,9,57,2,2.79,No
+30148,IT,Female,32,Analyst,2022-09-06,13,Diploma,5.0,35721,46,1,13,11,2,10,24,1,2.23,No
+30149,Operations,Female,30,Engineer,2022-11-12,5,High School,2.33,28273,50,5,12,9,3,12,16,2,4.77,No
+30150,HR,Male,48,Manager,2010-05-22,5,High School,4.44,46241,50,3,29,8,0,3,36,1,4.67,No
+30151,Operations,Female,58,Engineer,2019-05-30,13,Diploma,4.4,41079,45,9,2,4,3,7,56,0,3.16,Yes
+30152,Finance,Female,44,Analyst,2018-04-23,0,Diploma,3.56,21695,56,9,8,10,1,11,95,0,3.82,No
+30153,Finance,Female,47,Consultant,2014-10-20,11,High School,4.25,40299,46,3,15,8,3,14,93,1,2.7,No
+30154,HR,Female,54,Engineer,2016-02-27,5,Master,5.0,102066,57,1,15,10,1,3,52,2,3.74,No
+30155,Finance,Male,49,Manager,2018-09-23,9,Bachelor,3.93,65236,51,5,0,11,2,14,10,0,3.52,No
+30156,Finance,Female,55,Consultant,2011-11-01,7,Diploma,3.94,49781,46,5,27,5,1,13,7,1,3.77,Yes
+30157,Operations,Female,45,Engineer,2020-06-22,10,Master,5.0,143228,45,2,22,9,4,8,17,0,2.17,No
+30158,HR,Male,55,Consultant,2010-03-10,8,Diploma,4.32,30565,59,7,5,7,2,6,84,1,2.52,No
+30159,Finance,Female,44,Engineer,2020-06-09,12,Diploma,2.54,36182,43,6,17,4,1,6,75,1,3.38,No
+30160,HR,Female,55,Manager,2018-10-01,9,Diploma,3.96,53554,39,11,25,6,1,7,51,2,4.32,No
+30161,Finance,Female,36,Consultant,2014-05-14,5,Bachelor,3.07,69034,57,1,14,1,3,2,88,0,4.58,Yes
+30162,Sales,Female,30,Specialist,2019-11-26,12,Diploma,4.67,58110,57,7,34,0,4,14,72,1,4.29,No
+30163,IT,Female,58,Engineer,2019-12-14,1,Diploma,3.43,39118,43,6,16,9,1,7,99,2,3.21,No
+30164,Operations,Female,42,Specialist,2021-08-04,11,Master,5.0,180000,47,3,6,11,3,14,67,2,3.65,No
+30165,IT,Male,54,Analyst,2022-05-27,7,Bachelor,5.0,62083,47,7,5,2,3,10,41,1,2.81,No
+30166,Finance,Male,53,Engineer,2011-10-17,8,Master,5.0,157846,43,4,8,9,3,3,39,2,4.62,No
+30167,Finance,Female,58,Specialist,2021-07-22,8,Master,4.8,153543,47,9,32,10,2,3,72,2,3.87,Yes
+30168,Operations,Male,40,Consultant,2012-08-25,0,Diploma,2.43,25400,43,9,20,11,3,5,39,2,3.31,Yes
+30169,IT,Female,29,Analyst,2015-04-20,11,Bachelor,4.48,71030,43,3,2,2,4,6,83,1,2.63,No
+30170,Finance,Male,35,Engineer,2012-01-24,8,High School,3.21,31864,38,7,27,2,2,14,11,1,4.62,No
+30171,IT,Female,27,Engineer,2022-06-14,0,PhD,3.65,112317,49,4,34,5,1,4,46,2,2.28,No
+30172,HR,Male,30,Specialist,2011-11-16,1,Master,4.52,130607,37,6,33,0,4,8,66,0,2.57,No
+30173,IT,Male,55,Engineer,2017-02-09,4,Bachelor,3.65,76496,45,5,15,0,3,13,16,0,2.97,No
+30174,Marketing,Male,58,Consultant,2015-12-29,7,Diploma,3.63,50690,51,3,31,6,0,5,19,2,4.58,Yes
+30175,HR,Female,59,Consultant,2011-04-07,9,PhD,5.0,180000,44,8,19,10,0,3,83,0,2.34,No
+30176,Finance,Female,56,Analyst,2011-07-01,4,High School,2.39,20903,37,1,24,1,0,3,67,2,3.27,Yes
+30177,Operations,Male,24,Analyst,2015-11-03,7,Bachelor,4.48,68396,38,6,28,8,2,13,82,0,2.28,Yes
+30178,Finance,Female,49,Engineer,2017-07-19,5,PhD,4.72,170348,38,5,22,9,1,7,51,1,3.62,No
+30179,HR,Female,23,Engineer,2014-05-20,9,Diploma,3.94,41620,35,3,3,4,4,10,50,0,4.26,No
+30180,Marketing,Male,56,Consultant,2012-03-21,9,Master,5.0,169004,46,8,10,3,0,7,50,1,3.04,No
+30181,Operations,Male,32,Engineer,2022-04-12,0,PhD,4.57,173447,43,4,6,2,0,4,72,0,2.38,No
+30182,Finance,Male,48,Specialist,2016-04-13,14,Master,5.0,129645,53,4,6,8,2,13,25,1,3.71,No
+30183,Operations,Female,56,Manager,2021-04-26,12,Diploma,5.0,62358,59,11,8,11,2,2,36,1,3.78,No
+30184,Sales,Female,28,Engineer,2011-05-11,3,PhD,3.62,99405,42,6,28,5,4,8,66,0,3.09,No
+30185,Sales,Female,51,Engineer,2019-05-22,1,Diploma,1.94,35250,35,7,3,5,0,13,79,2,2.93,No
+30186,Sales,Female,48,Engineer,2017-02-24,14,PhD,5.0,180000,59,10,32,1,0,13,74,0,3.14,No
+30187,Marketing,Male,27,Specialist,2010-02-08,10,High School,4.24,43362,48,2,3,1,3,9,29,0,3.79,Yes
+30188,Operations,Female,46,Engineer,2015-07-26,2,PhD,5.0,180000,43,2,1,6,4,5,30,0,2.38,Yes
+30189,Finance,Female,53,Consultant,2020-12-30,9,Master,5.0,144049,35,8,1,10,0,13,61,1,3.69,No
+30190,HR,Female,35,Analyst,2020-07-01,6,High School,3.54,20502,58,5,7,8,3,13,12,1,2.96,Yes
+30191,IT,Female,57,Analyst,2012-09-27,3,Bachelor,2.73,44869,51,3,28,7,1,4,45,0,3.56,No
+30192,Marketing,Female,54,Analyst,2017-04-15,3,Diploma,2.21,17172,54,9,30,1,1,8,80,1,4.61,No
+30193,IT,Female,48,Analyst,2019-03-06,1,Bachelor,4.64,46017,41,11,27,11,3,3,41,2,3.49,No
+30194,Finance,Female,25,Specialist,2017-05-19,4,Bachelor,4.46,59226,55,11,14,4,3,4,80,0,3.34,No
+30195,Finance,Male,57,Engineer,2017-07-23,14,High School,4.29,43378,47,8,18,1,0,8,98,0,3.12,No
+30196,Sales,Female,29,Specialist,2020-10-11,11,Master,4.9,123176,49,6,2,6,2,13,57,1,4.72,No
+30197,Sales,Male,40,Engineer,2020-12-10,7,PhD,5.0,180000,51,10,9,3,3,12,51,0,3.04,Yes
+30198,Finance,Male,58,Consultant,2016-05-09,9,Bachelor,4.53,89362,48,8,25,5,1,6,42,1,2.18,No
+30199,Sales,Female,29,Analyst,2010-12-21,2,Bachelor,1.82,50294,50,9,26,5,4,7,12,2,2.33,No
+30200,Finance,Female,47,Engineer,2011-10-26,6,Bachelor,2.94,46868,54,6,0,9,4,9,15,1,2.55,No
+30201,Finance,Female,55,Consultant,2018-08-09,11,Diploma,4.65,52026,37,8,11,2,0,9,62,2,2.11,No
+30202,Operations,Female,59,Engineer,2022-12-18,14,Bachelor,5.0,70464,51,1,8,8,1,3,9,0,3.41,No
+30203,Finance,Female,42,Engineer,2022-04-02,12,Bachelor,5.0,106349,51,7,15,8,0,14,74,1,3.44,Yes
+30204,Finance,Female,48,Manager,2012-03-09,11,High School,3.01,51031,54,4,22,9,1,9,63,2,4.23,No
+30205,IT,Male,57,Engineer,2012-06-06,5,Master,5.0,143050,56,4,13,1,1,12,88,1,2.5,Yes
+30206,Sales,Male,51,Analyst,2019-07-10,9,Diploma,3.53,24862,42,6,8,3,4,8,86,2,4.03,No
+30207,Operations,Male,52,Consultant,2021-02-06,4,High School,3.11,36522,45,3,29,7,1,10,77,1,3.44,No
+30208,HR,Male,34,Analyst,2021-12-11,2,High School,2.89,18477,48,5,2,2,4,12,91,2,4.52,No
+30209,Finance,Female,40,Specialist,2019-06-05,0,Bachelor,1.04,44292,51,9,25,11,0,14,90,1,3.74,No
+30210,Operations,Male,51,Specialist,2010-08-25,3,High School,1.91,25277,43,5,29,4,2,10,87,2,3.73,Yes
+30211,Marketing,Male,39,Specialist,2020-01-27,5,Master,4.64,93123,59,8,23,0,0,14,89,1,4.5,No
+30212,HR,Male,43,Manager,2013-11-29,7,High School,2.39,31714,48,11,13,1,4,7,97,2,4.74,No
+30213,Marketing,Male,35,Manager,2019-03-28,9,High School,2.89,30076,54,9,20,8,1,13,45,0,3.58,Yes
+30214,Marketing,Female,30,Analyst,2011-02-01,0,High School,3.36,18196,47,11,15,9,1,2,51,2,2.65,Yes
+30215,HR,Female,30,Specialist,2017-06-24,10,Master,4.07,164052,45,2,14,10,1,14,96,0,3.32,No
+30216,HR,Male,22,Specialist,2018-07-14,2,Master,4.81,155285,35,5,1,1,4,7,73,1,3.16,No
+30217,Sales,Male,38,Engineer,2011-02-20,11,Master,4.19,94723,36,3,2,2,2,14,5,1,3.5,No
+30218,Operations,Male,53,Consultant,2013-04-20,12,Master,5.0,157258,47,3,15,9,4,12,59,1,4.34,No
+30219,IT,Female,26,Analyst,2013-07-19,1,Diploma,3.08,18776,39,8,23,1,0,6,72,0,3.6,Yes
+30220,Sales,Female,52,Analyst,2021-09-24,10,Bachelor,5.0,65640,47,4,24,1,4,8,43,1,3.1,No
+30221,Operations,Male,38,Manager,2010-07-25,3,Bachelor,4.05,106087,47,2,34,10,1,9,98,2,2.33,No
+30222,Finance,Male,38,Engineer,2012-12-18,14,Diploma,4.53,45327,39,8,31,6,0,9,83,0,3.01,No
+30223,IT,Male,40,Engineer,2020-07-28,7,Diploma,2.19,42367,51,1,25,5,2,2,92,0,4.19,Yes
+30224,Marketing,Male,31,Engineer,2015-03-15,0,Diploma,2.12,31976,49,8,12,9,4,12,32,2,4.59,No
+30225,HR,Female,49,Consultant,2011-06-15,12,High School,3.39,38147,52,6,8,9,1,11,23,1,4.27,No
+30226,Operations,Female,45,Engineer,2021-11-21,13,Master,5.0,180000,45,8,29,5,4,9,65,0,4.6,No
+30227,HR,Male,35,Engineer,2011-08-01,8,Master,5.0,164729,40,9,17,5,4,5,85,1,2.5,No
+30228,Sales,Female,50,Analyst,2017-06-14,5,High School,3.37,15524,46,4,24,1,2,13,89,0,4.5,No
+30229,Sales,Female,33,Analyst,2012-09-29,11,Diploma,2.88,22533,50,3,5,5,3,7,36,1,4.51,No
+30230,HR,Male,50,Consultant,2019-06-02,0,Diploma,2.1,27109,54,10,19,9,2,6,72,2,4.37,No
+30231,Finance,Male,43,Engineer,2011-04-15,8,Master,5.0,141570,51,3,23,3,3,6,87,2,4.42,No
+30232,Operations,Female,53,Manager,2021-02-02,4,Bachelor,3.99,90930,44,8,15,2,3,7,65,1,3.19,No
+30233,Operations,Female,39,Manager,2017-07-27,8,Bachelor,3.04,78310,57,8,16,5,1,10,30,2,2.19,No
+30234,Sales,Female,58,Engineer,2014-08-13,7,Diploma,3.39,37727,42,3,10,1,0,9,65,0,2.34,No
+30235,Sales,Male,43,Manager,2018-02-13,3,Bachelor,4.95,120637,41,7,1,0,1,8,96,1,2.24,Yes
+30236,Operations,Male,56,Analyst,2013-03-29,2,Master,3.01,46038,54,2,32,0,2,3,24,2,2.77,No
+30237,Marketing,Male,36,Specialist,2013-07-25,0,PhD,4.14,180000,39,11,9,0,4,13,7,1,3.58,Yes
+30238,Finance,Female,58,Engineer,2015-06-20,14,High School,3.34,28805,56,5,0,4,1,12,59,0,4.69,Yes
+30239,Operations,Male,26,Manager,2019-07-05,13,Bachelor,5.0,132143,37,1,26,1,4,2,93,0,3.32,No
+30240,HR,Female,42,Consultant,2018-11-12,13,High School,4.86,51499,52,1,22,2,0,14,34,0,4.37,No
+30241,Finance,Female,22,Engineer,2018-07-09,8,Master,5.0,145007,43,2,25,10,0,2,29,1,2.37,No
+30242,IT,Female,50,Consultant,2015-05-14,13,Bachelor,5.0,123300,51,5,6,2,1,8,87,1,3.59,No
+30243,IT,Male,24,Engineer,2020-09-22,10,Diploma,3.76,49058,52,5,17,5,3,2,54,1,4.63,No
+30244,Marketing,Male,22,Consultant,2022-01-05,13,Diploma,4.08,40551,48,4,2,3,3,12,97,2,2.96,No
+30245,Marketing,Male,36,Engineer,2019-12-02,13,High School,4.03,38891,47,10,20,4,4,8,19,1,4.69,No
+30246,Operations,Female,43,Analyst,2018-09-10,6,Master,4.62,92191,53,8,3,9,2,14,52,0,2.97,No
+30247,Finance,Female,30,Specialist,2020-11-25,0,PhD,5.0,180000,48,8,18,2,4,5,46,0,4.58,No
+30248,Operations,Male,36,Engineer,2011-08-11,6,PhD,5.0,180000,49,9,0,3,4,4,18,0,2.97,No
+30249,Operations,Female,55,Manager,2019-12-30,7,PhD,5.0,161298,57,7,21,0,4,4,83,0,4.67,No
+30250,Marketing,Male,56,Engineer,2015-10-27,14,High School,2.8,39304,47,3,29,3,3,9,94,1,2.1,Yes
+30251,Finance,Female,48,Consultant,2022-06-11,8,Master,5.0,162006,45,6,2,6,2,12,61,2,3.29,No
+30252,IT,Male,33,Engineer,2012-05-12,1,High School,2.61,17761,44,7,10,7,0,3,47,0,3.25,No
+30253,IT,Male,26,Specialist,2016-10-13,12,PhD,5.0,180000,43,10,10,1,1,8,27,2,3.52,No
+30254,Operations,Male,35,Consultant,2013-07-14,7,Master,3.41,78278,52,2,3,1,1,2,57,2,3.31,Yes
+30255,HR,Male,28,Engineer,2014-03-31,9,Master,4.91,83833,48,2,20,0,4,4,42,2,4.74,No
+30256,IT,Female,22,Consultant,2010-08-27,2,Master,4.42,80804,36,9,5,11,1,4,55,1,2.08,No
+30257,Sales,Female,56,Consultant,2019-09-13,13,PhD,5.0,180000,52,7,1,5,3,3,35,2,2.92,No
+30258,Marketing,Male,23,Engineer,2014-04-13,12,Master,4.1,169514,47,4,20,11,3,5,61,2,2.67,Yes
+30259,Operations,Male,46,Analyst,2018-05-14,13,PhD,5.0,147470,50,3,6,6,1,11,89,1,3.42,No
+30260,IT,Male,40,Engineer,2012-12-08,1,High School,2.87,17546,56,6,34,8,3,4,92,0,2.23,No
+30261,Operations,Female,28,Analyst,2019-06-14,10,Bachelor,3.91,56989,46,11,18,4,3,6,85,0,3.64,No
+30262,Sales,Female,44,Engineer,2015-10-07,13,Master,5.0,180000,37,10,0,1,0,6,88,1,2.59,No
+30263,Sales,Female,36,Engineer,2011-05-09,6,Master,4.19,92567,56,3,20,9,2,9,82,1,4.22,No
+30264,Finance,Male,53,Engineer,2020-04-10,2,High School,1.77,30503,38,11,18,8,4,12,31,0,2.13,No
+30265,Operations,Female,24,Manager,2012-05-16,5,Bachelor,5.0,116424,56,5,18,4,1,5,74,1,3.3,No
+30266,Operations,Male,53,Consultant,2020-02-10,14,Bachelor,4.25,92470,48,1,21,5,2,8,75,1,4.57,No
+30267,Finance,Female,38,Consultant,2012-03-15,7,Diploma,4.83,52752,53,8,33,9,2,13,30,2,2.12,No
+30268,Sales,Male,58,Manager,2016-06-02,8,Bachelor,4.9,125205,41,2,28,8,4,10,88,0,4.43,No
+30269,IT,Female,33,Analyst,2012-03-19,3,Master,4.94,101278,40,2,5,11,1,14,87,0,3.27,No
+30270,IT,Female,37,Manager,2019-05-20,6,PhD,5.0,180000,39,9,27,0,4,14,6,2,2.14,Yes
+30271,IT,Male,44,Analyst,2017-05-07,7,Bachelor,3.61,53689,40,8,28,9,3,4,60,0,2.72,No
+30272,Operations,Female,32,Consultant,2020-06-22,11,PhD,5.0,180000,57,8,29,1,0,5,39,0,4.57,No
+30273,IT,Male,58,Consultant,2022-01-31,5,High School,5.0,37788,41,11,2,9,0,9,93,0,4.43,No
+30274,HR,Male,58,Consultant,2021-04-15,0,Bachelor,4.27,63390,47,3,23,8,4,13,64,1,2.06,No
+30275,IT,Male,44,Specialist,2021-08-04,2,High School,4.11,38719,44,2,12,10,3,10,33,1,4.61,Yes
+30276,Marketing,Male,47,Consultant,2012-11-17,12,Diploma,3.99,44533,49,8,4,7,1,3,60,2,2.18,No
+30277,Marketing,Female,58,Analyst,2015-08-06,1,Bachelor,3.92,58899,40,4,27,10,2,6,10,1,3.31,Yes
+30278,Marketing,Male,24,Consultant,2021-12-23,14,Bachelor,5.0,126412,36,10,15,9,2,12,64,2,2.3,No
+30279,Marketing,Male,51,Manager,2015-08-31,7,Diploma,3.41,45957,40,7,8,5,0,12,51,2,4.44,No
+30280,HR,Male,23,Specialist,2019-02-09,12,Bachelor,4.28,121345,55,2,3,9,3,14,16,2,3.96,No
+30281,Marketing,Male,42,Analyst,2013-07-19,12,Master,5.0,125939,52,4,20,4,2,4,11,1,3.49,No
+30282,IT,Male,50,Engineer,2019-07-16,1,Master,5.0,107090,40,2,21,6,3,5,69,1,4.07,No
+30283,Operations,Female,42,Specialist,2015-04-15,8,Bachelor,3.68,110129,55,11,29,9,0,10,86,0,4.31,No
+30284,Operations,Female,39,Manager,2013-07-12,12,Master,5.0,132643,59,9,15,4,1,5,36,0,4.39,No
+30285,Operations,Female,44,Engineer,2011-01-24,10,Diploma,2.58,31957,35,4,27,3,3,6,32,0,3.05,No
+30286,Operations,Male,23,Engineer,2014-11-23,0,Bachelor,3.9,73000,52,2,15,5,4,3,67,2,3.97,Yes
+30287,Marketing,Female,50,Analyst,2012-02-03,6,Bachelor,3.06,42524,49,6,3,0,3,5,20,2,3.2,No
+30288,Operations,Male,58,Engineer,2012-03-28,6,High School,2.54,19482,54,4,9,10,4,9,91,1,2.57,No
+30289,Sales,Male,48,Engineer,2017-05-12,10,High School,3.44,34323,56,3,9,9,2,10,56,2,2.98,No
+30290,Operations,Male,48,Consultant,2017-01-29,10,Diploma,4.07,54848,43,9,3,10,3,3,93,0,2.94,No
+30291,Operations,Female,52,Specialist,2012-03-15,11,Master,5.0,180000,40,1,24,7,4,8,37,0,3.56,Yes
+30292,Marketing,Female,28,Engineer,2013-05-03,3,Bachelor,3.4,38215,52,4,18,5,4,2,76,0,2.9,No
+30293,Sales,Female,45,Analyst,2021-09-09,11,Master,4.94,131830,54,6,1,3,3,6,45,0,3.33,No
+30294,Marketing,Female,23,Consultant,2022-05-26,4,Diploma,3.21,29191,44,3,23,6,1,6,82,1,2.27,No
+30295,Sales,Male,26,Specialist,2013-08-23,10,Diploma,4.46,59965,40,8,27,3,2,8,41,0,2.96,No
+30296,Marketing,Female,40,Analyst,2018-04-10,12,Master,5.0,142658,40,5,30,1,2,7,94,1,4.02,No
+30297,Sales,Female,41,Analyst,2017-03-06,5,Diploma,4.1,20114,55,2,23,1,0,9,48,0,2.31,No
+30298,Finance,Female,44,Engineer,2017-11-23,7,Bachelor,4.34,80196,44,7,32,5,0,4,24,0,3.47,No
+30299,Marketing,Female,54,Engineer,2016-03-13,0,Master,4.41,117763,50,7,8,7,3,2,41,1,2.29,No
+30300,HR,Female,33,Specialist,2012-08-19,2,Diploma,2.98,34190,35,8,33,0,2,6,69,0,3.9,No
+30301,HR,Female,34,Consultant,2015-03-23,0,High School,3.22,29096,37,8,28,0,0,11,99,0,4.68,No
+30302,Sales,Male,27,Specialist,2014-09-25,12,Bachelor,4.82,55682,56,6,31,10,1,10,54,0,2.67,No
+30303,Marketing,Female,31,Analyst,2019-04-21,14,Diploma,4.47,31746,46,9,29,11,3,13,9,0,4.32,No
+30304,Marketing,Female,54,Manager,2015-01-16,11,Bachelor,3.91,95331,46,10,6,5,3,14,56,0,3.2,No
+30305,HR,Male,31,Engineer,2021-03-25,3,Diploma,2.32,29566,50,7,15,0,4,9,37,0,3.29,No
+30306,HR,Male,36,Engineer,2017-04-20,0,Bachelor,3.53,56696,38,9,7,10,2,10,64,0,2.69,No
+30307,IT,Female,57,Engineer,2016-03-24,8,Bachelor,4.25,66198,57,6,33,1,4,13,64,0,2.46,No
+30308,Sales,Male,38,Analyst,2021-11-13,0,Master,3.72,72854,37,3,11,6,1,10,69,1,2.28,No
+30309,Sales,Female,27,Specialist,2016-01-08,13,Diploma,5.0,65837,45,4,29,6,1,5,60,1,3.95,No
+30310,Finance,Female,24,Engineer,2021-04-29,3,Diploma,3.2,24139,48,7,32,0,3,13,42,1,3.2,No
+30311,Sales,Female,57,Specialist,2012-08-24,4,Bachelor,3.45,74976,48,4,18,7,0,4,57,2,3.25,No
+30312,Sales,Female,30,Manager,2016-09-15,5,Master,4.9,96020,59,2,8,2,3,13,19,2,3.11,No
+30313,HR,Male,22,Consultant,2018-11-27,5,PhD,5.0,180000,50,2,8,11,4,5,90,2,3.33,No
+30314,Finance,Female,39,Analyst,2015-11-12,14,Diploma,2.71,31306,54,5,23,10,2,5,30,0,2.93,No
+30315,IT,Female,57,Engineer,2014-08-28,10,High School,3.41,40977,47,1,6,11,3,13,56,2,4.06,No
+30316,Operations,Female,35,Engineer,2014-09-17,2,Diploma,3.53,27604,40,1,12,5,0,9,13,0,4.27,No
+30317,Sales,Female,54,Engineer,2020-09-02,12,Master,3.89,120871,47,5,18,9,0,4,55,1,2.46,Yes
+30318,Operations,Male,33,Specialist,2015-07-22,0,Bachelor,4.18,87136,42,4,10,0,2,12,64,1,4.77,No
+30319,Finance,Female,53,Analyst,2016-08-25,8,Master,5.0,110968,49,3,12,3,3,2,80,1,4.73,No
+30320,Operations,Male,29,Manager,2013-08-29,11,Bachelor,5.0,143195,57,10,32,6,3,2,96,2,3.23,Yes
+30321,IT,Female,29,Analyst,2014-01-30,13,Diploma,4.41,32032,47,3,34,3,2,12,30,2,3.81,No
+30322,HR,Male,58,Consultant,2014-11-10,13,Bachelor,4.43,65099,47,7,27,10,1,13,22,1,2.24,No
+30323,IT,Female,26,Consultant,2014-12-11,9,Master,5.0,151120,54,8,21,3,0,4,54,1,3.81,No
+30324,Finance,Male,39,Specialist,2011-10-04,13,Bachelor,4.14,73783,58,3,14,10,3,14,66,2,4.46,No
+30325,HR,Male,34,Analyst,2012-11-30,9,High School,3.19,17023,41,1,2,1,4,10,44,0,3.2,Yes
+30326,Operations,Male,52,Analyst,2021-05-14,0,Diploma,2.89,15433,41,3,4,11,0,14,55,2,2.93,No
+30327,Finance,Female,57,Manager,2016-02-15,9,Bachelor,5.0,107680,58,4,18,4,4,12,83,0,2.51,Yes
+30328,IT,Male,56,Manager,2014-03-28,9,Diploma,5.0,61777,46,7,14,0,4,10,82,2,3.66,No
+30329,Marketing,Female,39,Consultant,2020-09-17,0,High School,3.75,24925,38,11,23,4,0,11,24,0,4.13,No
+30330,Marketing,Female,52,Engineer,2012-05-03,6,Bachelor,3.86,64051,52,11,8,7,3,14,75,2,3.29,No
+30331,Operations,Male,26,Manager,2015-07-29,5,High School,3.65,33633,56,6,21,6,1,6,87,1,2.18,No
+30332,HR,Female,39,Engineer,2021-06-29,7,Bachelor,4.59,81105,56,4,16,8,4,3,44,1,2.06,No
+30333,Sales,Female,52,Specialist,2012-10-15,13,High School,4.09,49439,35,7,2,10,1,3,55,1,2.62,No
+30334,Sales,Female,34,Engineer,2020-02-08,1,Diploma,3.47,33767,40,8,5,5,2,9,56,1,2.23,No
+30335,Finance,Female,57,Engineer,2015-05-20,12,PhD,5.0,180000,40,8,16,0,0,9,95,0,2.07,No
+30336,Finance,Male,36,Engineer,2011-09-11,7,PhD,4.91,107907,54,6,8,4,4,12,84,2,3.33,Yes
+30337,Finance,Male,24,Analyst,2019-06-25,4,Bachelor,4.75,35262,50,9,27,3,0,7,11,0,2.65,No
+30338,Operations,Female,35,Manager,2012-04-28,3,High School,2.74,41765,51,6,12,7,1,8,91,0,3.55,No
+30339,Finance,Female,50,Specialist,2011-10-20,14,PhD,5.0,180000,50,2,10,7,1,9,85,1,2.88,No
+30340,Sales,Male,49,Consultant,2016-01-23,3,PhD,5.0,180000,50,5,17,9,0,4,21,1,3.28,No
+30341,IT,Female,50,Specialist,2021-07-13,0,Diploma,4.32,25776,43,9,28,1,0,10,79,1,4.02,No
+30342,Operations,Male,43,Specialist,2018-10-24,9,High School,3.95,33633,47,7,9,3,2,14,30,2,4.29,No
+30343,Sales,Male,34,Manager,2012-06-27,1,High School,2.27,40830,40,1,24,10,3,3,34,2,4.56,No
+30344,Sales,Male,41,Analyst,2011-05-22,10,Master,4.2,86790,36,10,17,11,0,11,35,0,4.52,No
+30345,Sales,Male,49,Analyst,2020-01-12,11,High School,3.03,22783,37,8,8,2,2,8,35,2,3.09,Yes
+30346,Marketing,Male,36,Engineer,2016-03-24,5,Bachelor,4.57,45904,45,7,33,11,2,8,33,0,4.45,No
+30347,Finance,Male,55,Consultant,2010-08-06,2,Diploma,3.54,25601,39,8,30,7,3,13,73,0,4.54,No
+30348,Sales,Female,29,Analyst,2017-09-06,3,Diploma,3.54,31875,39,3,5,5,3,7,68,2,3.1,No
+30349,IT,Female,31,Engineer,2021-05-17,14,High School,3.17,43610,36,4,17,5,2,11,38,1,2.22,No
+30350,Operations,Female,44,Specialist,2021-06-30,2,High School,3.41,26906,38,1,10,11,1,11,35,0,2.77,No
+30351,IT,Female,31,Analyst,2020-12-20,4,High School,2.53,22211,44,3,6,10,0,13,61,2,3.5,No
+30352,Finance,Female,38,Analyst,2022-02-26,6,Bachelor,3.19,53484,37,6,28,9,3,7,75,0,3.86,No
+30353,HR,Female,38,Analyst,2014-06-01,5,Diploma,3.16,34990,58,2,20,10,0,6,25,2,2.49,No
+30354,Marketing,Female,23,Analyst,2016-02-21,7,Master,4.63,116778,53,1,32,8,2,10,13,2,4.41,No
+30355,Marketing,Male,57,Engineer,2019-07-12,5,Bachelor,5.0,53071,41,2,6,11,0,13,74,1,2.37,No
+30356,Finance,Female,51,Engineer,2015-05-30,5,Master,5.0,82297,55,8,22,8,2,11,32,2,4.11,No
+30357,HR,Female,51,Analyst,2013-02-01,9,Diploma,3.26,33500,42,6,30,3,3,14,83,1,3.4,No
+30358,Finance,Female,52,Analyst,2014-02-17,13,Diploma,3.95,29568,48,7,17,4,3,11,58,1,2.82,No
+30359,IT,Female,27,Consultant,2015-01-05,9,PhD,5.0,180000,37,6,20,5,0,13,34,0,3.88,Yes
+30360,Operations,Male,39,Consultant,2015-05-16,12,PhD,4.64,180000,40,4,30,3,3,6,93,2,3.22,No
+30361,Marketing,Male,51,Specialist,2010-04-20,5,Bachelor,3.8,49746,55,3,12,2,1,2,79,2,3.82,No
+30362,Finance,Female,46,Manager,2010-12-06,14,PhD,5.0,180000,35,7,15,7,4,5,23,1,4.34,Yes
+30363,IT,Male,48,Consultant,2016-11-29,2,Master,4.5,70448,50,1,34,0,1,14,33,2,3.63,Yes
+30364,Operations,Male,39,Analyst,2016-01-25,1,Master,5.0,95657,47,8,19,1,4,6,45,2,2.75,No
+30365,Operations,Female,58,Manager,2021-02-19,14,Bachelor,5.0,114504,35,7,10,2,0,5,80,1,2.28,Yes
+30366,Marketing,Female,23,Engineer,2013-06-13,1,High School,3.65,17108,49,10,31,1,0,11,24,2,2.79,No
+30367,HR,Female,43,Consultant,2022-07-11,10,Bachelor,4.25,58380,54,1,14,1,4,13,12,2,3.42,No
+30368,Operations,Female,41,Consultant,2018-10-08,9,PhD,5.0,180000,53,11,21,9,4,4,60,1,4.06,Yes
+30369,IT,Female,54,Analyst,2017-12-01,2,Bachelor,2.9,33928,54,7,25,0,3,12,97,0,4.65,No
+30370,HR,Male,56,Engineer,2019-05-21,11,Bachelor,5.0,106280,51,11,13,9,2,2,39,1,3.57,Yes
+30371,Sales,Female,35,Specialist,2021-07-23,14,High School,3.48,32516,51,2,20,1,1,9,23,1,2.22,No
+30372,Operations,Male,42,Manager,2019-04-26,0,Diploma,3.1,49672,55,10,11,3,3,2,87,1,4.63,No
+30373,Operations,Male,24,Manager,2015-07-25,5,High School,2.11,30661,53,1,16,2,1,4,76,2,3.5,Yes
+30374,HR,Female,27,Consultant,2010-01-13,9,PhD,4.87,151407,48,5,23,5,3,10,20,1,4.41,No
+30375,Marketing,Male,51,Analyst,2020-02-07,3,PhD,4.59,123347,39,8,6,1,4,8,81,1,2.28,Yes
+30376,Finance,Male,23,Consultant,2017-07-24,12,Master,4.85,154231,35,11,8,4,4,10,85,2,4.39,No
+30377,Finance,Female,45,Engineer,2010-11-08,11,Bachelor,4.28,61575,39,3,6,1,0,13,34,2,3.58,No
+30378,Finance,Male,59,Engineer,2010-10-24,13,Bachelor,5.0,82930,36,8,29,1,2,11,59,0,2.31,No
+30379,IT,Female,51,Analyst,2010-01-09,13,Diploma,3.94,33550,54,2,12,1,1,6,55,2,2.57,No
+30380,Operations,Female,54,Analyst,2020-09-03,12,Diploma,4.41,32873,53,1,5,9,0,13,55,2,3.43,No
+30381,HR,Male,52,Analyst,2011-06-19,6,Master,3.76,60487,59,10,10,8,4,8,24,1,2.45,No
+30382,IT,Male,37,Analyst,2019-04-09,11,High School,5.0,30142,53,3,31,11,0,8,58,1,3.99,Yes
+30383,Operations,Male,34,Specialist,2014-12-15,14,Master,5.0,114018,49,5,11,1,1,6,34,2,3.2,No
+30384,Sales,Male,42,Consultant,2013-04-08,5,Diploma,3.33,47300,49,3,13,5,2,7,72,2,4.03,No
+30385,Sales,Female,22,Manager,2013-02-14,11,Diploma,4.43,62446,47,7,1,8,0,3,70,2,2.8,No
+30386,Marketing,Male,37,Engineer,2010-12-07,2,Master,2.89,71915,54,1,17,2,4,7,76,1,3.46,Yes
+30387,Marketing,Female,53,Manager,2011-02-03,13,Bachelor,5.0,149213,54,10,9,2,4,2,63,1,4.03,No
+30388,HR,Female,30,Manager,2016-07-16,9,PhD,5.0,180000,53,1,9,7,4,9,6,1,4.01,Yes
+30389,IT,Male,25,Consultant,2019-01-19,13,Bachelor,4.0,91499,52,3,2,11,0,12,31,0,3.05,No
+30390,Finance,Female,23,Manager,2020-08-09,14,Master,5.0,180000,49,5,32,1,1,4,46,1,4.2,No
+30391,Sales,Male,43,Consultant,2014-02-14,1,Bachelor,3.1,59311,43,11,30,7,2,12,94,1,3.04,No
+30392,IT,Male,39,Analyst,2016-05-27,14,PhD,5.0,180000,53,5,13,5,4,5,72,2,3.12,No
+30393,Operations,Male,34,Engineer,2012-01-27,6,Diploma,3.74,38098,41,11,31,11,3,3,69,1,2.15,No
+30394,Marketing,Male,44,Engineer,2016-02-29,10,Diploma,3.36,28364,44,1,28,5,4,7,85,2,4.03,No
+30395,IT,Female,38,Engineer,2021-12-17,14,PhD,4.54,180000,58,3,13,8,1,8,45,0,4.78,Yes
+30396,Finance,Male,51,Manager,2017-08-21,11,Master,4.25,180000,37,4,25,3,2,5,47,0,2.54,No
+30397,Sales,Female,49,Manager,2014-09-26,13,High School,3.62,42492,50,7,24,10,0,5,74,0,3.19,Yes
+30398,Marketing,Male,44,Analyst,2016-05-23,1,Master,3.11,69949,52,5,32,8,1,6,31,1,4.03,No
+30399,Finance,Male,35,Analyst,2017-10-08,7,Bachelor,3.77,54304,36,3,20,6,2,13,93,1,3.19,No
+30400,Marketing,Female,25,Engineer,2013-08-28,11,High School,3.77,34579,52,10,14,7,1,5,59,0,3.78,No
+30401,Finance,Male,44,Analyst,2015-05-02,9,Master,4.59,116411,48,5,16,4,4,3,11,2,2.93,No
+30402,Operations,Female,44,Engineer,2014-07-14,13,PhD,5.0,180000,58,3,20,9,3,3,33,0,4.7,Yes
+30403,HR,Male,37,Engineer,2016-09-18,14,Master,5.0,168879,35,7,22,9,1,7,34,2,4.57,No
+30404,IT,Female,45,Analyst,2013-07-21,9,Master,5.0,77638,59,2,8,0,0,5,98,2,3.99,No
+30405,Marketing,Female,52,Consultant,2019-08-15,11,Bachelor,4.23,90270,59,9,19,3,3,10,70,1,4.27,Yes
+30406,Operations,Female,37,Manager,2015-07-21,4,High School,3.32,44476,43,1,18,10,3,9,69,1,3.61,No
+30407,IT,Female,30,Engineer,2020-10-15,9,Diploma,4.08,47748,48,4,30,2,4,7,89,1,3.52,No
+30408,IT,Male,56,Engineer,2019-02-13,3,Master,4.01,131344,56,2,4,3,1,2,86,0,3.57,Yes
+30409,Sales,Female,58,Manager,2021-05-17,5,Bachelor,5.0,125478,48,1,11,9,2,4,52,0,4.39,No
+30410,HR,Female,33,Analyst,2021-01-28,10,Master,3.5,116913,55,1,12,6,2,5,55,2,3.94,Yes
+30411,HR,Female,33,Consultant,2019-07-17,8,PhD,5.0,180000,40,10,26,10,2,14,77,2,4.13,No
+30412,HR,Male,43,Specialist,2016-11-11,14,PhD,5.0,180000,45,10,7,6,2,11,83,1,3.3,No
+30413,Operations,Male,38,Analyst,2017-04-19,7,Bachelor,4.59,60709,50,3,14,6,2,13,69,1,3.09,No
+30414,Operations,Female,34,Analyst,2017-08-12,7,Diploma,2.54,27322,47,10,15,0,3,9,85,0,3.99,Yes
+30415,Marketing,Female,26,Specialist,2018-03-14,1,Master,3.8,150288,40,11,21,11,3,5,73,1,2.33,Yes
+30416,Marketing,Female,58,Engineer,2013-01-26,9,Bachelor,5.0,102492,53,7,8,9,2,10,9,2,3.64,No
+30417,IT,Male,44,Analyst,2012-01-01,7,Master,4.04,67444,51,8,27,1,4,13,42,0,4.75,Yes
+30418,Operations,Male,55,Engineer,2010-03-24,13,Bachelor,5.0,96776,52,11,16,6,0,10,32,1,4.8,No
+30419,Operations,Female,31,Engineer,2018-01-21,3,Bachelor,3.85,63624,59,8,15,10,3,4,22,0,3.67,Yes
+30420,Operations,Female,39,Engineer,2012-10-20,3,Bachelor,5.0,81830,59,1,3,1,3,10,89,1,3.61,No
+30421,Marketing,Male,41,Analyst,2015-08-18,8,Diploma,3.2,23232,49,7,24,6,3,11,61,2,2.0,No
+30422,Sales,Male,56,Engineer,2015-12-31,9,Master,4.38,123682,41,3,3,1,0,9,13,1,4.33,No
+30423,Operations,Female,59,Specialist,2015-01-11,3,PhD,5.0,180000,42,4,15,5,2,4,9,1,4.33,No
+30424,Sales,Female,28,Analyst,2012-08-22,5,Bachelor,3.98,69388,39,8,32,3,1,3,22,2,2.25,No
+30425,Marketing,Male,41,Analyst,2012-04-08,1,Bachelor,3.07,49519,40,2,31,10,4,13,89,1,4.57,Yes
+30426,Marketing,Female,38,Specialist,2019-02-14,1,Bachelor,3.52,53171,42,9,12,4,3,12,98,1,4.66,No
+30427,IT,Male,33,Analyst,2021-01-21,14,Master,4.52,83032,55,11,18,10,1,5,13,2,4.29,Yes
+30428,IT,Female,28,Engineer,2011-09-14,0,Diploma,3.02,33995,42,6,23,8,2,12,59,1,3.41,No
+30429,Sales,Male,39,Specialist,2011-11-06,8,High School,3.05,26629,49,2,21,2,0,12,98,0,4.27,Yes
+30430,Finance,Female,24,Consultant,2018-10-19,14,High School,4.77,31102,56,3,27,4,3,12,25,0,2.94,No
+30431,IT,Female,56,Engineer,2013-10-06,7,Bachelor,4.71,89546,37,6,23,4,3,9,64,0,3.03,No
+30432,Finance,Female,38,Analyst,2015-08-22,2,Bachelor,3.07,38145,39,1,25,1,4,8,96,1,4.66,No
+30433,HR,Male,55,Specialist,2011-12-05,6,Bachelor,5.0,82037,43,3,28,6,4,2,53,1,3.15,No
+30434,IT,Male,45,Manager,2018-01-05,10,Master,5.0,159425,53,10,23,8,0,2,62,2,4.15,No
+30435,Sales,Male,54,Engineer,2020-04-23,5,Bachelor,4.19,40709,46,1,5,3,3,5,8,2,2.05,No
+30436,IT,Female,44,Consultant,2019-07-07,6,Diploma,3.61,30846,47,6,30,3,3,9,68,0,2.18,No
+30437,Operations,Female,49,Manager,2011-09-10,1,Master,2.93,114193,45,5,29,4,3,12,72,2,2.93,No
+30438,Finance,Female,22,Engineer,2015-08-01,7,PhD,5.0,180000,37,3,24,2,3,7,73,2,4.21,No
+30439,Operations,Female,35,Manager,2011-03-07,7,Diploma,3.45,63636,56,9,18,2,3,6,66,1,2.52,No
+30440,HR,Male,45,Analyst,2014-01-23,4,Diploma,3.14,17719,53,5,24,5,1,8,6,1,2.89,No
+30441,Marketing,Female,52,Consultant,2013-03-03,7,Diploma,4.0,51985,57,3,20,1,2,8,96,0,4.33,No
+30442,Sales,Male,41,Specialist,2018-03-04,0,Bachelor,2.8,72309,58,8,0,4,3,6,92,0,2.58,No
+30443,Marketing,Male,34,Manager,2013-08-04,3,PhD,5.0,165088,54,3,0,2,0,13,24,2,3.86,No
+30444,Sales,Male,29,Engineer,2013-10-17,2,Bachelor,3.68,60485,59,7,18,4,4,14,33,1,3.68,Yes
+30445,Marketing,Male,30,Manager,2021-04-27,6,Diploma,3.41,52036,57,11,13,4,0,9,36,0,3.8,Yes
+30446,Finance,Female,25,Consultant,2016-01-02,2,Master,4.27,104270,35,7,25,5,2,8,45,2,3.34,No
+30447,Sales,Male,52,Engineer,2013-05-05,5,Master,5.0,85416,41,8,26,3,0,2,16,2,4.37,No
+30448,Sales,Female,34,Engineer,2011-02-23,2,Diploma,2.83,40902,41,10,30,6,1,9,87,1,4.77,No
+30449,HR,Female,52,Consultant,2017-02-28,4,Diploma,4.5,48294,50,3,19,4,3,10,69,2,3.3,No
+30450,Sales,Female,29,Specialist,2010-07-23,12,Bachelor,5.0,126799,36,10,18,4,1,9,27,2,4.03,Yes
+30451,Sales,Female,27,Engineer,2020-03-29,6,Master,4.95,115132,52,10,21,7,2,4,27,2,2.18,Yes
+30452,Marketing,Male,54,Specialist,2018-01-04,2,Bachelor,4.11,61036,45,3,15,7,1,14,57,0,2.57,No
+30453,HR,Male,49,Specialist,2022-01-26,13,High School,3.43,27916,49,1,34,5,4,4,6,1,2.82,Yes
+30454,HR,Male,56,Specialist,2016-07-15,14,High School,3.3,51667,54,3,27,8,0,6,22,1,3.19,Yes
+30455,IT,Female,29,Specialist,2016-11-22,10,Master,5.0,180000,44,4,19,2,1,8,68,0,3.66,Yes
+30456,Marketing,Male,24,Engineer,2014-11-15,13,Diploma,5.0,34210,41,9,32,2,1,7,19,1,3.55,No
+30457,HR,Male,35,Analyst,2011-07-14,9,High School,4.11,27278,49,8,26,11,2,4,48,1,4.01,No
+30458,Operations,Female,37,Analyst,2017-04-27,0,Diploma,4.42,24667,44,2,26,0,3,2,50,1,3.34,No
+30459,Sales,Male,46,Engineer,2022-12-30,12,Master,5.0,142366,47,2,14,4,4,6,52,1,2.74,No
+30460,Finance,Male,31,Analyst,2019-12-24,1,PhD,4.9,138990,44,3,32,3,3,2,13,2,2.99,No
+30461,IT,Female,33,Consultant,2016-06-25,8,PhD,5.0,138198,56,4,12,1,3,12,81,2,3.78,No
+30462,Marketing,Female,27,Consultant,2016-07-22,12,High School,4.56,43163,46,3,17,6,1,3,19,2,2.7,No
+30463,Marketing,Male,52,Engineer,2014-01-25,11,Bachelor,4.24,90923,40,5,17,8,4,5,99,2,2.55,No
+30464,Marketing,Male,41,Analyst,2018-12-18,3,Diploma,3.88,25275,56,8,0,5,4,4,77,2,4.41,No
+30465,HR,Female,43,Engineer,2016-11-19,13,Bachelor,4.06,78277,59,10,2,8,1,2,12,2,4.78,No
+30466,IT,Female,31,Engineer,2020-03-07,4,Bachelor,3.67,44626,45,1,0,11,4,10,67,0,2.71,No
+30467,HR,Male,42,Analyst,2011-05-06,1,Diploma,3.04,18140,38,11,10,4,1,4,34,2,4.48,No
+30468,Marketing,Female,52,Analyst,2018-05-14,2,Diploma,3.32,28400,57,3,24,5,4,8,87,2,3.37,Yes
+30469,Finance,Female,35,Analyst,2015-10-26,0,Bachelor,3.39,27443,35,11,4,7,0,14,32,1,2.38,Yes
+30470,Finance,Male,54,Analyst,2022-11-30,3,Diploma,3.02,33003,48,6,24,8,3,14,9,2,4.62,No
+30471,HR,Male,33,Consultant,2011-12-08,10,Diploma,3.29,58100,45,2,5,2,3,13,99,1,4.55,No
+30472,Operations,Female,37,Specialist,2020-09-11,5,Diploma,3.93,49730,56,2,23,3,3,3,20,1,3.66,No
+30473,IT,Female,32,Consultant,2010-07-31,11,PhD,5.0,142595,56,6,25,11,1,9,53,2,2.62,No
+30474,Marketing,Female,23,Analyst,2010-11-27,11,Bachelor,3.86,64717,44,4,11,4,4,2,93,0,2.13,No
+30475,Sales,Male,52,Analyst,2018-02-12,0,Bachelor,3.36,31777,50,2,5,5,4,10,89,1,4.19,No
+30476,IT,Female,50,Consultant,2017-01-08,2,Bachelor,3.28,43504,45,7,10,2,2,4,9,2,2.94,No
+30477,HR,Female,50,Consultant,2015-12-16,3,Bachelor,4.12,83125,59,8,10,11,4,13,41,0,3.59,No
+30478,HR,Male,56,Specialist,2019-01-05,12,High School,5.0,55082,37,2,20,7,2,8,54,1,2.6,Yes
+30479,Operations,Male,55,Specialist,2011-01-13,14,High School,4.37,44162,46,5,27,10,0,10,40,1,3.38,No
+30480,Operations,Male,23,Engineer,2021-04-05,4,Master,1.44,97362,47,5,20,10,4,10,26,1,4.2,No
+30481,Operations,Female,25,Analyst,2021-02-21,13,Master,4.86,92163,58,7,10,4,0,13,76,0,2.68,Yes
+30482,Marketing,Female,29,Consultant,2016-06-20,14,Diploma,3.83,55600,54,2,29,5,2,10,59,2,2.85,No
+30483,Sales,Male,41,Analyst,2018-08-08,3,Master,4.89,101385,54,1,23,0,0,10,93,0,2.79,Yes
+30484,HR,Female,46,Manager,2016-03-18,3,Diploma,2.7,47017,48,5,10,6,1,11,62,2,2.66,Yes
+30485,IT,Female,59,Engineer,2022-05-31,5,Diploma,4.27,30221,59,2,8,3,1,13,12,0,4.79,Yes
+30486,Finance,Female,47,Analyst,2015-05-02,10,PhD,4.98,116709,38,5,18,3,2,5,43,0,2.58,No
+30487,Finance,Female,34,Analyst,2013-01-04,6,Master,4.78,110981,39,1,31,1,1,2,60,2,3.0,No
+30488,HR,Male,49,Consultant,2011-05-20,12,PhD,5.0,180000,46,8,8,0,3,4,73,1,3.21,No
+30489,Sales,Male,38,Manager,2011-05-19,1,Diploma,4.27,41988,36,6,12,6,0,2,48,2,2.9,No
+30490,Sales,Female,53,Analyst,2019-01-09,2,Bachelor,3.11,38853,52,8,22,3,0,4,26,2,3.37,No
+30491,HR,Male,56,Manager,2010-07-03,13,Diploma,5.0,60523,50,8,30,0,3,8,45,2,3.37,No
+30492,Finance,Female,48,Analyst,2019-08-19,12,Master,5.0,139327,44,10,10,9,1,5,76,2,3.78,Yes
+30493,Finance,Female,34,Analyst,2015-10-20,13,High School,3.6,28951,55,11,16,10,4,12,99,1,4.16,No
+30494,IT,Female,55,Analyst,2012-03-27,2,Master,4.06,100320,59,10,0,9,1,2,95,1,3.23,No
+30495,Operations,Male,30,Specialist,2020-07-24,2,Master,5.0,152573,48,11,33,5,0,13,86,1,2.51,No
+30496,Sales,Female,30,Specialist,2011-11-04,1,PhD,5.0,179875,45,10,22,9,1,3,53,0,2.77,No
+30497,Finance,Male,29,Engineer,2017-05-07,13,Master,5.0,146540,37,3,2,9,4,10,78,1,2.61,No
+30498,Finance,Male,58,Engineer,2021-08-21,12,High School,3.21,46547,51,5,25,7,2,4,77,2,3.77,No
+30499,Sales,Female,50,Analyst,2015-02-27,1,Bachelor,4.29,60622,52,5,29,11,3,8,91,2,2.76,No
+30500,Marketing,Female,23,Analyst,2011-11-19,2,Master,3.88,105951,48,6,30,8,2,5,6,2,4.24,No
+30501,Operations,Male,58,Analyst,2013-09-26,8,PhD,5.0,160399,35,1,13,9,2,9,22,0,3.64,No
+30502,Finance,Male,59,Manager,2017-07-13,11,Bachelor,4.95,97345,47,2,4,7,2,6,10,0,3.32,No
+30503,Marketing,Male,41,Consultant,2012-02-23,12,Diploma,2.92,42103,43,8,24,10,4,5,62,2,4.41,Yes
+30504,Marketing,Female,37,Specialist,2010-10-08,11,Master,5.0,104135,51,5,9,2,4,13,87,0,3.52,No
+30505,HR,Female,47,Specialist,2018-12-17,5,High School,3.12,36743,59,1,30,9,2,14,5,1,4.55,No
+30506,Finance,Female,33,Analyst,2014-11-11,0,Bachelor,1.69,56383,56,5,20,2,2,6,29,2,2.15,Yes
+30507,IT,Female,29,Engineer,2012-10-21,9,Bachelor,3.71,86472,51,8,0,5,0,2,31,0,2.8,Yes
+30508,Sales,Female,47,Manager,2020-11-12,0,Diploma,2.65,36811,39,4,11,5,3,8,71,1,4.0,Yes
+30509,Finance,Male,39,Consultant,2015-05-01,5,Diploma,2.7,31473,55,10,3,2,3,14,31,0,2.56,No
+30510,IT,Male,23,Manager,2015-11-12,0,Master,4.01,151119,53,4,6,8,4,8,94,1,4.31,Yes
+30511,Operations,Male,39,Manager,2011-05-13,14,PhD,5.0,180000,42,5,4,11,2,10,57,1,2.73,No
+30512,Operations,Female,42,Engineer,2015-05-31,10,High School,1.45,22857,41,2,4,7,3,4,19,1,3.87,No
+30513,Finance,Female,56,Specialist,2013-04-20,0,PhD,4.16,92145,38,4,17,4,3,4,91,2,3.99,Yes
+30514,IT,Female,47,Engineer,2019-12-29,4,Bachelor,4.35,64691,51,8,2,5,0,11,35,2,3.59,Yes
+30515,Sales,Female,59,Consultant,2021-12-07,11,Bachelor,5.0,96961,39,5,32,11,3,4,13,1,3.09,Yes
+30516,HR,Female,31,Analyst,2013-05-15,13,Master,4.98,127692,43,4,9,9,0,4,48,2,4.09,No
+30517,Sales,Male,49,Engineer,2016-01-08,14,Bachelor,5.0,93504,39,3,16,0,3,12,20,0,4.77,No
+30518,Marketing,Female,43,Analyst,2012-09-25,10,Bachelor,4.77,38133,52,7,33,7,0,5,93,0,2.27,No
+30519,IT,Female,52,Analyst,2015-10-10,5,Bachelor,2.72,39434,39,6,8,7,1,12,6,1,2.95,Yes
+30520,Sales,Male,26,Analyst,2016-06-09,2,Diploma,3.43,23477,59,1,15,4,0,10,84,1,3.08,Yes
+30521,Marketing,Female,48,Analyst,2020-06-16,0,Diploma,2.19,27350,52,2,26,11,0,11,41,1,4.25,Yes
+30522,Sales,Female,22,Engineer,2015-11-15,13,PhD,5.0,152776,57,10,19,6,1,5,37,2,2.22,No
+30523,Marketing,Male,44,Analyst,2015-01-01,5,Bachelor,4.7,71826,37,8,18,10,2,8,35,0,2.88,Yes
+30524,IT,Female,52,Analyst,2016-10-24,9,Master,4.53,85089,55,3,32,1,4,10,19,0,2.4,No
+30525,HR,Female,53,Engineer,2019-05-04,9,Diploma,4.15,42067,43,8,28,11,3,9,58,2,2.78,Yes
+30526,Sales,Male,57,Consultant,2010-01-09,2,PhD,4.2,115087,56,3,30,0,1,7,81,2,2.8,No
+30527,Finance,Female,57,Engineer,2019-07-31,13,Bachelor,5.0,85118,39,5,29,8,4,13,67,2,4.26,No
+30528,IT,Male,45,Consultant,2014-04-11,11,Diploma,3.53,53569,55,1,14,1,2,2,98,2,3.33,No
+30529,Finance,Female,51,Analyst,2015-04-21,1,Master,2.82,98014,57,1,24,10,3,4,11,0,3.69,No
+30530,Operations,Male,25,Specialist,2017-02-25,11,Diploma,4.06,44238,48,10,16,11,2,3,65,2,2.56,Yes
+30531,Finance,Female,59,Analyst,2020-05-04,14,Bachelor,4.37,54520,41,2,2,10,1,4,80,1,3.76,No
+30532,Operations,Female,23,Consultant,2016-06-27,3,Bachelor,3.74,63162,50,3,13,5,2,7,19,0,3.8,No
+30533,Finance,Male,39,Specialist,2018-01-05,14,High School,3.15,30291,56,10,19,10,4,9,74,1,2.76,No
+30534,Operations,Female,26,Specialist,2022-04-10,13,Master,5.0,180000,42,3,28,8,2,6,93,0,2.38,No
+30535,HR,Male,27,Specialist,2018-07-28,6,Diploma,4.59,41494,55,6,1,6,4,10,30,0,4.67,No
+30536,Sales,Male,38,Specialist,2021-04-05,8,High School,4.2,33513,36,6,6,2,4,10,83,2,4.13,No
+30537,Sales,Male,37,Consultant,2014-08-17,12,Diploma,3.95,58621,55,3,13,11,1,10,57,2,4.57,Yes
+30538,Finance,Male,23,Analyst,2021-08-18,2,Bachelor,3.79,55142,56,10,31,3,0,3,46,0,3.94,No
+30539,Sales,Male,52,Manager,2016-10-14,2,Bachelor,4.27,80275,59,11,0,6,1,3,83,2,4.63,No
+30540,Operations,Male,30,Specialist,2018-01-26,13,Bachelor,4.55,63805,52,8,19,7,1,12,34,0,2.83,No
+30541,Sales,Female,45,Manager,2016-11-11,10,High School,4.29,57254,41,7,28,0,4,11,47,1,2.52,Yes
+30542,Operations,Male,25,Manager,2014-07-06,4,PhD,4.92,180000,38,9,27,4,3,5,46,2,2.16,Yes
+30543,HR,Female,54,Consultant,2010-11-14,0,Bachelor,3.37,69416,56,5,1,5,1,9,16,1,4.26,No
+30544,Finance,Female,34,Consultant,2013-06-12,6,Bachelor,4.02,87829,57,5,31,9,3,2,89,1,4.78,Yes
+30545,Operations,Male,22,Specialist,2017-05-23,12,High School,4.15,29135,47,3,2,8,2,11,77,2,4.02,No
+30546,IT,Female,48,Analyst,2018-12-27,2,High School,3.28,22115,51,5,33,7,1,5,55,2,4.27,No
+30547,Marketing,Male,49,Specialist,2011-01-01,13,PhD,5.0,180000,53,9,12,1,0,9,17,1,3.34,No
+30548,Sales,Female,55,Manager,2019-11-02,13,Diploma,4.69,62315,47,7,8,11,0,10,77,0,3.96,No
+30549,HR,Male,53,Specialist,2012-05-28,5,Diploma,3.79,32851,41,9,9,2,3,2,80,0,2.31,No
+30550,Operations,Female,51,Engineer,2019-07-25,13,Diploma,4.83,55424,53,7,7,10,0,4,7,2,3.25,No
+30551,Finance,Female,23,Consultant,2018-09-17,13,Diploma,3.16,52778,46,10,23,1,0,9,52,1,2.17,No
+30552,IT,Male,23,Specialist,2021-05-02,5,Master,3.23,172098,49,11,29,3,4,7,40,1,3.25,Yes
+30553,Operations,Female,57,Specialist,2022-08-31,5,Master,5.0,135187,42,8,15,6,1,14,34,1,3.48,No
+30554,IT,Female,36,Analyst,2021-11-07,9,PhD,5.0,180000,59,3,1,5,0,10,75,2,2.43,No
+30555,Sales,Female,31,Analyst,2018-06-11,7,High School,4.43,28729,54,6,0,3,3,4,60,0,3.66,No
+30556,Finance,Female,41,Manager,2015-06-02,7,Master,4.71,126286,40,9,7,10,4,3,54,1,4.14,Yes
+30557,Marketing,Male,41,Consultant,2022-03-06,4,Bachelor,3.59,41671,42,4,1,4,0,10,58,1,2.64,Yes
+30558,HR,Female,49,Manager,2015-05-17,1,Diploma,3.59,56094,46,7,18,4,1,6,91,2,2.81,Yes
+30559,IT,Female,34,Analyst,2010-12-03,9,PhD,3.86,91885,41,5,6,6,4,9,35,0,2.75,Yes
+30560,Finance,Female,54,Engineer,2013-11-03,14,Diploma,4.54,31269,55,5,31,5,4,4,33,2,2.43,No
+30561,HR,Female,41,Analyst,2022-08-02,6,High School,4.27,24380,40,7,29,7,3,14,34,0,3.14,No
+30562,IT,Female,38,Consultant,2014-06-18,8,Diploma,3.51,44156,49,4,3,9,4,7,10,0,2.08,No
+30563,HR,Male,58,Specialist,2010-01-14,14,PhD,5.0,180000,54,2,28,6,2,9,44,2,4.72,No
+30564,Marketing,Male,40,Engineer,2020-07-01,13,Master,4.2,84966,42,4,18,1,2,3,26,1,4.01,No
+30565,Sales,Female,32,Analyst,2019-07-10,10,Bachelor,4.69,82947,41,3,28,4,2,2,65,1,3.98,Yes
+30566,Marketing,Female,25,Consultant,2010-07-14,1,PhD,5.0,174714,52,5,5,8,3,10,7,1,3.68,Yes
+30567,HR,Male,50,Consultant,2019-05-13,6,Diploma,4.82,45424,58,10,33,8,2,11,61,1,4.07,No
+30568,Sales,Female,50,Specialist,2019-08-04,13,Bachelor,4.4,75851,48,10,2,3,2,14,81,1,4.62,No
+30569,HR,Female,58,Analyst,2015-01-19,1,PhD,3.8,85723,51,9,22,6,0,4,85,2,2.78,No
+30570,Sales,Male,41,Analyst,2022-02-12,9,Diploma,3.85,20727,53,8,28,7,1,10,90,1,4.29,No
+30571,Marketing,Male,30,Analyst,2021-03-31,12,High School,3.44,17993,44,11,16,9,4,8,94,2,4.16,No
+30572,Operations,Female,46,Manager,2014-01-09,8,PhD,5.0,180000,35,10,20,9,3,12,95,0,3.0,Yes
+30573,Operations,Female,33,Engineer,2021-10-31,13,PhD,5.0,180000,40,1,21,0,1,6,62,2,2.33,No
+30574,IT,Female,32,Manager,2018-10-07,8,Diploma,4.9,59019,57,9,21,9,2,10,80,1,2.46,No
+30575,Finance,Male,56,Analyst,2017-01-29,7,Bachelor,3.66,42019,56,10,16,7,2,13,40,2,2.56,No
+30576,Sales,Female,59,Engineer,2018-11-26,7,Bachelor,5.0,81709,45,2,9,6,4,14,19,0,2.75,No
+30577,Sales,Male,44,Manager,2016-04-23,1,Bachelor,3.21,72704,42,10,23,5,2,2,51,2,3.92,No
+30578,HR,Female,59,Specialist,2015-11-11,12,Master,4.56,118616,37,2,22,4,4,4,57,2,4.61,No
+30579,Finance,Female,33,Specialist,2021-10-12,7,Bachelor,3.43,54975,50,5,1,1,2,4,30,2,4.18,No
+30580,Marketing,Female,28,Engineer,2010-04-09,13,High School,4.81,42833,44,7,2,3,4,2,14,1,2.82,No
+30581,Marketing,Male,56,Manager,2020-08-23,12,PhD,5.0,177361,48,8,24,2,4,6,78,0,4.77,No
+30582,Marketing,Male,29,Analyst,2013-10-11,9,Bachelor,2.75,74953,48,7,24,8,4,12,24,0,4.38,No
+30583,Marketing,Female,38,Specialist,2021-12-03,11,Master,5.0,158479,35,11,26,11,3,12,31,1,4.5,No
+30584,Marketing,Female,54,Engineer,2022-01-15,9,Diploma,3.16,30158,58,2,10,0,1,4,98,2,3.34,No
+30585,Marketing,Male,26,Analyst,2017-09-08,6,Bachelor,4.34,53907,39,11,25,9,3,14,17,1,3.4,No
+30586,Operations,Male,26,Engineer,2015-01-31,7,Master,5.0,141927,51,2,17,1,3,10,52,1,2.14,No
+30587,IT,Female,36,Engineer,2013-06-24,3,High School,2.75,30500,36,5,15,3,2,6,76,1,2.04,No
+30588,Finance,Female,46,Specialist,2017-09-01,10,High School,4.43,40080,37,4,29,10,1,8,91,0,3.81,No
+30589,Marketing,Male,58,Consultant,2022-09-12,9,Diploma,4.29,53890,57,7,11,6,4,4,77,1,2.0,No
+30590,HR,Female,47,Engineer,2018-01-27,10,High School,3.02,35147,43,5,32,7,2,10,24,0,4.11,No
+30591,IT,Male,46,Engineer,2016-06-28,5,High School,3.38,25204,52,11,9,1,0,12,64,0,3.69,No
+30592,Operations,Male,51,Manager,2022-04-10,13,Bachelor,3.44,102066,44,7,12,4,0,12,96,0,2.66,No
+30593,Operations,Female,27,Specialist,2014-04-06,11,PhD,4.22,180000,46,2,7,10,1,4,15,2,2.61,No
+30594,Finance,Female,32,Consultant,2016-07-28,6,Master,5.0,124669,49,6,5,0,1,11,35,1,3.57,No
+30595,Sales,Male,46,Engineer,2013-09-01,0,Master,4.72,101630,37,7,0,4,4,9,46,1,3.9,No
+30596,Operations,Male,59,Specialist,2015-04-26,13,High School,5.0,51420,47,4,0,0,4,9,42,0,2.73,Yes
+30597,Operations,Male,41,Consultant,2015-10-03,1,Master,3.39,76694,41,8,21,1,1,10,26,0,2.44,No
+30598,Operations,Male,51,Engineer,2017-11-29,4,Master,4.29,84793,55,2,0,1,4,12,73,2,2.57,Yes
+30599,Sales,Male,50,Engineer,2020-04-09,5,High School,2.2,25050,57,5,15,6,0,12,26,0,3.83,No
+30600,IT,Female,58,Consultant,2013-11-05,13,Bachelor,4.28,69306,52,6,15,6,3,2,98,2,2.98,No
+30601,Operations,Male,59,Consultant,2012-08-25,9,Diploma,3.96,49106,57,11,1,9,3,13,20,0,3.01,No
+30602,HR,Male,37,Analyst,2013-05-08,0,Master,2.49,78155,48,2,5,5,3,4,30,2,3.8,No
+30603,Operations,Male,25,Manager,2018-08-07,0,High School,2.29,27691,41,10,18,10,0,9,9,0,2.55,No
+30604,IT,Male,34,Specialist,2010-05-10,9,Diploma,3.33,35589,37,10,29,4,3,4,93,0,2.64,No
+30605,Marketing,Female,44,Specialist,2011-02-28,5,Bachelor,3.42,59054,58,6,10,8,4,2,22,1,4.2,No
+30606,Sales,Male,59,Analyst,2011-03-20,7,PhD,5.0,180000,55,8,12,11,2,3,51,1,4.55,Yes
+30607,IT,Female,24,Specialist,2017-03-15,0,Diploma,3.39,22792,58,10,14,7,3,14,93,0,4.33,No
+30608,Marketing,Male,27,Manager,2022-03-16,12,Diploma,3.96,60789,58,3,9,5,0,10,34,1,2.19,No
+30609,Finance,Female,41,Specialist,2021-05-10,13,Master,5.0,180000,49,11,1,4,4,2,47,1,2.06,No
+30610,HR,Female,33,Analyst,2017-05-07,9,Diploma,3.53,28202,47,9,23,1,4,3,50,0,2.69,No
+30611,Marketing,Male,40,Specialist,2015-10-01,3,Bachelor,3.43,93181,57,5,8,6,3,3,43,0,4.73,No
+30612,IT,Male,55,Manager,2012-09-18,3,Bachelor,4.61,74327,49,11,15,0,2,4,42,1,3.02,No
+30613,HR,Female,25,Specialist,2017-11-24,5,Bachelor,4.21,87946,57,1,27,1,1,13,57,1,2.96,No
+30614,Operations,Female,33,Engineer,2017-12-03,8,Bachelor,4.17,73993,44,10,11,1,4,13,58,1,2.89,No
+30615,Finance,Male,31,Analyst,2013-07-06,9,Diploma,3.88,25350,46,7,0,3,0,14,16,1,4.51,Yes
+30616,Marketing,Male,42,Consultant,2019-02-01,3,High School,2.9,22376,42,5,26,2,1,2,16,1,4.3,Yes
+30617,Sales,Female,57,Engineer,2016-04-29,6,Diploma,2.51,32678,55,7,7,11,3,9,57,2,3.12,Yes
+30618,HR,Female,36,Manager,2010-06-23,12,PhD,5.0,180000,40,4,10,8,3,7,8,2,3.28,No
+30619,Operations,Male,54,Engineer,2014-03-18,0,Bachelor,3.61,62472,38,2,5,2,1,2,78,2,4.8,No
+30620,Operations,Female,32,Analyst,2019-12-20,0,Diploma,2.82,27757,45,1,19,9,0,3,56,0,4.58,No
+30621,Sales,Female,38,Consultant,2022-02-10,11,Diploma,4.16,46007,35,6,22,0,3,8,76,0,3.47,No
+30622,HR,Female,49,Specialist,2015-06-08,11,High School,3.92,46133,49,11,12,7,4,12,71,2,3.31,No
+30623,Marketing,Female,24,Manager,2012-01-25,0,High School,3.11,38826,58,10,26,9,2,6,43,0,2.98,No
+30624,Operations,Male,55,Engineer,2022-10-30,10,Bachelor,5.0,91722,44,3,11,11,0,9,77,1,2.2,No
+30625,IT,Male,43,Analyst,2016-08-02,6,Bachelor,4.29,38227,36,3,12,1,3,2,54,0,3.48,No
+30626,IT,Female,36,Engineer,2014-10-31,3,PhD,2.76,96136,44,4,0,1,1,5,53,2,2.4,No
+30627,IT,Male,35,Specialist,2013-01-08,10,Bachelor,3.9,71223,56,2,13,11,3,7,13,2,3.49,Yes
+30628,HR,Male,39,Specialist,2013-09-17,7,Master,5.0,133466,50,4,15,1,1,10,48,0,2.26,No
+30629,Sales,Male,37,Engineer,2021-08-12,0,Bachelor,2.75,61449,38,7,7,4,0,11,78,2,2.1,No
+30630,Marketing,Female,23,Engineer,2021-05-19,11,High School,3.09,35560,35,4,21,8,4,2,30,1,4.78,No
+30631,Operations,Female,22,Manager,2016-08-13,5,High School,3.08,52429,45,6,15,2,0,14,58,2,2.5,No
+30632,Operations,Female,40,Manager,2011-04-12,10,Diploma,3.9,59628,58,7,13,6,3,5,54,1,3.08,No
+30633,Marketing,Male,50,Manager,2018-12-19,13,Master,5.0,175692,40,2,15,10,4,4,89,1,2.26,No
+30634,HR,Male,38,Analyst,2017-12-18,2,Bachelor,3.75,54351,55,5,26,7,0,2,32,0,4.61,Yes
+30635,Finance,Female,55,Specialist,2011-07-26,9,High School,3.78,41287,55,9,21,0,3,8,15,0,4.62,No
+30636,Sales,Female,30,Engineer,2021-10-02,8,Diploma,3.55,35215,35,1,9,2,1,9,39,1,3.12,No
+30637,Operations,Male,52,Engineer,2012-05-08,4,High School,2.46,29881,46,4,17,3,0,4,92,2,4.17,No
+30638,Operations,Female,47,Analyst,2011-07-25,9,Bachelor,2.85,40727,45,6,14,7,1,14,78,2,2.34,Yes
+30639,IT,Male,50,Consultant,2016-09-15,12,Master,5.0,127050,49,4,30,4,3,13,67,0,3.27,No
+30640,Sales,Male,43,Engineer,2010-09-27,5,Diploma,4.04,45556,36,7,19,10,4,12,71,1,3.22,No
+30641,Marketing,Male,38,Specialist,2019-05-12,5,Master,5.0,133786,44,1,1,7,0,7,22,0,2.61,No
+30642,IT,Female,42,Analyst,2014-04-26,4,Diploma,2.37,34636,35,10,16,6,2,13,35,1,3.54,No
+30643,Marketing,Male,48,Manager,2016-01-12,11,Master,4.99,180000,41,11,11,7,3,10,74,1,2.82,No
+30644,Finance,Male,57,Consultant,2015-05-11,12,PhD,5.0,180000,52,2,20,3,0,9,36,2,3.68,No
+30645,Marketing,Female,44,Manager,2015-01-01,11,Diploma,3.49,57736,46,9,6,8,4,11,92,2,3.92,No
+30646,Marketing,Male,50,Analyst,2019-03-22,7,High School,2.6,27360,47,7,30,7,1,9,87,2,4.47,No
+30647,Sales,Female,57,Engineer,2016-08-20,14,High School,3.91,41127,59,4,21,10,3,10,61,0,4.2,No
+30648,HR,Male,56,Consultant,2018-09-14,13,High School,3.17,45864,52,3,30,3,3,11,11,1,4.54,No
+30649,Marketing,Male,42,Consultant,2013-07-14,5,Bachelor,4.0,83121,35,4,8,3,1,8,39,2,3.9,No
+30650,HR,Female,41,Engineer,2018-07-19,4,PhD,4.35,136615,47,1,28,4,2,13,16,2,3.09,No
+30651,Finance,Male,43,Consultant,2010-04-28,5,Diploma,3.68,41368,48,5,15,3,3,10,11,0,4.74,No
+30652,Finance,Male,51,Engineer,2014-11-15,13,High School,4.68,29353,51,11,28,1,3,9,9,0,4.04,No
+30653,Finance,Female,41,Engineer,2012-05-01,9,Diploma,2.39,39178,50,9,3,2,4,6,6,1,2.88,Yes
+30654,HR,Female,22,Consultant,2016-03-05,6,Diploma,3.37,48519,53,5,6,8,2,5,24,1,4.02,No
+30655,HR,Female,33,Consultant,2010-08-19,8,High School,3.1,45704,35,7,1,2,3,4,28,2,2.74,Yes
+30656,Marketing,Male,35,Consultant,2010-09-14,5,Bachelor,3.18,71971,54,11,25,10,2,2,73,2,3.57,No
+30657,Marketing,Male,38,Specialist,2018-02-03,14,High School,4.72,50941,40,10,23,4,1,14,97,0,2.44,No
+30658,Sales,Male,58,Analyst,2016-05-12,12,PhD,5.0,180000,41,11,7,8,2,8,79,0,3.34,No
+30659,IT,Male,35,Engineer,2022-07-31,0,Master,5.0,107469,38,7,18,8,0,10,98,2,4.24,Yes
+30660,Operations,Female,31,Specialist,2021-05-16,12,Diploma,5.0,57717,42,5,31,2,1,13,61,2,2.58,No
+30661,Sales,Male,30,Specialist,2020-10-04,3,High School,2.59,31029,52,6,10,0,1,4,62,1,2.16,No
+30662,Operations,Male,26,Specialist,2014-07-17,14,Diploma,3.89,40863,38,10,16,6,0,9,88,1,2.74,No
+30663,Marketing,Male,23,Analyst,2013-09-06,14,Bachelor,4.39,82405,51,3,32,10,2,6,74,1,4.75,No
+30664,Sales,Female,34,Engineer,2019-07-09,5,High School,3.48,23738,42,6,9,3,0,3,43,1,3.12,No
+30665,HR,Male,23,Engineer,2021-12-20,8,High School,3.56,29818,48,3,23,6,3,6,26,1,2.52,Yes
+30666,Sales,Female,25,Analyst,2016-12-05,5,Diploma,3.11,31042,54,11,25,9,0,3,95,0,4.2,No
+30667,HR,Male,47,Consultant,2016-02-24,8,Bachelor,4.47,48419,38,5,11,2,3,14,25,1,2.43,Yes
+30668,HR,Male,43,Specialist,2010-02-12,13,Bachelor,5.0,104551,42,10,32,11,3,9,86,0,2.69,No
+30669,IT,Female,51,Manager,2013-05-17,5,Bachelor,3.31,102742,35,8,2,2,4,2,17,1,4.57,No
+30670,Finance,Female,56,Specialist,2012-10-20,0,Diploma,2.44,34036,35,7,30,11,0,12,7,1,2.63,No
+30671,IT,Female,24,Analyst,2011-12-22,7,PhD,4.13,78676,48,2,32,4,1,11,42,1,4.27,No
+30672,Operations,Male,56,Consultant,2012-06-03,8,Bachelor,4.42,95220,41,6,25,10,4,5,74,1,2.81,No
+30673,Sales,Female,38,Consultant,2015-06-08,4,PhD,4.77,180000,51,2,25,9,2,11,62,1,3.72,No
+30674,Sales,Male,45,Analyst,2015-11-21,11,PhD,5.0,180000,49,2,22,11,2,11,70,1,4.67,Yes
+30675,HR,Male,54,Engineer,2010-11-29,11,Bachelor,5.0,60242,59,1,25,7,3,3,65,2,3.28,No
+30676,Marketing,Male,49,Engineer,2010-10-30,6,Master,5.0,129087,38,1,34,1,0,7,65,2,4.35,No
+30677,HR,Female,22,Engineer,2020-12-15,0,Diploma,3.18,26757,41,4,26,3,4,5,82,2,4.33,No
+30678,Finance,Female,38,Manager,2021-10-03,6,High School,4.29,54315,57,7,2,8,3,10,63,2,2.05,Yes
+30679,IT,Female,41,Consultant,2019-06-10,13,High School,4.74,44264,56,11,3,11,4,6,67,2,2.64,No
+30680,Operations,Male,57,Engineer,2014-06-08,1,Bachelor,3.37,74560,41,2,30,1,1,9,13,1,4.31,Yes
+30681,Operations,Male,53,Engineer,2020-05-23,7,Bachelor,4.11,86701,57,3,4,0,4,2,11,2,4.2,Yes
+30682,IT,Female,57,Consultant,2018-07-03,12,High School,4.53,48849,40,11,0,6,1,6,84,2,3.9,No
+30683,Sales,Female,50,Engineer,2018-09-23,14,Bachelor,5.0,101168,44,1,16,6,1,3,68,1,2.43,No
+30684,HR,Female,23,Analyst,2012-01-03,2,Bachelor,3.36,34583,41,10,25,5,0,14,15,2,3.08,No
+30685,Sales,Male,59,Consultant,2014-11-13,10,High School,4.24,38314,49,2,16,11,0,9,97,1,2.68,No
+30686,Marketing,Male,45,Specialist,2016-05-05,11,High School,4.7,51554,41,5,9,5,3,14,80,0,4.65,No
+30687,Marketing,Female,53,Analyst,2010-08-18,11,Bachelor,4.24,59065,56,3,9,0,2,2,97,1,3.59,No
+30688,Sales,Male,31,Engineer,2018-06-24,9,High School,3.87,41984,56,3,9,7,3,9,35,1,3.02,No
+30689,Marketing,Male,51,Analyst,2011-05-14,13,Master,4.81,108646,55,11,5,8,2,5,58,1,3.87,No
+30690,Sales,Male,44,Engineer,2019-08-28,4,Diploma,4.21,38832,58,11,1,7,4,7,81,2,2.61,No
+30691,IT,Female,33,Consultant,2010-11-28,3,Diploma,2.31,29360,35,9,24,3,2,4,48,2,2.09,No
+30692,Marketing,Male,32,Engineer,2021-01-05,12,High School,3.58,27626,54,11,8,7,0,5,74,1,4.78,No
+30693,Marketing,Male,58,Manager,2018-05-31,7,Diploma,2.4,34836,57,4,2,9,4,3,18,2,2.28,No
+30694,IT,Male,41,Analyst,2019-05-22,4,High School,1.43,14128,51,3,17,0,2,11,70,0,4.22,No
+30695,Finance,Female,33,Analyst,2010-08-04,11,Diploma,2.75,21713,50,9,23,0,0,7,34,1,3.92,No
+30696,Finance,Male,27,Analyst,2016-06-14,2,Diploma,3.85,27940,59,7,3,0,3,12,43,1,3.75,No
+30697,Marketing,Male,53,Manager,2021-12-15,8,PhD,5.0,180000,55,11,19,2,4,12,91,0,3.05,No
+30698,Marketing,Female,52,Analyst,2019-01-19,3,Diploma,3.54,33344,49,2,33,0,1,11,98,0,4.48,Yes
+30699,Marketing,Male,54,Consultant,2014-02-27,7,High School,3.84,23593,53,9,8,8,3,3,28,1,2.82,Yes
+30700,Sales,Male,34,Consultant,2019-03-26,7,PhD,5.0,133335,36,6,28,2,4,11,58,1,2.8,No
+30701,Finance,Male,45,Manager,2019-07-10,6,Bachelor,3.16,64446,47,1,21,0,2,5,54,0,2.55,No
+30702,Sales,Male,36,Consultant,2022-09-15,13,Bachelor,4.5,124754,44,5,34,9,4,7,98,0,3.37,No
+30703,Operations,Female,38,Specialist,2012-04-05,1,Bachelor,3.32,67009,46,5,9,1,2,9,48,0,4.75,No
+30704,Finance,Female,23,Engineer,2018-10-18,9,Bachelor,4.94,76577,49,11,7,11,1,4,98,0,3.87,No
+30705,Sales,Female,52,Manager,2018-06-11,8,Master,5.0,171936,56,4,17,9,4,13,37,0,3.45,No
+30706,IT,Male,36,Manager,2010-05-09,2,Bachelor,3.18,52313,52,8,30,6,4,11,10,1,2.15,Yes
+30707,Marketing,Male,28,Analyst,2019-08-15,13,PhD,5.0,179104,53,5,7,0,0,8,41,0,2.65,No
+30708,Finance,Female,50,Engineer,2017-06-01,10,Bachelor,4.77,51030,58,9,0,1,1,4,34,0,4.67,Yes
+30709,Marketing,Female,43,Consultant,2012-12-19,7,High School,4.32,39900,41,4,23,4,4,14,16,1,3.64,Yes
+30710,Sales,Female,51,Specialist,2015-07-05,14,Diploma,4.06,58184,40,1,23,4,1,7,34,0,4.45,No
+30711,Marketing,Male,45,Analyst,2014-05-21,6,PhD,4.26,105819,55,2,7,11,1,14,9,1,3.72,No
+30712,Operations,Female,40,Consultant,2015-10-13,0,Bachelor,3.37,83634,39,1,1,6,2,14,87,1,3.4,No
+30713,Marketing,Female,47,Consultant,2018-12-17,0,High School,2.75,16973,50,9,1,1,1,3,94,0,2.49,No
+30714,Operations,Male,30,Specialist,2015-05-30,1,Master,4.04,74511,56,4,27,2,2,11,38,1,3.26,No
+30715,Operations,Male,45,Engineer,2016-01-22,8,Bachelor,3.52,62416,42,4,34,7,0,5,8,2,4.59,No
+30716,IT,Male,35,Engineer,2016-03-16,8,Diploma,3.49,27045,51,6,12,11,1,10,30,1,4.01,No
+30717,Marketing,Female,47,Analyst,2019-06-29,11,High School,4.97,31675,59,5,17,9,2,10,35,2,2.58,No
+30718,Finance,Female,43,Analyst,2019-08-10,3,Diploma,2.94,29214,58,8,7,8,2,12,87,1,2.3,Yes
+30719,IT,Male,31,Specialist,2017-10-08,6,Bachelor,2.6,51120,43,4,2,8,0,8,87,1,2.93,No
+30720,Finance,Female,24,Engineer,2012-05-09,1,Master,3.41,100376,55,9,26,2,2,8,21,1,2.37,No
+30721,Marketing,Male,39,Consultant,2011-06-02,1,PhD,3.25,110923,59,7,14,0,0,9,54,2,2.24,Yes
+30722,HR,Male,30,Manager,2018-06-30,11,Master,5.0,180000,47,1,0,7,4,3,55,0,3.82,No
+30723,Sales,Male,34,Consultant,2021-04-01,13,Bachelor,4.5,74388,39,5,28,1,0,7,11,2,4.26,Yes
+30724,HR,Female,43,Consultant,2018-03-04,0,Bachelor,2.99,75775,54,8,31,4,2,14,25,2,3.2,No
+30725,HR,Male,33,Consultant,2016-06-24,6,High School,3.34,42374,37,9,4,9,0,12,41,1,4.45,No
+30726,Marketing,Male,43,Specialist,2014-02-26,14,Diploma,4.53,43264,56,11,18,4,1,13,15,2,3.04,No
+30727,IT,Male,22,Engineer,2021-06-23,2,Diploma,3.0,25248,38,9,32,2,1,13,36,2,2.36,No
+30728,HR,Female,46,Analyst,2014-05-24,13,Master,5.0,102232,54,9,29,4,1,6,53,0,2.7,No
+30729,Operations,Male,46,Analyst,2012-09-28,6,Bachelor,2.54,35408,35,2,34,9,2,13,51,2,2.86,No
+30730,Finance,Female,36,Manager,2011-07-27,0,Bachelor,3.14,97657,53,7,19,8,2,4,84,2,3.73,Yes
+30731,Marketing,Male,22,Consultant,2021-09-29,12,Bachelor,3.33,69277,57,6,15,9,4,9,64,1,3.07,No
+30732,Marketing,Male,59,Manager,2011-05-03,3,Diploma,3.78,55446,45,5,20,1,4,12,65,0,4.4,No
+30733,HR,Male,49,Analyst,2022-07-31,14,Master,5.0,132439,53,7,16,1,1,10,57,0,2.89,No
+30734,Operations,Female,40,Analyst,2020-07-10,5,Diploma,3.04,24909,42,8,34,1,2,9,50,2,2.51,Yes
+30735,Operations,Female,25,Specialist,2022-03-14,10,PhD,5.0,180000,41,11,7,4,1,8,18,1,3.12,No
+30736,Marketing,Male,47,Specialist,2016-05-28,14,Diploma,5.0,69240,48,3,7,4,3,2,65,0,3.45,Yes
+30737,Operations,Male,42,Manager,2021-03-06,1,Bachelor,3.81,52913,55,4,26,0,4,13,85,2,4.78,No
+30738,Marketing,Male,41,Consultant,2012-07-08,0,Diploma,2.02,39666,47,11,0,0,2,3,49,2,4.6,No
+30739,IT,Male,25,Engineer,2020-10-08,13,Bachelor,3.32,103425,49,11,28,10,2,9,9,1,4.75,No
+30740,IT,Male,53,Engineer,2021-12-20,2,Diploma,3.03,30319,53,2,10,3,3,13,13,0,3.75,No
+30741,Marketing,Male,46,Engineer,2019-04-25,4,Diploma,2.43,25595,39,11,15,6,1,6,26,1,2.48,No
+30742,HR,Male,38,Analyst,2012-08-30,10,Diploma,3.3,30384,43,4,23,10,0,7,46,1,4.12,No
+30743,Sales,Female,24,Specialist,2015-05-23,5,Bachelor,4.75,87168,45,10,29,7,2,3,53,1,4.41,No
+30744,Finance,Female,42,Engineer,2013-10-10,7,Diploma,4.21,47655,48,5,16,11,3,10,11,1,4.14,No
+30745,HR,Female,50,Analyst,2021-01-10,8,High School,3.17,21480,51,9,27,1,1,8,64,2,2.19,No
+30746,IT,Female,46,Engineer,2022-03-26,10,PhD,4.69,118039,38,7,16,6,2,6,66,0,3.77,No
+30747,Operations,Male,31,Engineer,2022-01-07,11,Diploma,4.44,31887,46,1,10,2,4,8,76,2,4.72,No
+30748,Operations,Male,30,Specialist,2013-07-03,2,Diploma,3.17,39690,42,3,2,6,3,14,99,2,4.44,Yes
+30749,Finance,Female,47,Engineer,2015-02-20,4,Diploma,4.37,37731,54,8,28,0,3,4,79,2,2.86,Yes
+30750,Finance,Male,32,Engineer,2016-03-14,2,Diploma,3.2,21159,52,7,20,2,4,11,24,2,3.78,No
+30751,Operations,Female,37,Consultant,2021-01-21,14,Bachelor,5.0,112054,55,7,26,3,0,3,20,2,4.28,No
+30752,Sales,Female,46,Consultant,2019-03-22,1,Master,3.87,119873,40,5,33,7,3,13,69,2,2.23,No
+30753,Operations,Male,39,Manager,2015-08-01,3,High School,3.47,32814,40,7,18,4,4,10,81,1,2.07,No
+30754,Finance,Female,31,Analyst,2022-02-02,2,Bachelor,3.65,38438,59,9,7,8,2,9,31,0,4.54,No
+30755,HR,Male,40,Consultant,2010-01-05,7,High School,3.28,42993,37,4,11,9,4,14,58,0,3.56,No
+30756,Sales,Male,41,Specialist,2018-08-17,12,Bachelor,5.0,118949,49,6,34,7,1,9,48,1,2.22,No
+30757,Finance,Male,51,Analyst,2017-12-09,5,Bachelor,3.26,58952,55,3,20,2,3,13,36,0,2.26,No
+30758,Operations,Female,51,Consultant,2012-10-07,8,Bachelor,3.81,73164,51,5,12,0,0,13,83,2,2.9,No
+30759,HR,Female,54,Consultant,2012-05-19,8,PhD,5.0,180000,41,9,14,0,2,12,72,1,2.13,No
+30760,Sales,Female,43,Specialist,2010-09-23,5,High School,3.99,33490,47,2,22,6,0,8,70,0,4.68,No
+30761,Sales,Male,39,Manager,2020-03-19,5,High School,3.23,48466,48,9,14,5,2,7,68,2,4.59,Yes
+30762,HR,Male,25,Engineer,2012-12-23,9,Bachelor,5.0,87058,55,9,10,6,4,8,83,2,4.39,No
+30763,Sales,Female,44,Consultant,2018-04-19,2,Master,4.81,115318,36,8,22,8,4,12,37,0,3.82,Yes
+30764,HR,Male,29,Specialist,2013-01-26,8,Diploma,2.96,52464,41,1,13,6,0,6,99,1,2.03,No
+30765,IT,Male,35,Specialist,2016-03-31,3,Diploma,2.44,29873,55,8,14,4,1,3,45,0,2.06,No
+30766,IT,Male,59,Analyst,2010-04-28,0,Bachelor,2.35,54757,38,9,31,7,4,9,93,2,2.05,Yes
+30767,Finance,Female,34,Manager,2016-03-21,4,Diploma,4.15,50955,52,1,8,4,0,2,66,0,3.44,Yes
+30768,IT,Male,55,Analyst,2014-07-23,14,PhD,5.0,125996,42,10,30,8,0,3,22,2,2.57,No
+30769,Finance,Female,52,Analyst,2011-10-27,6,Bachelor,4.56,71973,48,6,21,7,4,13,79,0,4.54,Yes
+30770,HR,Female,47,Consultant,2010-06-03,3,PhD,5.0,180000,58,10,18,3,4,10,42,1,2.62,No
+30771,Finance,Female,45,Analyst,2010-04-18,9,High School,3.89,21455,49,10,32,3,4,4,21,0,2.28,No
+30772,Marketing,Female,54,Analyst,2020-05-10,13,Bachelor,4.95,59424,40,3,13,8,3,11,67,0,2.69,No
+30773,Operations,Female,53,Engineer,2019-07-22,2,Master,4.6,86911,55,2,14,7,1,6,93,2,3.52,No
+30774,Sales,Female,34,Engineer,2019-02-24,9,Master,5.0,148370,42,3,24,0,4,2,47,2,3.51,No
+30775,Operations,Male,38,Analyst,2014-10-04,3,Diploma,2.47,24485,39,11,1,1,2,14,42,2,2.85,No
+30776,HR,Male,51,Consultant,2020-01-09,13,Bachelor,4.14,98175,50,2,0,6,1,6,97,1,2.26,No
+30777,Operations,Male,52,Specialist,2011-10-31,8,Master,5.0,148682,41,10,25,8,0,10,48,1,3.58,No
+30778,IT,Male,23,Engineer,2020-04-18,0,Diploma,3.07,37971,46,3,20,1,2,11,72,0,2.98,No
+30779,Finance,Female,38,Analyst,2022-12-08,11,Diploma,3.69,39382,43,6,0,11,3,9,20,1,4.33,No
+30780,Operations,Male,47,Consultant,2015-02-28,5,Diploma,3.5,31590,46,8,25,3,3,10,56,0,2.69,No
+30781,Sales,Male,52,Consultant,2018-04-16,1,Bachelor,3.63,54400,44,3,28,4,1,6,53,0,2.66,No
+30782,Operations,Male,59,Consultant,2014-04-01,5,High School,2.83,21787,36,2,2,0,3,7,79,0,2.67,Yes
+30783,Operations,Female,29,Engineer,2017-06-19,9,Diploma,3.79,44373,42,6,25,8,0,9,48,2,3.76,No
+30784,Marketing,Male,49,Specialist,2020-03-14,11,Master,5.0,141341,43,6,8,5,3,12,75,2,3.57,No
+30785,Finance,Male,51,Manager,2017-01-05,13,Bachelor,4.67,70982,42,2,12,10,3,8,33,0,3.68,No
+30786,Marketing,Female,49,Consultant,2012-06-20,14,Bachelor,4.9,57198,35,10,27,3,3,10,30,1,2.72,Yes
+30787,HR,Male,31,Engineer,2014-03-18,1,Master,4.0,80050,45,7,12,0,0,4,11,0,4.34,No
+30788,IT,Male,37,Manager,2022-11-14,10,Master,5.0,130193,49,10,27,11,3,4,84,0,4.31,Yes
+30789,IT,Male,36,Manager,2016-06-23,12,Diploma,4.63,76110,44,3,16,10,4,5,25,2,3.47,No
+30790,Marketing,Female,58,Manager,2021-12-25,2,Diploma,3.24,38014,57,4,32,9,2,6,71,2,4.6,No
+30791,IT,Female,50,Analyst,2020-02-29,0,High School,2.29,12171,46,6,30,2,4,14,22,0,4.13,No
+30792,Marketing,Female,25,Consultant,2011-02-12,13,Bachelor,4.94,98726,42,9,8,5,3,13,33,2,3.61,No
+30793,HR,Male,41,Specialist,2022-10-15,10,Bachelor,5.0,80148,39,3,28,10,4,4,90,0,4.54,No
+30794,Sales,Male,32,Engineer,2011-07-06,2,Diploma,4.0,23709,44,10,11,4,4,10,89,0,2.0,Yes
+30795,IT,Female,47,Analyst,2016-09-30,6,Bachelor,4.74,61656,36,1,27,5,3,11,81,1,4.3,No
+30796,HR,Male,38,Specialist,2013-10-04,14,Diploma,3.84,37730,48,7,14,9,4,3,77,1,4.2,No
+30797,Sales,Female,29,Consultant,2014-01-31,3,Master,4.16,149166,54,1,31,7,3,4,48,1,3.55,No
+30798,IT,Male,57,Analyst,2010-05-21,11,High School,4.8,28537,45,7,17,7,4,5,77,2,4.42,No
+30799,Sales,Female,43,Engineer,2022-06-22,7,PhD,5.0,176247,41,10,1,3,1,7,42,1,4.53,No
+30800,Sales,Female,36,Engineer,2010-04-03,14,Diploma,3.07,35171,42,2,21,10,1,10,33,0,4.7,No
+30801,Finance,Male,41,Analyst,2015-02-21,5,Diploma,2.76,19454,46,3,22,1,1,14,90,2,4.35,No
+30802,HR,Female,31,Specialist,2011-07-13,6,Bachelor,4.04,74868,45,3,33,1,4,5,85,0,2.19,No
+30803,Finance,Male,43,Analyst,2017-04-16,0,Master,3.09,76401,48,8,19,9,4,6,57,1,3.31,No
+30804,IT,Female,36,Specialist,2019-07-29,14,Diploma,2.47,51264,50,4,23,5,3,5,21,0,4.25,No
+30805,Finance,Male,27,Analyst,2017-12-25,13,Bachelor,5.0,77732,53,2,20,5,4,9,55,2,2.8,No
+30806,Operations,Male,47,Engineer,2014-03-04,9,Bachelor,4.49,57318,44,1,23,9,3,3,82,1,4.41,No
+30807,Operations,Female,31,Analyst,2022-10-21,10,High School,3.21,25257,57,7,15,7,2,13,58,2,4.02,No
+30808,HR,Female,34,Engineer,2021-02-10,0,Bachelor,2.86,34687,55,10,19,7,2,4,17,2,2.8,No
+30809,HR,Female,50,Manager,2020-06-01,13,Bachelor,5.0,97210,57,4,6,5,1,7,77,0,4.55,No
+30810,Operations,Female,32,Consultant,2010-04-06,14,Bachelor,5.0,99614,49,4,8,8,2,11,26,0,2.68,No
+30811,Operations,Female,59,Engineer,2013-04-03,14,Master,5.0,158159,48,4,13,1,3,11,84,0,3.72,No
+30812,Finance,Male,39,Consultant,2012-10-13,9,Bachelor,5.0,106149,55,5,23,3,2,8,76,1,3.78,No
+30813,Sales,Male,38,Engineer,2022-12-25,2,PhD,5.0,180000,58,9,29,10,3,11,28,0,2.4,No
+30814,Sales,Female,49,Consultant,2014-02-24,2,Master,3.02,78094,52,2,25,4,4,3,65,2,3.18,No
+30815,HR,Male,26,Engineer,2010-05-31,2,Diploma,4.32,25572,55,6,21,8,1,7,91,2,2.21,No
+30816,Finance,Female,39,Manager,2015-06-05,8,Diploma,5.0,44687,47,5,0,10,0,10,80,1,4.65,No
+30817,Operations,Female,34,Manager,2010-12-04,11,Bachelor,4.79,139540,45,11,3,7,3,13,22,2,3.59,No
+30818,IT,Male,29,Consultant,2013-09-19,9,Diploma,4.34,40471,42,11,26,5,4,13,47,2,4.23,Yes
+30819,Sales,Female,38,Manager,2014-08-10,5,Diploma,2.28,43794,38,9,20,1,4,13,97,0,3.19,No
+30820,Sales,Male,24,Analyst,2017-10-14,11,Bachelor,3.73,57458,35,11,27,2,0,10,45,1,2.01,No
+30821,IT,Male,46,Manager,2011-07-06,1,Diploma,4.48,47545,38,8,3,6,1,6,95,0,2.79,No
+30822,IT,Female,32,Analyst,2015-04-15,12,Bachelor,5.0,64254,58,10,27,10,1,5,5,2,2.13,No
+30823,Sales,Male,46,Engineer,2010-08-10,2,High School,2.93,20562,45,1,17,1,0,14,55,2,4.55,No
+30824,Sales,Male,35,Engineer,2018-11-10,7,Bachelor,4.71,46463,48,1,17,0,2,12,52,0,3.08,Yes
+30825,Finance,Male,32,Manager,2012-05-31,1,Diploma,2.33,39684,42,3,3,4,2,6,67,2,3.5,Yes
+30826,Sales,Male,48,Engineer,2020-06-17,0,Diploma,3.3,26843,44,7,24,2,3,10,20,2,2.84,No
+30827,Marketing,Male,28,Manager,2016-08-16,1,Diploma,4.02,48016,43,11,1,0,2,8,52,0,2.89,No
+30828,HR,Female,41,Manager,2010-08-06,7,Bachelor,4.27,105751,44,9,16,6,4,7,39,0,4.79,No
+30829,IT,Male,39,Consultant,2012-09-23,2,Diploma,3.11,26960,55,2,17,0,3,14,56,2,4.67,Yes
+30830,IT,Male,30,Analyst,2017-07-17,3,Bachelor,3.03,38055,58,9,16,8,4,9,8,0,2.21,No
+30831,Sales,Male,57,Specialist,2014-01-23,7,PhD,5.0,180000,37,6,1,11,2,2,22,2,2.33,No
+30832,IT,Male,52,Consultant,2022-06-14,0,High School,1.87,32859,40,5,25,7,2,3,99,2,2.87,No
+30833,Operations,Female,23,Manager,2021-12-25,2,High School,3.51,24731,37,2,25,2,0,14,8,1,4.54,Yes
+30834,Sales,Female,28,Specialist,2019-04-07,9,Master,5.0,180000,40,1,3,3,4,14,48,1,4.06,No
+30835,HR,Female,54,Specialist,2020-04-16,12,Diploma,4.46,59487,52,9,20,9,0,14,69,2,2.03,No
+30836,HR,Female,37,Engineer,2019-06-22,2,Bachelor,3.07,51088,43,11,32,10,3,11,57,1,2.79,No
+30837,HR,Male,38,Analyst,2013-01-19,9,PhD,5.0,159159,43,11,9,1,4,9,30,1,4.35,No
+30838,IT,Male,26,Engineer,2018-06-06,5,PhD,4.93,99704,39,2,25,6,3,12,43,0,2.15,No
+30839,Finance,Female,34,Manager,2016-10-18,4,Diploma,3.81,42543,45,6,23,6,4,3,30,2,2.78,No
+30840,Sales,Female,29,Analyst,2021-08-02,0,Diploma,2.14,25948,44,8,31,5,0,6,67,1,4.39,Yes
+30841,Sales,Male,32,Engineer,2018-05-21,10,Master,4.51,100829,47,11,22,7,4,3,95,1,3.1,No
+30842,IT,Male,43,Analyst,2020-08-11,12,Bachelor,5.0,80085,43,9,13,9,1,2,44,0,2.64,No
+30843,HR,Female,58,Manager,2014-05-02,10,Bachelor,4.18,109514,52,11,34,8,0,13,62,0,4.72,No
+30844,Finance,Male,34,Specialist,2016-09-18,6,Diploma,2.22,41980,51,3,29,0,4,13,78,1,2.17,No
+30845,HR,Female,27,Specialist,2014-09-15,9,High School,4.59,38517,47,3,2,11,3,7,77,1,4.74,No
+30846,IT,Male,47,Consultant,2011-04-18,11,Master,5.0,85811,43,6,23,11,1,2,98,1,2.72,No
+30847,Finance,Male,46,Analyst,2022-05-15,9,Master,4.66,125624,44,1,3,0,2,8,97,2,2.68,No
+30848,IT,Male,29,Analyst,2021-03-23,5,Master,3.92,65161,46,5,9,8,3,14,12,2,3.37,No
+30849,Marketing,Female,50,Analyst,2021-07-22,11,Diploma,4.57,35843,45,8,5,4,4,5,97,0,3.7,Yes
+30850,Marketing,Female,36,Consultant,2014-02-05,10,Bachelor,4.41,61743,47,10,0,9,2,10,89,0,3.01,No
+30851,Marketing,Female,58,Manager,2011-03-12,4,PhD,5.0,135790,57,3,27,3,3,5,74,0,3.75,No
+30852,Operations,Female,54,Consultant,2020-04-21,4,Diploma,3.41,26544,42,4,5,3,1,5,96,0,2.8,No
+30853,HR,Female,38,Engineer,2020-11-02,10,High School,3.89,35260,35,7,14,7,2,3,40,0,3.63,No
+30854,IT,Male,44,Consultant,2017-03-13,6,High School,4.42,38025,50,1,31,4,1,9,21,1,3.58,No
+30855,HR,Male,40,Engineer,2012-03-09,3,High School,2.91,31181,59,2,19,1,3,6,68,1,2.75,No
+30856,Operations,Male,52,Manager,2021-02-07,14,Bachelor,5.0,155501,48,3,3,4,4,10,14,0,4.4,No
+30857,Finance,Male,27,Analyst,2015-07-09,14,PhD,5.0,113981,41,6,31,9,4,11,73,2,4.08,No
+30858,Finance,Female,27,Engineer,2014-11-16,13,Diploma,4.82,43406,50,5,33,5,0,11,67,1,4.71,No
+30859,Finance,Female,56,Specialist,2021-07-04,0,Bachelor,4.52,85363,41,3,26,3,1,14,36,0,3.58,No
+30860,Finance,Male,33,Engineer,2020-12-21,14,Bachelor,5.0,119808,40,5,34,3,0,8,77,1,3.73,No
+30861,Finance,Female,41,Analyst,2020-11-27,3,Bachelor,2.57,42729,35,10,23,4,4,13,88,0,3.33,No
+30862,Sales,Female,29,Engineer,2020-10-06,4,PhD,5.0,180000,43,10,28,10,2,13,71,0,3.83,No
+30863,Marketing,Male,48,Analyst,2015-08-08,7,Diploma,3.32,19261,40,1,29,11,4,14,55,1,2.05,No
+30864,Marketing,Male,31,Analyst,2018-01-18,13,Diploma,4.08,35704,38,6,9,7,4,7,21,1,3.11,Yes
+30865,HR,Female,36,Consultant,2012-03-23,6,Bachelor,3.61,77231,37,6,22,7,2,13,38,2,4.48,No
+30866,Operations,Male,43,Manager,2010-10-05,2,Bachelor,2.75,51447,50,1,17,4,3,5,22,1,2.66,Yes
+30867,Sales,Female,51,Analyst,2021-04-29,2,Master,4.11,101320,59,11,32,2,1,5,7,0,4.09,No
+30868,IT,Female,33,Engineer,2017-05-01,2,Master,4.12,116517,55,1,0,2,2,3,81,0,4.45,Yes
+30869,Sales,Female,24,Consultant,2020-09-09,5,Master,5.0,115565,43,7,8,3,4,4,20,2,3.26,No
+30870,Operations,Female,51,Manager,2019-12-31,14,Diploma,4.16,81797,50,7,28,6,4,8,45,2,3.59,No
+30871,Operations,Female,50,Consultant,2015-08-31,10,High School,2.87,25031,42,5,8,2,4,13,24,0,4.22,No
+30872,Operations,Male,46,Consultant,2016-11-29,2,Diploma,3.42,31833,56,2,6,10,2,2,78,0,3.23,No
+30873,Marketing,Female,45,Engineer,2013-06-19,11,Diploma,3.8,44523,36,9,8,2,4,7,26,2,3.86,No
+30874,Marketing,Female,41,Specialist,2011-11-08,2,Diploma,2.79,29056,39,2,13,8,3,10,82,0,2.09,No
+30875,IT,Female,23,Engineer,2016-06-11,12,High School,4.16,43070,51,5,21,6,0,13,79,0,3.07,No
+30876,Sales,Female,34,Specialist,2013-03-20,9,High School,3.14,43121,47,2,34,9,2,14,99,0,3.95,No
+30877,Sales,Male,58,Specialist,2010-09-02,10,Master,5.0,157766,37,5,3,5,3,2,50,0,2.75,No
+30878,HR,Female,56,Specialist,2010-06-11,1,Master,2.91,100882,43,5,20,6,2,6,95,1,2.17,No
+30879,Finance,Male,42,Consultant,2019-10-07,11,Master,5.0,180000,52,2,13,10,0,12,93,2,3.3,No
+30880,Marketing,Female,40,Specialist,2016-08-16,5,Diploma,4.03,35460,50,3,19,4,4,5,6,1,3.02,No
+30881,Operations,Female,52,Analyst,2019-07-13,8,Diploma,3.96,24255,55,5,4,3,4,8,86,0,2.29,Yes
+30882,Finance,Female,37,Manager,2022-09-20,7,PhD,5.0,138912,51,1,34,11,0,14,31,0,2.18,No
+30883,HR,Male,43,Manager,2022-08-11,7,Master,4.28,180000,35,1,1,6,1,11,42,1,4.66,No
+30884,Operations,Female,24,Engineer,2019-03-27,0,High School,3.58,19995,41,1,23,7,2,8,76,0,3.04,No
+30885,Finance,Female,26,Analyst,2022-02-01,1,Diploma,2.66,30912,40,7,30,9,4,5,30,1,4.43,Yes
+30886,Operations,Male,52,Engineer,2012-08-09,7,Bachelor,3.25,44312,57,9,30,2,4,13,39,1,2.96,Yes
+30887,Finance,Female,37,Analyst,2011-03-07,6,High School,4.44,18720,59,2,33,2,0,12,80,0,4.69,Yes
+30888,Operations,Male,54,Engineer,2012-10-04,9,Diploma,3.85,35411,59,6,12,9,0,4,19,2,2.08,Yes
+30889,Finance,Female,41,Analyst,2012-10-07,1,Bachelor,3.93,49959,48,10,3,11,1,3,86,2,2.99,No
+30890,Operations,Female,49,Engineer,2013-08-27,11,Master,5.0,114461,40,8,11,10,2,11,99,1,3.56,No
+30891,Marketing,Male,43,Engineer,2015-04-20,11,High School,3.57,46060,44,8,0,5,0,11,64,1,4.23,No
+30892,Finance,Male,33,Consultant,2018-12-30,6,Master,3.98,130901,41,2,25,5,0,9,63,1,3.44,No
+30893,Finance,Female,57,Engineer,2015-08-02,3,Bachelor,3.35,43377,47,3,16,3,4,3,99,0,3.65,No
+30894,Finance,Female,28,Specialist,2022-06-15,12,Bachelor,4.36,121489,49,6,13,10,1,4,83,0,4.66,Yes
+30895,Marketing,Male,42,Consultant,2014-10-10,7,Bachelor,5.0,69993,58,9,21,9,4,5,60,1,2.42,No
+30896,Finance,Male,48,Analyst,2017-10-02,1,Diploma,2.5,18737,48,5,22,6,3,9,70,2,3.91,Yes
+30897,Sales,Female,43,Specialist,2022-10-25,13,High School,3.01,28173,45,7,30,0,3,2,51,2,4.57,No
+30898,Sales,Male,57,Manager,2017-12-31,4,Bachelor,3.95,59510,38,1,11,8,4,4,38,2,3.77,No
+30899,Sales,Male,52,Engineer,2011-01-19,14,PhD,5.0,180000,53,6,1,6,0,8,71,0,4.45,No
+30900,Operations,Female,52,Engineer,2015-11-06,5,PhD,4.75,140028,40,3,11,8,0,11,97,2,4.52,No
+30901,Sales,Male,24,Consultant,2019-08-21,3,Bachelor,5.0,68562,39,11,9,9,2,9,22,2,3.58,No
+30902,Operations,Male,54,Analyst,2015-02-19,9,Master,5.0,87979,37,2,2,11,2,8,50,1,3.28,No
+30903,Finance,Male,35,Consultant,2012-03-05,1,Bachelor,2.97,54719,52,9,26,0,3,14,76,0,2.8,No
+30904,IT,Female,25,Manager,2019-08-06,10,Bachelor,4.72,75907,50,7,7,7,0,12,87,1,2.12,No
+30905,IT,Male,25,Consultant,2012-05-17,4,High School,2.97,36668,54,4,15,2,1,7,92,1,4.0,Yes
+30906,Marketing,Male,24,Consultant,2019-05-28,10,PhD,5.0,152821,53,11,13,9,1,7,30,0,2.8,No
+30907,IT,Female,32,Engineer,2015-05-13,0,Master,4.16,55484,41,3,21,9,2,13,33,1,2.28,No
+30908,Finance,Male,39,Manager,2015-05-03,12,Master,5.0,173783,45,9,32,11,4,3,10,1,4.02,No
+30909,IT,Female,50,Consultant,2016-07-09,3,High School,3.06,30005,55,4,2,6,2,7,25,1,3.86,No
+30910,Sales,Female,55,Manager,2012-10-07,14,Diploma,4.77,74437,46,7,27,1,1,8,16,2,4.18,No
+30911,IT,Male,40,Engineer,2016-01-10,5,Diploma,3.62,23816,45,5,11,9,3,7,14,1,3.54,Yes
+30912,Operations,Female,25,Specialist,2021-05-18,14,Diploma,4.22,49079,42,11,32,2,0,7,60,0,4.38,No
+30913,Finance,Male,43,Specialist,2017-04-24,9,High School,4.16,42764,41,4,28,0,0,3,6,2,3.25,No
+30914,Finance,Male,50,Analyst,2019-04-01,8,Bachelor,4.94,77035,58,2,2,5,1,6,38,1,2.96,No
+30915,HR,Female,44,Analyst,2013-02-16,11,Master,3.97,81315,42,3,26,10,2,11,64,1,3.64,No
+30916,IT,Male,59,Engineer,2020-12-05,10,High School,3.74,29234,44,5,14,4,4,9,63,0,2.4,No
+30917,Marketing,Female,22,Consultant,2018-09-05,12,PhD,5.0,180000,38,6,27,0,3,10,86,0,2.01,No
+30918,IT,Female,53,Consultant,2012-12-10,2,Diploma,4.15,40488,46,1,0,2,4,5,82,2,3.66,Yes
+30919,Marketing,Female,56,Manager,2014-09-12,5,Bachelor,4.44,123167,59,2,24,9,1,10,7,1,3.43,No
+30920,Operations,Male,28,Analyst,2011-04-10,2,Bachelor,4.44,63000,55,6,7,1,0,14,96,2,2.64,No
+30921,IT,Male,59,Engineer,2011-12-11,4,Master,5.0,108174,53,4,32,6,2,11,22,0,4.5,No
+30922,Marketing,Male,57,Analyst,2017-01-08,13,Master,4.25,106821,40,4,32,2,0,3,6,2,4.05,No
+30923,Marketing,Female,33,Analyst,2018-02-23,14,High School,3.68,24563,58,3,18,10,3,10,62,2,3.88,No
+30924,Operations,Male,39,Manager,2022-01-13,10,Master,5.0,150945,42,11,21,0,2,13,41,1,3.62,No
+30925,Operations,Female,51,Specialist,2013-10-05,13,Bachelor,4.9,114574,43,1,14,2,0,10,5,0,3.15,Yes
+30926,HR,Female,45,Specialist,2010-12-21,11,PhD,5.0,180000,42,2,19,2,2,13,40,0,2.45,Yes
+30927,IT,Female,37,Analyst,2012-09-15,12,Bachelor,4.36,84388,56,2,18,10,4,13,79,2,4.33,No
+30928,Sales,Female,53,Analyst,2021-05-26,13,Master,4.63,64603,39,4,26,8,3,7,59,0,2.2,Yes
+30929,Marketing,Female,26,Manager,2010-10-20,2,Diploma,4.04,29616,41,8,3,4,1,13,52,2,2.38,No
+30930,Marketing,Female,37,Analyst,2016-11-20,0,Bachelor,2.8,47328,43,5,15,10,2,9,83,2,3.07,No
+30931,Finance,Female,44,Engineer,2015-01-15,5,Bachelor,4.06,56429,47,9,19,3,4,6,49,0,4.73,No
+30932,HR,Female,56,Engineer,2021-12-26,7,Diploma,2.81,24961,49,11,23,2,1,5,93,0,2.8,No
+30933,Operations,Male,47,Specialist,2014-03-02,7,Master,4.7,153043,55,8,15,10,1,3,29,0,4.34,No
+30934,IT,Male,34,Manager,2013-07-26,4,Master,4.1,180000,48,8,28,5,2,14,56,2,3.86,No
+30935,HR,Female,59,Manager,2017-12-13,6,Diploma,3.64,53775,46,8,20,10,0,2,99,2,3.1,No
+30936,HR,Female,23,Specialist,2018-09-06,11,Master,5.0,141339,53,10,17,4,0,10,9,1,2.39,No
+30937,HR,Male,48,Manager,2021-11-10,1,Bachelor,3.85,80628,54,6,28,0,3,4,64,2,3.91,No
+30938,IT,Female,35,Analyst,2014-12-27,3,Bachelor,3.16,44730,46,10,9,4,2,11,82,0,4.74,No
+30939,IT,Female,28,Specialist,2011-02-19,2,Bachelor,3.55,90185,54,8,24,3,0,6,70,1,2.51,No
+30940,Sales,Male,26,Analyst,2014-12-26,3,High School,2.38,20429,37,3,8,5,2,5,13,1,2.49,No
+30941,Marketing,Male,26,Analyst,2017-01-20,8,Master,5.0,95318,59,2,19,5,3,3,58,1,2.21,No
+30942,HR,Female,57,Engineer,2019-07-17,11,Master,5.0,108461,41,10,29,1,3,14,82,0,2.84,No
+30943,Operations,Female,47,Specialist,2018-06-04,4,Diploma,4.3,48930,55,4,11,6,3,14,25,2,4.31,No
+30944,IT,Male,25,Analyst,2015-09-14,13,Diploma,4.54,23556,49,3,19,2,4,2,78,2,2.93,No
+30945,Marketing,Male,54,Engineer,2020-02-18,13,High School,3.97,38533,51,10,3,9,1,13,6,0,3.68,No
+30946,Operations,Male,55,Engineer,2018-01-22,3,Master,5.0,115206,53,5,9,10,4,10,58,0,3.33,No
+30947,Finance,Male,48,Consultant,2016-01-10,13,Master,5.0,171701,47,6,5,10,1,10,74,2,2.27,No
+30948,Finance,Female,33,Specialist,2021-04-28,10,Master,5.0,180000,39,8,34,11,0,7,68,0,2.12,Yes
+30949,HR,Male,26,Analyst,2015-01-16,3,Bachelor,3.69,36688,50,11,11,5,1,13,12,2,2.36,No
+30950,Operations,Male,41,Specialist,2021-05-25,4,Diploma,2.32,51591,50,3,8,6,4,8,67,2,4.71,No
+30951,Marketing,Female,46,Consultant,2016-03-03,10,PhD,5.0,180000,53,7,31,0,3,9,34,0,2.64,No
+30952,Marketing,Female,23,Analyst,2014-07-15,4,Bachelor,3.22,54210,45,10,16,9,2,4,57,1,3.05,No
+30953,IT,Female,34,Engineer,2014-01-03,0,Bachelor,2.39,37159,41,7,9,1,1,6,18,1,2.56,Yes
+30954,HR,Female,30,Specialist,2020-06-05,1,Bachelor,5.0,80595,53,10,11,2,1,3,33,0,2.67,No
+30955,Sales,Female,48,Analyst,2010-05-30,12,Master,5.0,91641,50,1,10,0,3,6,9,0,3.58,Yes
+30956,Marketing,Female,25,Specialist,2021-06-14,4,Bachelor,2.52,56196,59,10,23,6,4,9,18,2,4.53,No
+30957,IT,Female,46,Consultant,2019-08-30,1,Master,3.69,75876,59,7,4,9,4,12,42,1,3.55,No
+30958,Sales,Male,33,Consultant,2017-02-03,7,High School,4.7,25365,51,8,33,2,0,8,21,1,2.45,Yes
+30959,IT,Female,23,Engineer,2021-08-10,11,Diploma,4.89,52586,59,5,8,5,2,8,89,2,3.82,No
+30960,Operations,Male,44,Analyst,2018-01-07,1,High School,2.65,20454,47,8,17,1,4,2,15,1,2.34,No
+30961,Marketing,Male,42,Consultant,2011-02-21,14,PhD,5.0,180000,44,1,11,5,4,5,83,0,2.35,No
+30962,Marketing,Male,42,Engineer,2013-12-21,7,Bachelor,3.68,41698,38,5,19,5,2,8,59,0,3.33,No
+30963,Marketing,Female,56,Analyst,2013-09-28,12,Diploma,3.95,22929,39,3,11,7,2,6,79,1,2.26,No
+30964,IT,Female,51,Consultant,2014-10-03,0,High School,3.81,25821,54,11,14,1,4,6,10,2,3.09,Yes
+30965,Operations,Female,51,Engineer,2011-04-30,6,Master,4.78,136515,54,7,8,3,3,11,65,2,4.31,No
+30966,IT,Male,53,Analyst,2013-01-07,2,Bachelor,4.53,31224,56,2,20,3,0,11,23,1,3.33,Yes
+30967,IT,Male,31,Engineer,2019-07-11,9,High School,4.33,31670,54,9,12,6,1,12,63,2,4.34,No
+30968,Finance,Female,26,Manager,2012-03-07,7,High School,3.87,33274,57,3,6,1,3,14,71,2,4.21,No
+30969,Sales,Male,34,Engineer,2019-10-14,1,Master,4.91,90700,56,1,11,8,2,3,36,0,2.93,No
+30970,Operations,Female,23,Engineer,2011-08-12,11,Bachelor,4.76,95511,40,1,22,4,0,13,27,0,2.66,No
+30971,HR,Male,31,Manager,2014-01-05,13,Diploma,4.22,55023,47,1,0,11,0,12,88,2,3.23,No
+30972,Marketing,Male,34,Specialist,2015-01-01,10,PhD,5.0,180000,38,6,16,8,4,4,18,2,3.11,No
+30973,Sales,Male,25,Engineer,2019-07-29,2,Master,4.87,105836,54,3,23,8,3,11,65,1,3.49,Yes
+30974,Operations,Female,30,Engineer,2020-04-06,10,Master,4.83,89616,55,7,1,4,4,7,26,0,2.6,No
+30975,Operations,Female,44,Engineer,2022-06-16,11,Bachelor,5.0,79241,56,7,19,0,3,6,96,0,3.8,No
+30976,IT,Male,45,Consultant,2018-06-21,13,Bachelor,5.0,121387,36,1,19,9,3,12,95,1,3.71,No
+30977,IT,Female,36,Engineer,2017-09-01,11,High School,3.07,32183,41,7,16,1,0,14,52,1,2.73,Yes
+30978,Sales,Male,34,Manager,2019-08-30,11,Master,5.0,180000,49,4,11,8,0,14,46,1,2.64,Yes
+30979,Marketing,Female,55,Specialist,2010-05-25,2,Master,4.74,127202,49,11,4,5,4,10,50,0,4.58,No
+30980,Operations,Female,53,Analyst,2022-03-18,0,Master,3.56,87783,41,11,2,7,1,5,56,2,3.78,No
+30981,Operations,Female,47,Consultant,2022-02-20,5,Diploma,3.31,50198,38,7,16,6,4,5,76,2,3.9,No
+30982,HR,Male,55,Manager,2016-08-14,5,Master,4.72,122392,51,4,13,5,3,3,85,0,2.1,No
+30983,Finance,Female,49,Analyst,2010-08-02,0,Master,3.77,94655,56,8,22,2,2,2,44,0,3.34,No
+30984,IT,Female,24,Consultant,2017-01-31,5,Bachelor,4.12,42110,59,7,26,4,0,8,14,0,2.86,No
+30985,HR,Female,27,Manager,2014-01-27,9,Diploma,5.0,51376,35,8,27,10,1,8,67,1,4.78,No
+30986,HR,Male,52,Consultant,2021-04-11,10,Diploma,3.18,33198,36,2,26,2,3,10,96,1,2.99,Yes
+30987,HR,Male,44,Engineer,2019-04-21,9,Master,5.0,113514,35,6,8,0,2,3,20,0,4.33,No
+30988,HR,Female,25,Engineer,2014-02-16,4,Diploma,2.67,30368,58,9,28,0,4,14,14,2,4.47,No
+30989,HR,Female,52,Engineer,2016-10-07,7,Bachelor,4.56,89509,37,4,19,9,4,3,39,1,3.47,No
+30990,Marketing,Male,44,Specialist,2017-01-01,5,PhD,5.0,180000,49,1,10,2,3,14,13,1,4.35,Yes
+30991,HR,Female,35,Manager,2014-09-30,5,High School,4.39,36670,47,2,5,0,1,11,9,0,3.68,No
+30992,Operations,Female,52,Specialist,2019-11-01,7,Bachelor,3.59,52871,36,8,5,9,3,12,39,0,2.0,No
+30993,IT,Female,40,Analyst,2016-06-21,2,High School,2.24,22300,59,2,27,6,4,3,51,0,4.34,No
+30994,Sales,Female,50,Engineer,2016-05-25,7,Bachelor,4.16,56441,41,9,31,1,2,8,77,1,2.88,No
+30995,IT,Male,47,Specialist,2018-12-07,7,High School,4.2,38146,36,5,0,2,4,6,17,1,2.49,No
+30996,Operations,Female,54,Analyst,2013-04-29,9,High School,4.32,33766,49,10,2,2,2,9,44,1,4.57,No
+30997,HR,Female,32,Specialist,2017-01-25,0,Bachelor,3.8,70641,53,10,12,6,4,5,76,2,3.15,No
+30998,Operations,Female,34,Engineer,2011-01-14,12,Master,5.0,180000,38,2,28,1,4,12,40,2,2.83,No
+30999,Sales,Female,30,Manager,2020-01-11,8,Master,4.82,180000,35,10,13,7,0,3,62,2,4.35,No
+31000,HR,Female,22,Analyst,2015-04-25,10,Master,4.3,84401,50,1,3,0,1,7,32,1,3.05,No
+31001,Finance,Female,43,Analyst,2011-07-19,3,High School,3.07,26098,35,5,12,7,1,14,5,2,2.24,No
+31002,IT,Male,38,Engineer,2011-03-03,1,Bachelor,3.11,78590,58,10,24,9,0,11,48,0,2.87,No
+31003,IT,Female,59,Consultant,2016-05-30,7,Master,4.72,142455,57,11,14,7,2,13,74,2,3.8,No
+31004,Operations,Male,23,Manager,2022-03-27,0,Diploma,3.73,44841,59,9,17,10,2,4,14,1,3.39,No
+31005,Finance,Male,37,Manager,2018-06-15,11,Diploma,3.85,53923,39,7,23,7,3,8,91,1,3.76,No
+31006,IT,Male,34,Engineer,2012-10-08,12,Master,5.0,131667,43,11,28,10,1,4,67,2,2.29,No
+31007,Sales,Female,59,Manager,2019-06-08,13,Master,5.0,153467,38,6,5,7,2,7,80,2,3.8,Yes
+31008,IT,Female,49,Analyst,2015-09-23,7,High School,3.83,31034,57,6,26,11,2,11,34,2,2.21,No
+31009,Operations,Female,54,Analyst,2010-08-31,3,Master,5.0,98467,57,5,19,1,2,2,84,0,3.73,Yes
+31010,IT,Male,26,Engineer,2016-09-05,12,Bachelor,5.0,93429,36,5,13,4,3,8,35,1,2.53,No
+31011,Operations,Male,30,Analyst,2010-03-22,10,Master,4.6,89121,43,9,9,0,0,3,80,2,2.84,No
+31012,Operations,Female,45,Consultant,2013-11-27,8,Bachelor,3.26,51342,46,4,10,7,1,8,78,0,3.81,No
+31013,IT,Female,46,Analyst,2015-02-19,14,Master,5.0,130221,54,7,27,5,1,4,29,2,2.47,No
+31014,HR,Female,37,Engineer,2017-01-21,14,Diploma,5.0,60600,45,3,2,10,4,7,55,1,2.85,No
+31015,IT,Female,26,Consultant,2019-07-27,6,High School,4.54,28833,57,7,4,0,1,14,31,2,3.35,No
+31016,Marketing,Male,37,Specialist,2012-03-20,14,Master,5.0,139880,45,11,16,4,1,4,14,2,2.5,No
+31017,HR,Male,49,Specialist,2010-07-04,1,High School,2.92,29022,35,7,21,10,3,13,68,1,4.12,Yes
+31018,Marketing,Male,33,Manager,2015-05-19,11,Diploma,4.45,43672,54,8,12,5,0,7,28,0,3.86,No
+31019,Sales,Male,28,Specialist,2017-07-03,11,Bachelor,4.65,104204,42,4,14,1,1,11,68,0,2.65,No
+31020,Marketing,Female,31,Analyst,2010-10-01,9,Bachelor,3.64,45901,44,6,28,1,0,7,15,1,2.97,No
+31021,HR,Female,36,Analyst,2014-03-04,5,PhD,5.0,145857,48,6,8,6,3,10,33,1,4.22,Yes
+31022,HR,Male,30,Engineer,2019-08-10,8,Bachelor,3.77,95725,56,10,2,5,0,13,8,0,3.88,No
+31023,Sales,Male,35,Manager,2014-11-10,7,PhD,4.76,180000,37,5,33,7,0,4,42,2,4.51,No
+31024,Finance,Female,51,Specialist,2017-07-10,5,High School,3.75,40899,46,11,10,9,1,4,65,1,2.06,No
+31025,Finance,Male,59,Engineer,2015-04-27,5,Bachelor,4.17,61464,57,8,27,1,4,9,43,1,3.99,No
+31026,Sales,Female,45,Specialist,2022-05-15,4,Master,4.11,98424,53,2,22,4,2,8,62,1,3.47,No
+31027,Sales,Female,52,Engineer,2022-04-06,3,High School,2.41,32602,49,4,1,3,3,13,83,0,4.07,No
+31028,HR,Female,55,Consultant,2021-09-24,13,Diploma,4.43,41438,35,10,8,9,3,14,62,0,2.27,No
+31029,Operations,Male,59,Specialist,2015-09-21,6,Master,5.0,110950,53,8,34,2,1,11,34,2,2.54,No
+31030,Marketing,Female,41,Engineer,2017-06-14,2,High School,3.13,23456,45,5,16,10,2,11,75,1,3.57,No
+31031,Operations,Female,54,Manager,2019-08-05,5,Bachelor,4.74,92145,56,8,0,6,4,14,84,2,3.26,Yes
+31032,Operations,Female,31,Manager,2017-09-13,12,Diploma,4.38,60954,37,2,7,3,4,9,16,2,2.93,No
+31033,Marketing,Male,48,Specialist,2019-11-14,9,Master,5.0,126496,55,7,15,0,4,12,62,0,3.87,Yes
+31034,Sales,Female,28,Analyst,2019-11-17,1,Bachelor,3.74,29453,36,2,20,1,4,11,40,2,4.46,Yes
+31035,Sales,Female,31,Manager,2017-04-28,6,PhD,4.94,180000,53,8,30,0,1,10,86,1,2.29,No
+31036,Marketing,Male,27,Manager,2015-04-20,13,Bachelor,4.89,122974,43,10,24,8,4,4,71,1,3.76,No
+31037,Sales,Female,56,Analyst,2012-02-06,2,High School,3.25,24318,55,7,22,7,0,7,70,0,2.33,Yes
+31038,Marketing,Female,46,Analyst,2011-04-12,13,Bachelor,5.0,73619,57,1,8,11,1,6,34,0,3.22,No
+31039,Marketing,Female,34,Engineer,2014-02-09,5,Master,2.86,75351,56,11,20,3,3,11,62,1,4.46,No
+31040,Finance,Female,35,Analyst,2017-03-25,0,High School,2.12,17657,40,6,31,6,3,11,21,0,2.12,No
+31041,Operations,Male,47,Consultant,2018-04-04,5,Bachelor,2.35,64535,44,6,34,8,1,2,92,1,2.51,No
+31042,IT,Female,28,Manager,2018-09-03,9,High School,4.78,53554,52,8,20,9,3,10,19,0,2.82,No
+31043,IT,Female,45,Manager,2022-09-11,11,PhD,5.0,180000,41,4,8,5,3,9,97,2,2.06,No
+31044,Marketing,Male,58,Engineer,2022-10-10,8,High School,3.67,39895,37,2,33,4,4,3,84,1,4.46,No
+31045,Operations,Female,50,Specialist,2019-04-10,6,Bachelor,4.14,97158,58,5,11,0,3,9,21,2,4.26,No
+31046,Operations,Male,43,Analyst,2011-10-12,7,Bachelor,2.14,37573,44,1,5,1,1,7,71,0,4.05,No
+31047,IT,Female,42,Analyst,2015-08-16,12,Master,4.09,76610,38,11,24,5,3,10,15,2,4.49,No
+31048,Operations,Male,26,Analyst,2018-08-17,5,High School,3.51,23284,49,1,5,1,2,10,95,2,3.16,No
+31049,HR,Male,31,Engineer,2018-10-10,5,Diploma,2.71,31185,41,5,2,7,4,6,98,0,2.19,No
+31050,Operations,Male,46,Manager,2010-12-21,6,Bachelor,2.99,104160,40,6,9,6,3,9,44,0,4.04,Yes
+31051,Finance,Female,51,Engineer,2010-04-04,10,Bachelor,3.21,65068,37,6,23,2,4,9,84,1,3.3,No
+31052,Finance,Male,42,Analyst,2021-12-04,13,Diploma,3.01,25513,57,9,23,0,2,13,83,0,3.1,No
+31053,Marketing,Female,29,Engineer,2013-01-16,11,PhD,5.0,126030,35,6,14,9,3,12,53,2,3.1,No
+31054,Finance,Female,50,Analyst,2014-03-20,2,Diploma,2.99,16809,58,8,26,8,1,4,75,0,4.77,No
+31055,Operations,Male,29,Manager,2022-01-05,6,Master,5.0,136129,53,8,14,2,3,14,14,0,2.95,No
+31056,Operations,Male,24,Consultant,2010-06-26,0,Bachelor,2.18,44258,35,9,17,8,2,11,22,2,2.6,No
+31057,Finance,Female,52,Analyst,2018-09-12,9,Bachelor,3.22,37861,45,9,15,3,0,11,65,1,4.11,Yes
+31058,Finance,Male,22,Analyst,2022-09-18,3,Bachelor,2.86,49529,56,1,5,3,3,10,67,0,2.42,No
+31059,Sales,Female,33,Analyst,2013-05-07,0,Bachelor,3.42,58380,45,2,5,2,2,3,65,0,3.81,No
+31060,HR,Female,47,Specialist,2019-12-18,3,Bachelor,4.11,73893,41,7,13,6,4,14,6,2,4.28,No
+31061,Operations,Male,55,Specialist,2011-01-28,14,High School,3.01,49025,40,10,21,8,1,8,98,1,4.24,No
+31062,Finance,Male,59,Manager,2021-08-19,1,Bachelor,4.42,110369,49,4,12,11,4,9,45,1,3.64,No
+31063,IT,Male,45,Analyst,2011-12-15,5,PhD,5.0,166155,56,10,20,10,3,4,70,1,2.77,Yes
+31064,IT,Male,24,Consultant,2010-01-06,7,Bachelor,3.83,107256,44,4,18,8,1,14,7,2,3.23,No
+31065,Marketing,Female,53,Analyst,2017-12-11,13,High School,4.69,33766,40,4,34,9,3,10,46,0,3.98,No
+31066,Finance,Female,38,Specialist,2021-09-12,7,Diploma,4.45,41239,52,2,27,9,2,12,68,0,4.5,No
+31067,Finance,Female,35,Consultant,2017-04-24,5,Diploma,3.76,28439,51,2,28,3,3,14,42,1,4.59,No
+31068,Operations,Male,26,Manager,2014-04-29,8,Bachelor,5.0,102773,39,8,12,7,0,9,19,2,2.97,No
+31069,HR,Male,25,Analyst,2010-08-25,9,Master,5.0,104052,48,5,33,5,3,9,11,1,4.02,No
+31070,IT,Male,43,Manager,2022-07-03,4,High School,3.2,41171,46,5,1,11,2,10,69,1,3.23,No
+31071,Finance,Male,35,Consultant,2019-09-08,12,Master,4.06,102785,46,9,15,1,2,10,30,1,2.95,No
+31072,Marketing,Female,30,Engineer,2011-08-16,11,Bachelor,5.0,85439,53,5,27,2,2,4,76,2,2.01,No
+31073,Marketing,Male,52,Analyst,2014-11-10,2,Bachelor,5.0,28369,47,5,16,10,4,14,53,0,3.0,No
+31074,Operations,Female,43,Engineer,2012-09-23,4,High School,3.87,30107,54,9,4,10,1,10,14,1,4.08,No
+31075,Finance,Male,57,Analyst,2011-03-16,13,Bachelor,4.83,65200,56,9,32,7,4,8,29,2,4.32,No
+31076,Sales,Female,36,Specialist,2022-04-21,9,Diploma,3.92,35857,59,1,14,6,3,13,73,1,2.66,Yes
+31077,Sales,Male,48,Analyst,2021-08-10,8,Bachelor,3.26,52207,45,3,7,5,4,13,55,0,3.73,No
+31078,Sales,Female,35,Engineer,2022-07-08,6,High School,4.57,30444,46,4,30,2,2,5,52,0,3.71,No
+31079,IT,Female,27,Consultant,2020-02-22,3,Diploma,2.91,31750,35,4,27,4,3,8,98,1,3.81,No
+31080,Operations,Female,54,Specialist,2016-12-24,10,Diploma,3.82,59490,44,11,29,4,2,6,96,1,3.71,No
+31081,Operations,Male,27,Manager,2010-06-10,2,Master,4.49,171631,39,1,26,3,1,13,75,0,3.13,No
+31082,HR,Female,43,Analyst,2022-04-08,3,PhD,5.0,142227,56,8,7,6,2,12,84,0,3.25,No
+31083,Finance,Male,58,Analyst,2016-10-05,7,PhD,4.78,147193,49,5,11,8,4,11,58,1,4.12,No
+31084,Operations,Male,34,Specialist,2022-07-14,8,Bachelor,4.06,95471,40,2,19,4,1,5,61,1,3.9,No
+31085,Sales,Male,23,Manager,2020-10-04,1,Diploma,3.51,51094,50,7,26,11,3,5,24,1,3.69,No
+31086,HR,Female,31,Specialist,2014-06-12,10,Bachelor,4.78,78090,50,9,8,1,4,6,90,1,4.01,No
+31087,Sales,Female,32,Analyst,2021-08-01,4,High School,2.5,14606,57,3,34,3,0,14,16,2,2.35,No
+31088,Marketing,Female,41,Engineer,2022-06-01,7,Master,3.77,107918,58,10,12,3,2,11,89,0,2.4,No
+31089,HR,Male,39,Engineer,2015-01-03,5,PhD,4.04,115647,53,3,3,1,3,13,63,1,3.39,No
+31090,Finance,Female,52,Manager,2012-04-02,3,Diploma,4.68,60103,39,7,23,7,4,7,8,1,2.1,No
+31091,HR,Male,40,Engineer,2011-10-21,2,Bachelor,4.34,57476,46,6,5,2,1,14,68,0,3.71,No
+31092,Sales,Male,29,Consultant,2011-09-08,3,Bachelor,2.66,45120,55,6,18,9,3,14,76,2,3.62,No
+31093,Sales,Male,33,Analyst,2019-08-16,12,Bachelor,4.54,53203,55,8,33,0,3,5,12,1,3.87,No
+31094,IT,Female,44,Manager,2012-08-26,0,Master,3.08,131421,40,6,2,2,1,7,97,0,3.93,No
+31095,Finance,Male,30,Engineer,2014-07-22,14,Master,5.0,109189,44,10,10,6,0,11,66,1,3.25,No
+31096,HR,Female,40,Analyst,2017-10-09,6,Diploma,4.69,27697,49,7,7,2,0,6,64,2,3.58,Yes
+31097,Sales,Female,33,Specialist,2010-11-15,10,Bachelor,3.53,82017,50,1,27,6,0,4,50,0,2.29,No
+31098,Sales,Female,44,Consultant,2020-11-13,1,Master,5.0,105820,59,5,17,8,4,11,22,0,3.55,No
+31099,Operations,Female,23,Engineer,2014-10-10,1,Bachelor,2.5,59193,58,11,22,0,1,9,52,2,3.16,Yes
+31100,Sales,Female,23,Engineer,2021-07-26,7,Master,5.0,121613,53,1,29,5,0,14,75,1,3.71,No
+31101,Finance,Male,22,Consultant,2015-05-21,6,Diploma,3.55,38478,44,10,26,5,0,11,68,0,4.05,No
+31102,IT,Female,31,Engineer,2014-07-05,1,High School,2.62,32256,40,1,33,9,3,9,32,0,3.09,No
+31103,HR,Male,39,Consultant,2020-06-10,14,Bachelor,5.0,104386,45,5,21,6,4,7,73,2,3.82,No
+31104,Marketing,Male,26,Analyst,2022-08-14,2,Master,4.02,71610,49,1,29,9,1,2,21,2,4.71,Yes
+31105,IT,Female,24,Analyst,2015-08-02,9,Bachelor,3.17,43287,42,2,4,7,3,9,92,0,3.13,No
+31106,Sales,Female,25,Consultant,2014-05-04,10,High School,3.81,41648,40,2,23,4,3,13,28,2,3.56,No
+31107,HR,Female,30,Consultant,2016-10-16,5,Diploma,3.61,30362,35,9,33,9,4,11,9,0,2.49,No
+31108,Sales,Female,57,Consultant,2012-09-01,3,PhD,5.0,143570,36,8,8,11,4,9,33,1,3.72,No
+31109,Operations,Female,35,Manager,2014-02-23,2,Diploma,3.85,40291,41,5,8,10,1,3,53,0,2.68,No
+31110,HR,Male,42,Engineer,2021-01-14,11,Master,4.8,180000,38,5,22,3,2,3,39,2,4.57,No
+31111,HR,Female,48,Specialist,2019-11-23,8,Master,5.0,166820,48,3,19,5,0,2,68,2,2.64,Yes
+31112,Marketing,Female,24,Specialist,2015-05-19,14,High School,4.87,56389,54,6,19,8,2,12,46,1,3.87,No
+31113,Finance,Male,22,Manager,2021-07-15,9,High School,4.01,40166,41,11,29,9,2,11,44,2,3.97,No
+31114,Finance,Female,48,Engineer,2010-12-03,5,Master,3.46,98239,50,10,25,10,0,3,54,1,2.17,Yes
+31115,Finance,Female,47,Analyst,2021-11-25,2,Master,2.56,72415,39,6,32,9,3,14,85,2,4.03,No
+31116,IT,Female,56,Specialist,2021-10-09,13,Bachelor,5.0,126777,38,4,25,10,0,13,58,2,2.7,No
+31117,Sales,Female,24,Engineer,2015-12-04,2,Master,4.32,123314,36,4,31,10,4,14,27,1,2.66,No
+31118,Operations,Male,54,Specialist,2012-11-19,5,Bachelor,4.17,98175,46,9,30,6,3,4,52,1,3.68,No
+31119,Operations,Female,32,Consultant,2017-01-22,5,PhD,4.9,128452,39,9,14,3,2,3,75,2,3.32,Yes
+31120,HR,Male,44,Consultant,2021-12-25,0,Bachelor,4.2,40948,45,9,26,3,0,9,71,1,2.45,Yes
+31121,Finance,Female,24,Engineer,2013-10-02,13,Bachelor,5.0,118208,35,3,15,8,0,6,55,2,3.55,No
+31122,Operations,Female,32,Engineer,2022-06-05,2,High School,3.13,25856,45,2,13,1,1,13,62,2,2.66,No
+31123,IT,Female,38,Specialist,2012-03-31,7,Bachelor,4.93,60334,58,6,23,4,4,14,33,1,4.02,No
+31124,Operations,Female,43,Specialist,2010-08-03,5,Diploma,2.93,34282,38,4,34,11,0,12,61,2,4.74,Yes
+31125,Operations,Female,36,Manager,2010-07-09,0,Bachelor,3.04,73969,37,3,20,5,1,7,75,2,4.62,Yes
+31126,Marketing,Female,51,Analyst,2018-03-20,11,Bachelor,4.11,42302,35,9,12,11,1,5,21,0,4.21,No
+31127,IT,Male,32,Consultant,2017-12-01,0,Diploma,3.63,28418,43,9,7,10,0,10,15,1,3.58,No
+31128,Operations,Female,37,Specialist,2015-10-04,0,Diploma,2.38,35377,50,10,18,1,0,9,27,0,2.69,No
+31129,Operations,Male,40,Specialist,2014-02-21,13,Diploma,3.42,59099,46,4,23,11,4,3,72,0,4.4,No
+31130,Operations,Male,30,Analyst,2014-08-08,1,Bachelor,2.28,51828,50,7,1,11,1,7,99,1,3.2,No
+31131,IT,Female,28,Analyst,2012-09-15,2,PhD,4.41,141746,47,4,30,3,2,7,77,0,2.55,No
+31132,HR,Male,24,Analyst,2020-06-09,3,Bachelor,4.33,38943,59,6,12,1,2,6,58,2,2.39,Yes
+31133,HR,Male,40,Analyst,2012-09-30,3,Master,4.9,70499,53,5,10,6,2,13,71,0,2.15,No
+31134,Finance,Male,26,Analyst,2016-02-28,14,Master,4.76,91893,46,9,1,11,4,5,92,0,2.87,No
+31135,HR,Female,59,Specialist,2019-08-19,0,Master,5.0,126259,39,10,27,3,1,6,60,2,3.03,No
+31136,Sales,Female,49,Engineer,2016-05-22,6,Master,5.0,139489,55,9,13,10,0,10,91,0,4.57,No
+31137,Operations,Female,29,Engineer,2020-05-21,7,Bachelor,4.42,42759,38,1,5,11,4,10,70,1,3.07,No
+31138,HR,Male,38,Specialist,2019-09-19,9,Bachelor,4.5,81291,42,2,22,1,1,8,28,0,4.0,Yes
+31139,HR,Male,56,Analyst,2011-12-07,10,Bachelor,3.2,49994,42,10,21,9,3,7,9,2,4.61,No
+31140,Operations,Female,40,Manager,2010-02-03,8,Diploma,3.06,42266,53,1,5,8,1,4,37,0,3.67,Yes
+31141,Operations,Male,28,Engineer,2013-09-22,12,PhD,5.0,180000,35,10,27,3,2,7,26,0,4.48,No
+31142,HR,Male,50,Manager,2020-06-24,8,Bachelor,5.0,124039,43,5,11,3,1,7,58,2,2.05,No
+31143,IT,Male,35,Specialist,2013-05-26,13,High School,3.31,27674,59,10,9,11,2,13,26,2,3.76,No
+31144,Operations,Female,33,Consultant,2022-05-12,4,Master,4.38,131487,48,4,25,0,3,9,70,2,2.69,No
+31145,Operations,Female,58,Engineer,2021-06-29,3,Master,3.71,72996,40,9,5,11,2,7,28,0,4.69,No
+31146,HR,Female,39,Specialist,2021-02-17,2,Bachelor,2.81,62920,38,9,19,5,0,8,19,1,3.67,Yes
+31147,IT,Female,30,Specialist,2014-01-11,12,Master,4.47,108788,40,3,17,10,3,2,30,0,4.4,No
+31148,Sales,Male,40,Analyst,2019-07-11,1,High School,3.69,15122,58,2,12,10,3,9,85,1,3.15,Yes
+31149,Sales,Female,52,Manager,2010-09-08,10,Bachelor,5.0,139343,52,11,5,6,0,14,88,2,3.72,No
+31150,Operations,Female,40,Specialist,2021-01-14,5,Diploma,3.06,43371,53,1,33,9,3,7,97,1,3.83,Yes
+31151,Marketing,Female,40,Engineer,2014-05-30,9,Diploma,3.31,29449,45,4,29,10,3,3,8,2,4.56,No
+31152,Operations,Female,47,Analyst,2017-07-30,10,Master,4.42,87812,47,3,33,0,4,11,49,1,4.04,No
+31153,HR,Female,35,Analyst,2020-01-11,12,Diploma,4.39,30159,35,1,28,8,0,6,37,0,3.45,No
+31154,Operations,Female,56,Engineer,2011-12-23,12,Master,4.86,180000,39,11,22,2,0,7,38,1,3.37,No
+31155,Operations,Female,45,Engineer,2010-08-16,3,Master,2.3,76009,42,2,18,11,3,7,10,1,3.58,No
+31156,HR,Female,42,Consultant,2019-10-10,7,Diploma,3.0,38673,47,8,31,7,4,11,99,0,3.68,No
+31157,IT,Female,58,Analyst,2016-02-04,8,Diploma,3.8,28710,52,1,1,2,2,9,64,2,3.22,Yes
+31158,Finance,Male,25,Consultant,2015-12-18,12,PhD,5.0,180000,35,4,14,10,0,13,53,2,2.41,No
+31159,Finance,Male,58,Consultant,2011-01-18,12,Bachelor,5.0,107646,39,10,28,8,4,3,74,1,4.34,No
+31160,Finance,Male,32,Analyst,2011-06-06,13,Master,5.0,96737,48,5,3,1,3,12,55,1,3.76,No
+31161,Marketing,Female,44,Engineer,2014-04-20,7,High School,4.76,41288,45,3,29,7,4,8,7,0,4.56,No
+31162,Sales,Female,51,Analyst,2011-09-21,2,High School,1.82,13663,53,9,32,3,3,13,49,0,3.69,No
+31163,HR,Male,33,Consultant,2015-10-12,9,Bachelor,4.63,113440,42,10,20,7,2,11,24,2,3.92,No
+31164,HR,Female,34,Specialist,2022-06-21,13,Bachelor,3.53,84371,36,1,31,6,2,10,18,2,4.1,No
+31165,Sales,Male,22,Manager,2022-02-23,10,Master,5.0,180000,39,8,17,5,3,9,77,1,4.12,No
+31166,Operations,Female,39,Consultant,2012-10-22,13,Bachelor,5.0,77723,41,9,32,6,3,5,86,2,3.24,No
+31167,Operations,Male,24,Analyst,2018-10-27,12,Bachelor,4.5,44508,45,2,1,6,0,14,9,0,4.76,Yes
+31168,IT,Female,51,Analyst,2012-04-10,5,High School,3.25,17143,37,6,3,4,2,12,10,0,4.42,Yes
+31169,HR,Male,53,Manager,2013-03-24,7,High School,2.88,52733,48,4,32,1,2,7,61,1,3.26,No
+31170,IT,Female,51,Analyst,2013-07-29,7,Master,5.0,117089,50,4,20,7,4,12,87,0,4.54,No
+31171,Finance,Male,37,Specialist,2014-05-04,6,Diploma,3.59,39813,47,2,34,11,1,3,89,2,3.43,No
+31172,Marketing,Male,37,Consultant,2013-12-13,11,PhD,5.0,138178,37,5,22,6,2,9,71,1,4.0,No
+31173,Operations,Female,55,Consultant,2017-11-27,9,Bachelor,5.0,100348,58,11,10,2,2,11,23,2,4.15,No
+31174,Operations,Male,24,Manager,2020-06-13,0,Master,4.71,166636,36,9,5,5,4,6,51,0,2.71,Yes
+31175,Finance,Male,57,Manager,2016-05-14,5,Diploma,2.84,44251,51,8,28,3,1,2,58,1,3.78,No
+31176,HR,Male,57,Engineer,2020-04-01,1,Diploma,3.07,29652,39,3,2,9,3,11,93,1,4.3,No
+31177,HR,Male,26,Specialist,2019-12-10,13,High School,3.26,28210,37,8,27,4,0,10,92,2,2.94,No
+31178,Operations,Male,43,Specialist,2017-09-13,10,Bachelor,5.0,96255,58,8,0,6,0,10,9,1,3.27,No
+31179,IT,Female,36,Analyst,2010-03-07,2,Master,4.39,91881,35,4,29,6,3,12,16,2,3.16,Yes
+31180,Finance,Male,52,Engineer,2014-10-18,12,Diploma,3.42,29804,46,3,34,5,1,10,81,0,4.35,No
+31181,Marketing,Male,36,Consultant,2016-02-17,5,Master,3.42,103042,41,5,29,10,0,14,6,0,2.52,Yes
+31182,IT,Male,59,Specialist,2021-02-20,3,Bachelor,2.92,87407,40,1,23,10,4,3,96,2,2.59,No
+31183,Marketing,Female,42,Consultant,2010-05-21,14,Master,5.0,180000,57,6,11,8,1,13,79,0,3.71,No
+31184,Finance,Male,54,Engineer,2015-05-08,6,High School,3.5,29670,53,2,26,6,0,5,44,2,2.85,Yes
+31185,HR,Male,22,Specialist,2014-03-14,0,Bachelor,2.44,41283,50,3,34,0,4,2,75,1,4.71,No
+31186,Sales,Male,45,Engineer,2021-06-08,1,Bachelor,2.99,37248,45,3,33,2,2,4,49,1,4.31,No
+31187,Operations,Female,52,Engineer,2020-02-02,5,Master,5.0,112259,55,7,25,6,1,5,94,1,2.42,No
+31188,Marketing,Male,40,Consultant,2011-11-29,1,Diploma,2.51,41331,50,4,6,6,4,4,96,0,2.33,Yes
+31189,Operations,Male,43,Engineer,2022-02-01,13,Diploma,3.84,30015,46,11,33,10,4,3,58,0,2.67,No
+31190,Sales,Male,49,Consultant,2013-07-26,11,Bachelor,4.95,102082,46,6,1,9,4,3,19,2,4.2,Yes
+31191,Finance,Male,34,Analyst,2019-11-02,3,Bachelor,3.14,40798,58,11,30,4,4,11,28,2,3.25,No
+31192,IT,Male,59,Analyst,2017-03-26,13,PhD,4.96,180000,56,5,18,7,3,13,58,0,4.14,No
+31193,Sales,Female,28,Engineer,2013-01-03,5,High School,2.94,29641,40,11,3,9,1,12,95,2,2.92,No
+31194,Operations,Male,55,Consultant,2017-04-17,4,High School,2.65,33982,47,10,19,0,0,6,46,2,3.61,Yes
+31195,Sales,Male,51,Engineer,2022-11-20,7,Master,3.19,88068,52,2,27,0,0,2,59,1,2.87,Yes
+31196,IT,Female,49,Manager,2016-11-30,10,Bachelor,4.15,103143,38,9,10,0,0,2,62,2,3.82,Yes
+31197,HR,Female,26,Consultant,2019-09-10,13,Diploma,4.75,63233,49,8,31,8,2,3,80,0,2.48,No
+31198,Finance,Male,22,Specialist,2017-10-27,9,Bachelor,3.32,88999,44,2,6,0,3,9,42,2,2.24,No
+31199,HR,Female,59,Engineer,2022-04-21,3,Bachelor,2.53,37557,36,2,3,10,0,4,30,1,4.27,No
+31200,Operations,Male,55,Specialist,2013-04-10,0,High School,2.42,24247,40,3,3,1,3,8,26,1,2.79,No
+31201,Marketing,Male,49,Specialist,2021-06-16,8,PhD,4.93,180000,56,11,17,2,4,2,93,2,3.76,No
+31202,IT,Male,47,Engineer,2015-12-12,0,Bachelor,4.65,52269,59,1,0,5,2,5,62,0,4.2,No
+31203,HR,Female,48,Analyst,2021-10-01,1,Bachelor,2.84,51940,56,2,23,8,0,13,81,0,3.27,No
+31204,Marketing,Female,52,Consultant,2012-05-25,9,Diploma,4.99,31949,45,1,9,1,0,13,64,1,4.24,No
+31205,Marketing,Male,50,Specialist,2022-10-22,7,High School,3.12,31981,35,7,10,9,4,9,66,1,2.71,Yes
+31206,Sales,Female,54,Consultant,2010-08-20,5,Diploma,3.21,43081,56,1,5,0,3,6,61,1,2.14,Yes
+31207,HR,Female,31,Analyst,2017-08-09,9,Bachelor,5.0,79016,59,10,21,8,1,12,22,2,2.33,No
+31208,Operations,Female,37,Manager,2013-01-08,13,Master,5.0,139995,51,1,6,9,2,8,74,1,4.34,No
+31209,HR,Female,39,Engineer,2011-03-04,8,Master,2.86,88506,42,11,32,6,0,10,10,1,2.25,No
+31210,Operations,Female,27,Manager,2013-01-21,6,High School,3.75,41419,46,6,25,10,4,10,13,0,4.38,Yes
+31211,Finance,Female,46,Specialist,2020-04-30,9,Diploma,5.0,58876,57,9,16,5,4,5,10,2,2.95,No
+31212,Marketing,Male,30,Manager,2015-08-19,12,PhD,5.0,180000,50,3,17,6,4,2,81,0,2.58,No
+31213,Sales,Male,57,Manager,2021-10-27,13,High School,4.89,33764,53,7,11,9,4,6,42,1,4.02,No
+31214,Finance,Female,33,Consultant,2018-06-26,14,Diploma,4.15,40500,47,3,27,2,0,14,7,2,2.08,No
+31215,HR,Male,52,Manager,2013-04-26,2,Bachelor,3.66,57828,42,3,31,0,1,9,65,0,4.2,No
+31216,Operations,Male,43,Specialist,2018-02-26,9,PhD,5.0,180000,37,2,12,9,3,14,72,0,3.7,Yes
+31217,HR,Female,22,Analyst,2018-11-25,8,High School,3.73,30753,41,4,30,4,1,5,12,1,2.83,No
+31218,Marketing,Female,42,Manager,2012-03-19,2,Bachelor,3.89,79482,56,4,9,2,1,5,56,1,3.55,No
+31219,Finance,Male,42,Analyst,2021-10-31,2,High School,3.12,26196,46,2,27,0,3,6,87,1,4.36,Yes
+31220,Finance,Male,52,Analyst,2016-07-15,2,Master,3.43,72042,54,11,30,10,1,4,51,1,4.36,No
+31221,Marketing,Male,44,Analyst,2012-01-20,5,High School,2.46,22365,53,9,34,6,3,14,56,0,2.02,No
+31222,Finance,Female,30,Specialist,2015-10-01,2,Bachelor,3.97,95743,55,5,0,5,2,13,8,0,2.57,No
+31223,HR,Male,47,Consultant,2022-03-09,12,Master,5.0,180000,35,11,9,10,0,14,6,2,3.77,No
+31224,IT,Male,33,Specialist,2020-04-22,6,PhD,5.0,156027,35,11,34,3,3,14,55,1,2.97,No
+31225,Marketing,Male,37,Analyst,2013-05-09,7,PhD,5.0,137295,54,10,14,1,0,5,66,1,3.72,No
+31226,HR,Male,40,Manager,2021-08-16,13,PhD,5.0,180000,53,11,6,9,4,3,66,2,4.14,No
+31227,IT,Male,53,Engineer,2019-01-23,14,Diploma,3.18,35684,53,1,2,2,3,9,48,0,2.85,No
+31228,Operations,Male,59,Manager,2011-06-19,8,Diploma,2.47,40056,37,9,10,6,2,8,18,1,3.25,Yes
+31229,Finance,Female,53,Consultant,2021-04-12,13,Bachelor,5.0,86149,59,2,12,5,0,10,24,1,2.84,No
+31230,Sales,Female,54,Consultant,2020-04-04,6,Diploma,3.51,34042,37,10,20,9,2,11,47,0,2.66,No
+31231,IT,Female,27,Specialist,2017-09-25,10,Bachelor,5.0,96648,38,10,11,2,0,6,74,1,3.84,No
+31232,Marketing,Male,56,Analyst,2021-06-18,5,Diploma,2.96,27721,43,10,6,10,4,14,35,1,2.91,No
+31233,Marketing,Female,24,Engineer,2014-12-25,11,PhD,5.0,131753,41,11,1,8,2,11,30,1,4.62,No
+31234,Marketing,Female,29,Consultant,2018-11-03,3,Bachelor,3.36,87368,48,5,16,8,2,10,80,0,3.26,No
+31235,Sales,Male,27,Consultant,2020-12-10,4,Master,5.0,112855,56,8,10,11,4,10,57,0,4.71,No
+31236,IT,Female,25,Specialist,2011-01-12,6,Diploma,3.83,31032,42,3,33,1,4,9,23,1,2.33,No
+31237,IT,Female,59,Consultant,2010-11-14,7,Diploma,3.72,50765,37,6,9,0,1,12,37,1,3.09,No
+31238,IT,Male,24,Manager,2015-10-26,5,High School,2.49,27907,38,9,29,2,1,10,75,2,2.4,No
+31239,IT,Male,45,Consultant,2021-06-20,13,Diploma,4.73,36639,37,1,18,3,1,5,86,0,4.16,No
+31240,Finance,Male,46,Analyst,2018-01-10,7,Diploma,3.88,33713,46,9,25,9,4,4,40,1,4.74,Yes
+31241,HR,Male,35,Specialist,2010-09-01,6,Diploma,3.85,40415,35,9,5,4,2,11,65,0,4.55,No
+31242,IT,Female,39,Manager,2013-09-24,7,High School,3.81,34569,58,10,21,7,3,4,32,2,4.27,No
+31243,Sales,Female,41,Analyst,2019-08-24,1,Master,4.69,97149,46,8,20,11,0,9,69,1,2.52,No
+31244,Marketing,Male,28,Consultant,2017-01-09,6,Bachelor,4.51,96568,45,6,7,2,1,4,98,1,4.23,No
+31245,Marketing,Male,57,Manager,2021-01-14,10,Bachelor,5.0,144486,56,4,18,8,3,5,74,0,2.96,No
+31246,IT,Female,37,Consultant,2016-01-26,4,Diploma,4.35,41952,37,10,8,9,0,13,83,1,2.45,No
+31247,Marketing,Female,25,Analyst,2013-10-16,13,High School,3.63,34143,52,1,7,10,0,3,76,1,4.79,No
+31248,IT,Female,40,Manager,2012-05-30,4,High School,3.72,29238,37,3,6,0,2,13,16,0,2.22,No
+31249,IT,Male,49,Analyst,2014-06-28,8,Master,5.0,100646,43,8,3,9,3,7,36,0,2.67,No
+31250,Finance,Female,59,Consultant,2020-11-20,9,Diploma,4.51,47042,44,9,0,11,1,14,24,0,4.52,No
+31251,HR,Male,34,Specialist,2016-06-15,1,Diploma,3.37,34571,53,3,34,8,3,6,8,0,2.3,No
+31252,Sales,Male,36,Engineer,2018-12-01,3,Master,5.0,126581,50,6,20,1,0,12,21,2,3.44,No
+31253,HR,Male,56,Specialist,2014-02-23,3,Master,4.35,118302,40,6,8,5,1,9,17,1,4.05,Yes
+31254,Marketing,Female,59,Consultant,2012-06-17,4,Diploma,2.91,25046,59,9,31,10,4,9,16,1,4.35,No
+31255,Sales,Female,23,Analyst,2022-10-09,7,Diploma,1.95,35385,58,4,23,8,3,6,18,0,2.06,No
+31256,Operations,Male,42,Engineer,2019-03-28,3,Bachelor,3.54,75776,44,9,25,11,4,4,76,0,3.55,No
+31257,Finance,Male,41,Analyst,2015-05-26,12,Diploma,3.25,40254,55,6,33,10,4,3,33,0,3.43,No
+31258,Marketing,Female,42,Engineer,2010-10-29,3,PhD,5.0,153434,52,5,12,10,1,14,80,1,2.84,No
+31259,Operations,Male,38,Consultant,2011-12-24,6,High School,2.88,23271,46,5,31,2,1,5,83,1,4.29,No
+31260,HR,Female,51,Consultant,2010-12-15,9,Master,4.9,77961,46,2,16,4,2,6,8,0,3.11,Yes
+31261,Sales,Male,41,Consultant,2010-02-04,7,Bachelor,5.0,49860,37,2,30,11,0,3,10,2,4.29,No
+31262,Marketing,Male,39,Analyst,2010-10-17,1,High School,2.85,20051,41,7,9,6,2,11,21,2,3.49,Yes
+31263,HR,Female,31,Analyst,2018-05-28,13,Bachelor,5.0,76969,58,4,18,11,2,11,95,2,2.2,Yes
+31264,Sales,Female,50,Consultant,2011-09-22,3,Bachelor,4.17,56850,46,1,27,5,2,11,63,1,2.7,No
+31265,Operations,Female,56,Manager,2014-07-03,4,Bachelor,5.0,111829,51,9,16,3,2,3,74,2,3.63,No
+31266,Finance,Male,53,Analyst,2013-11-03,10,High School,3.4,33478,56,7,29,7,4,12,86,0,3.78,No
+31267,Sales,Female,39,Specialist,2014-06-27,4,PhD,4.23,135540,44,6,25,1,4,5,94,2,3.81,No
+31268,IT,Male,43,Manager,2015-11-12,6,Master,5.0,157969,35,6,11,5,0,5,53,2,4.25,Yes
+31269,Marketing,Female,55,Analyst,2018-01-09,0,High School,3.52,16288,51,4,29,9,3,9,17,0,4.46,No
+31270,IT,Male,43,Manager,2010-05-28,5,High School,3.37,26600,40,5,15,10,3,2,85,0,3.89,Yes
+31271,Sales,Female,34,Analyst,2019-04-12,8,Diploma,3.48,34848,36,10,19,9,2,9,11,1,3.86,No
+31272,IT,Male,26,Specialist,2015-11-09,10,Diploma,4.4,53260,54,5,34,11,3,3,5,0,2.12,No
+31273,Sales,Female,53,Specialist,2021-02-10,5,PhD,5.0,180000,36,1,22,7,0,9,55,0,2.4,No
+31274,Sales,Female,22,Analyst,2022-09-24,5,Bachelor,2.53,38361,58,2,5,3,2,5,89,1,3.93,Yes
+31275,Sales,Female,46,Manager,2013-01-22,13,Bachelor,5.0,112479,38,8,11,11,2,9,35,2,3.2,No
+31276,Sales,Male,25,Specialist,2015-09-23,2,PhD,4.93,156906,42,4,9,9,2,12,82,1,4.1,No
+31277,IT,Male,27,Specialist,2013-12-09,4,Bachelor,3.8,53317,57,10,24,6,2,7,12,0,3.46,Yes
+31278,IT,Male,28,Specialist,2017-12-12,3,High School,2.4,23199,55,11,10,8,1,7,78,0,2.74,No
+31279,Marketing,Male,33,Analyst,2015-03-12,11,Diploma,4.59,27453,39,3,32,4,2,13,81,0,4.64,Yes
+31280,Sales,Male,24,Engineer,2020-02-09,7,Bachelor,3.95,97488,51,9,6,1,1,5,79,0,4.0,No
+31281,Operations,Female,49,Specialist,2017-09-19,4,Bachelor,4.62,95856,54,5,31,0,4,5,85,2,4.3,No
+31282,HR,Male,45,Analyst,2016-02-06,13,Diploma,3.2,26391,52,2,1,3,4,14,10,1,3.5,No
+31283,IT,Male,50,Engineer,2017-10-11,0,Diploma,2.86,29142,43,3,24,11,1,7,28,2,4.13,No
+31284,Operations,Male,46,Consultant,2011-07-16,12,High School,3.76,39743,43,6,24,7,0,4,55,0,4.32,No
+31285,HR,Male,23,Engineer,2021-07-07,2,Diploma,2.69,35750,46,11,1,3,4,4,75,2,4.3,No
+31286,Marketing,Female,23,Specialist,2013-12-24,3,High School,4.76,22680,59,1,1,2,4,3,92,0,4.66,No
+31287,Finance,Female,47,Specialist,2019-11-11,9,Diploma,5.0,49437,51,5,28,7,4,8,64,1,4.33,No
+31288,HR,Male,33,Analyst,2019-12-28,12,Master,3.75,68128,36,1,12,6,1,10,71,2,2.7,No
+31289,HR,Male,52,Specialist,2019-10-10,14,PhD,5.0,180000,46,5,34,5,4,3,60,1,3.05,Yes
+31290,Sales,Male,48,Consultant,2018-12-13,2,Bachelor,3.99,85494,38,8,1,1,4,13,75,1,4.13,No
+31291,Marketing,Female,25,Engineer,2016-07-12,13,Master,5.0,144898,58,2,18,2,3,7,52,2,3.02,Yes
+31292,Sales,Female,49,Consultant,2017-05-27,9,Diploma,3.79,38489,49,6,9,2,1,11,79,0,2.57,Yes
+31293,IT,Female,29,Engineer,2012-05-14,6,Diploma,3.51,39284,48,4,24,2,3,14,42,0,4.26,No
+31294,Sales,Male,36,Specialist,2021-12-26,3,PhD,5.0,180000,45,4,12,7,4,4,82,1,2.61,No
+31295,Sales,Male,50,Manager,2020-03-07,3,Diploma,3.16,42251,57,4,31,0,1,5,46,2,3.17,No
+31296,Operations,Female,52,Engineer,2012-07-28,5,Bachelor,3.63,68878,46,2,24,5,4,8,38,1,3.01,No
+31297,IT,Female,44,Consultant,2014-09-16,11,Master,4.77,94741,55,10,33,4,0,6,94,0,4.15,Yes
+31298,Finance,Female,33,Consultant,2015-01-15,0,High School,2.86,29328,40,4,27,2,4,9,66,2,3.82,No
+31299,Marketing,Female,23,Analyst,2010-06-08,9,Bachelor,2.7,44569,44,8,1,1,4,12,55,0,3.43,No
+31300,Sales,Female,55,Specialist,2011-05-14,9,High School,4.35,32778,35,10,25,3,0,11,30,0,3.4,No
+31301,HR,Male,45,Engineer,2015-01-09,8,Bachelor,5.0,66553,38,6,15,8,0,13,74,0,2.43,No
+31302,Operations,Male,22,Manager,2014-03-21,3,Master,5.0,147345,38,4,4,3,0,6,74,2,3.85,No
+31303,Marketing,Female,25,Analyst,2012-04-23,1,Diploma,3.21,28438,42,9,9,0,2,6,10,2,2.5,No
+31304,HR,Male,43,Engineer,2014-06-27,2,Bachelor,3.71,81570,53,6,9,3,3,14,62,1,4.25,No
+31305,HR,Male,50,Manager,2010-12-13,2,Diploma,3.19,33222,39,7,11,9,2,2,98,0,4.59,No
+31306,IT,Female,26,Manager,2018-04-09,5,Bachelor,3.22,93370,48,5,33,1,0,5,22,1,3.58,Yes
+31307,Sales,Male,23,Analyst,2022-12-31,11,Master,5.0,141350,57,6,0,8,0,12,45,2,2.6,No
+31308,Sales,Male,54,Consultant,2010-05-10,9,Master,5.0,161000,40,1,21,10,2,4,27,2,2.53,Yes
+31309,Finance,Female,54,Specialist,2016-12-14,9,Bachelor,3.32,53674,44,5,7,8,3,9,49,0,3.38,No
+31310,Finance,Male,30,Engineer,2014-03-27,3,Bachelor,4.2,52835,48,1,12,10,4,11,38,2,2.79,No
+31311,Marketing,Male,33,Analyst,2022-03-16,1,Diploma,1.97,19738,43,7,6,2,4,5,49,0,4.47,No
+31312,HR,Male,24,Manager,2014-01-03,7,PhD,5.0,180000,48,11,4,2,1,8,16,1,3.83,No
+31313,Marketing,Male,59,Engineer,2012-03-17,8,Master,3.93,84995,49,4,1,0,0,5,62,1,3.8,No
+31314,Marketing,Male,30,Manager,2011-04-28,6,PhD,5.0,180000,44,11,34,2,0,10,73,1,3.89,No
+31315,Finance,Male,42,Engineer,2013-01-27,7,Bachelor,4.09,60982,36,2,20,6,1,5,29,0,4.22,Yes
+31316,HR,Male,40,Engineer,2012-08-22,4,High School,2.78,36348,53,7,26,11,2,6,63,0,2.23,Yes
+31317,Operations,Male,36,Consultant,2019-04-29,5,Master,3.46,139695,58,11,1,8,1,12,25,0,2.74,No
+31318,IT,Female,49,Analyst,2017-11-23,14,High School,2.47,21372,41,9,6,0,3,3,6,1,3.12,Yes
+31319,IT,Male,34,Analyst,2018-04-22,10,High School,4.58,29962,38,2,5,4,2,8,59,2,2.58,No
+31320,Operations,Female,35,Engineer,2015-05-12,4,High School,3.16,23904,45,3,20,11,0,9,89,2,3.13,No
+31321,Operations,Male,42,Analyst,2011-03-20,10,Diploma,2.92,23017,38,2,19,2,3,8,57,1,4.27,No
+31322,IT,Female,50,Engineer,2011-01-11,12,Bachelor,5.0,94376,50,8,8,6,2,4,64,1,2.31,No
+31323,Sales,Female,46,Engineer,2021-07-12,2,Master,3.94,81099,38,3,14,5,3,3,90,1,3.85,No
+31324,Marketing,Female,45,Engineer,2012-07-08,9,Bachelor,3.91,100036,50,3,1,0,0,7,83,2,2.57,No
+31325,Marketing,Male,56,Analyst,2018-12-19,7,Diploma,4.46,27274,53,10,0,3,2,10,36,2,2.25,Yes
+31326,IT,Female,22,Engineer,2010-11-23,5,Bachelor,4.59,55640,39,8,34,1,4,4,74,0,2.29,No
+31327,Sales,Female,46,Manager,2014-11-06,14,High School,4.87,61236,48,11,19,8,2,7,19,0,3.68,Yes
+31328,HR,Female,34,Analyst,2014-02-05,12,Master,4.23,135286,37,1,3,9,4,4,23,1,3.66,No
+31329,Operations,Male,54,Analyst,2020-04-17,3,Diploma,3.07,25653,47,9,34,11,4,4,89,1,4.11,No
+31330,HR,Male,26,Consultant,2017-06-21,3,Bachelor,4.05,84695,38,3,4,7,1,3,19,0,3.99,No
+31331,HR,Female,44,Specialist,2018-08-21,9,Diploma,4.0,34092,56,7,6,5,4,9,26,1,2.87,No
+31332,HR,Male,25,Consultant,2021-01-28,9,Master,5.0,180000,39,7,19,6,0,11,55,2,3.88,No
+31333,IT,Male,58,Analyst,2012-10-08,4,Diploma,4.73,25797,55,6,18,1,0,2,18,1,3.12,Yes
+31334,IT,Female,41,Analyst,2019-07-26,4,Bachelor,2.61,63581,59,1,5,9,3,12,52,0,4.11,No
+31335,HR,Male,47,Manager,2016-11-20,11,Diploma,3.91,48851,39,7,24,8,2,8,21,2,4.76,Yes
+31336,Operations,Female,57,Consultant,2018-10-13,4,Master,3.97,141260,57,7,27,6,0,3,52,2,4.38,No
+31337,Finance,Female,26,Consultant,2015-03-03,8,PhD,5.0,180000,38,7,28,10,4,9,93,1,3.89,No
+31338,IT,Female,56,Engineer,2014-05-23,12,Bachelor,4.78,87311,39,3,21,6,4,12,7,2,2.35,No
+31339,HR,Male,50,Engineer,2022-09-28,8,Bachelor,4.14,74556,38,9,9,5,1,4,33,0,2.7,No
+31340,IT,Male,31,Manager,2015-10-07,4,Master,5.0,180000,35,10,17,11,2,14,15,0,3.06,No
+31341,Finance,Male,33,Specialist,2019-07-26,12,Bachelor,4.58,67929,56,1,22,1,3,5,80,1,3.9,No
+31342,IT,Male,24,Specialist,2019-01-26,9,Bachelor,3.9,79659,53,9,17,6,0,3,68,2,3.36,No
+31343,IT,Male,55,Analyst,2013-03-18,4,Master,4.78,99726,46,2,3,10,4,9,46,2,4.42,No
+31344,Finance,Female,36,Analyst,2013-08-19,8,Bachelor,4.9,54777,38,6,20,10,2,9,96,2,3.73,Yes
+31345,Operations,Male,57,Manager,2018-07-18,11,Bachelor,2.7,76935,35,4,29,1,0,12,12,1,2.93,No
+31346,Operations,Female,43,Engineer,2010-09-27,4,High School,4.61,32468,41,8,26,0,4,11,96,0,4.38,No
+31347,Operations,Male,33,Specialist,2017-07-25,4,Bachelor,4.9,84508,38,3,0,7,2,7,33,0,3.09,No
+31348,Sales,Female,42,Engineer,2017-05-31,2,Bachelor,3.91,75384,57,8,23,3,3,14,83,2,4.35,Yes
+31349,Marketing,Female,48,Analyst,2011-12-08,1,High School,2.77,23215,52,5,2,10,1,2,44,1,3.59,Yes
+31350,HR,Female,24,Analyst,2010-08-09,3,High School,2.93,19266,48,10,1,5,3,5,47,2,2.13,No
+31351,Finance,Male,44,Consultant,2016-03-22,13,Master,5.0,180000,37,10,15,5,0,10,21,2,2.44,Yes
+31352,Marketing,Male,39,Engineer,2021-02-05,1,Bachelor,3.03,58949,58,7,16,3,0,12,34,1,3.82,No
+31353,Marketing,Male,33,Analyst,2010-11-10,3,Bachelor,3.7,53604,42,6,13,3,2,11,19,0,4.55,Yes
+31354,Finance,Female,44,Consultant,2022-03-27,12,Diploma,4.64,58177,44,6,14,3,1,5,64,2,2.34,Yes
+31355,HR,Female,27,Engineer,2016-05-07,11,High School,3.32,30498,54,10,31,3,2,8,74,2,2.55,No
+31356,Finance,Male,22,Engineer,2021-11-19,6,Master,4.95,146232,39,7,14,5,0,5,77,0,3.59,Yes
+31357,HR,Female,28,Consultant,2018-03-20,5,Diploma,2.45,43853,51,9,15,4,4,3,35,0,3.24,Yes
+31358,Finance,Female,44,Specialist,2013-09-25,0,Diploma,3.22,43339,57,9,17,7,1,6,51,0,3.63,No
+31359,Sales,Female,24,Specialist,2021-05-06,13,Bachelor,4.72,61035,45,11,3,7,2,8,5,0,2.39,No
+31360,Finance,Male,28,Analyst,2016-12-19,14,Master,5.0,78510,45,7,31,3,4,6,66,1,2.04,No
+31361,HR,Female,54,Analyst,2012-08-14,14,Bachelor,4.45,77759,40,2,7,3,0,3,91,2,3.3,No
+31362,Operations,Male,40,Specialist,2019-11-24,13,Bachelor,5.0,83151,56,11,22,9,1,12,81,1,2.71,No
+31363,Finance,Female,51,Engineer,2016-06-04,2,Bachelor,1.89,55647,42,11,22,11,3,11,30,2,2.1,No
+31364,Operations,Male,31,Analyst,2017-07-26,6,PhD,5.0,142089,43,5,12,4,4,10,22,0,3.61,No
+31365,HR,Female,41,Analyst,2016-02-07,11,Diploma,2.62,30902,42,11,14,1,2,7,34,2,4.44,No
+31366,Marketing,Male,39,Consultant,2018-08-01,1,Bachelor,2.97,44600,57,6,24,6,2,7,23,2,3.39,No
+31367,Operations,Female,48,Consultant,2022-11-16,2,Master,4.86,83590,58,9,1,5,4,4,7,1,3.04,No
+31368,Marketing,Female,25,Specialist,2013-10-30,3,Diploma,2.53,30051,36,5,21,3,3,4,24,0,2.69,No
+31369,Sales,Male,32,Specialist,2010-04-05,2,Bachelor,1.57,42562,53,3,7,9,2,13,43,2,2.65,Yes
+31370,HR,Female,54,Engineer,2013-08-10,2,High School,2.7,34807,57,3,12,0,2,12,9,2,3.64,No
+31371,Finance,Male,58,Engineer,2013-04-18,6,Bachelor,4.35,45764,40,7,24,0,0,12,87,1,4.51,Yes
+31372,Finance,Female,34,Engineer,2018-11-10,7,Master,5.0,105770,50,10,21,8,2,3,61,0,3.31,Yes
+31373,Sales,Male,58,Manager,2018-01-14,1,High School,2.69,37501,35,4,5,5,2,8,48,1,2.28,No
+31374,Operations,Male,39,Manager,2012-07-11,2,Diploma,5.0,49025,46,1,22,8,3,8,89,1,2.25,No
+31375,IT,Female,22,Analyst,2016-06-01,4,Master,3.67,68549,54,3,27,7,3,7,10,1,3.09,No
+31376,HR,Female,32,Manager,2020-10-17,4,Diploma,4.15,62113,38,11,31,2,0,12,55,1,2.02,No
+31377,Finance,Female,58,Engineer,2022-11-14,13,Bachelor,5.0,64986,37,1,27,7,2,11,10,1,3.64,Yes
+31378,Finance,Male,23,Engineer,2017-11-26,14,High School,2.77,31845,54,6,30,4,3,4,44,0,4.05,No
+31379,Finance,Male,32,Engineer,2016-06-06,13,High School,4.63,37387,54,4,24,10,1,13,73,0,2.3,No
+31380,HR,Male,30,Specialist,2020-02-09,2,Diploma,3.86,47833,49,9,5,9,3,9,70,1,3.65,No
+31381,HR,Male,52,Manager,2012-12-25,3,Master,4.35,92014,40,6,4,11,2,9,22,2,4.2,No
+31382,Marketing,Female,38,Manager,2016-10-07,8,Master,3.83,123616,40,9,20,0,3,4,27,1,2.94,No
+31383,IT,Male,33,Manager,2013-05-01,1,Diploma,3.29,35543,57,3,3,11,4,8,9,1,2.75,Yes
+31384,Marketing,Male,47,Analyst,2012-09-08,1,Bachelor,2.75,44196,57,11,0,4,2,7,51,2,2.77,Yes
+31385,IT,Female,39,Analyst,2012-02-10,2,Master,4.66,97320,52,11,19,7,4,9,88,1,2.26,Yes
+31386,Finance,Male,36,Analyst,2014-04-03,3,Bachelor,2.55,49874,46,6,1,2,0,13,15,1,4.33,Yes
+31387,Marketing,Male,32,Analyst,2012-08-01,2,Bachelor,3.22,45855,41,3,21,5,2,11,82,0,3.74,No
+31388,IT,Male,27,Engineer,2011-12-17,13,Master,5.0,148261,55,11,15,5,0,14,74,2,2.07,No
+31389,HR,Female,23,Analyst,2013-11-27,8,Diploma,4.23,35052,38,1,30,10,4,13,84,1,2.74,No
+31390,Sales,Male,58,Analyst,2017-10-22,12,Diploma,4.75,26045,59,1,3,7,2,5,77,2,2.67,No
+31391,Operations,Female,44,Analyst,2018-06-28,3,High School,3.0,19269,47,2,21,0,3,4,38,1,3.76,No
+31392,HR,Male,59,Specialist,2021-01-12,14,Diploma,5.0,43381,44,2,27,10,4,6,55,2,4.42,Yes
+31393,Operations,Female,44,Analyst,2017-06-03,6,Bachelor,3.68,48284,45,10,32,8,3,11,17,1,4.39,No
+31394,Marketing,Male,40,Engineer,2020-03-18,13,Bachelor,4.1,74260,54,5,8,2,3,11,12,0,3.66,No
+31395,Operations,Female,30,Engineer,2020-06-15,10,Bachelor,4.38,48211,41,9,29,6,1,10,92,0,2.03,No
+31396,IT,Male,45,Analyst,2022-01-10,14,High School,3.99,26052,40,4,21,6,0,11,56,2,4.7,No
+31397,Finance,Male,26,Specialist,2019-08-29,8,Bachelor,4.15,63995,50,2,0,6,2,9,61,2,2.69,Yes
+31398,IT,Male,26,Engineer,2015-02-06,6,Bachelor,4.34,63793,42,1,6,7,2,6,53,2,2.29,No
+31399,Operations,Male,53,Analyst,2018-09-09,10,High School,4.05,28641,54,1,22,8,4,9,38,0,4.55,No
+31400,HR,Male,34,Specialist,2020-04-30,4,High School,3.46,42788,36,11,15,3,0,8,91,0,4.69,No
+31401,IT,Male,33,Specialist,2020-08-01,12,Master,5.0,116883,35,1,10,0,1,14,25,1,3.71,No
+31402,Sales,Female,50,Analyst,2020-01-22,1,Master,3.68,61982,57,11,31,6,4,8,34,1,3.92,Yes
+31403,Operations,Female,57,Analyst,2018-01-16,0,Bachelor,3.62,38643,54,8,1,10,3,7,56,1,4.54,No
+31404,IT,Female,22,Specialist,2018-08-23,14,Bachelor,5.0,122735,39,8,14,8,3,9,39,1,3.71,Yes
+31405,Marketing,Male,31,Manager,2014-04-08,9,Bachelor,5.0,119261,59,5,25,10,3,12,42,0,4.6,Yes
+31406,Marketing,Female,56,Manager,2010-12-23,7,Bachelor,5.0,127339,41,10,21,8,2,12,66,0,2.03,No
+31407,IT,Female,37,Analyst,2020-04-11,9,Diploma,1.88,28830,49,4,3,1,3,3,82,2,3.01,No
+31408,IT,Female,42,Consultant,2013-02-27,1,High School,2.63,19536,51,7,22,6,1,13,39,1,2.63,No
+31409,Finance,Female,44,Analyst,2013-05-09,7,PhD,4.56,130986,49,8,8,3,3,10,26,0,2.28,No
+31410,Finance,Male,38,Manager,2020-04-28,8,Bachelor,5.0,137511,53,8,32,7,1,10,25,1,3.17,Yes
+31411,Marketing,Female,43,Analyst,2019-12-10,5,Bachelor,3.59,48433,38,2,22,0,2,3,24,0,3.43,Yes
+31412,IT,Male,24,Manager,2022-05-16,12,PhD,5.0,180000,35,8,24,6,3,14,18,2,3.21,No
+31413,IT,Female,50,Analyst,2018-11-03,5,Master,5.0,91233,41,5,14,7,1,7,78,1,3.44,Yes
+31414,HR,Male,58,Engineer,2014-08-02,7,High School,3.6,30020,39,1,19,1,3,9,57,2,3.1,No
+31415,Operations,Male,30,Analyst,2014-09-12,1,Bachelor,3.01,49224,44,5,11,5,2,13,8,1,3.25,Yes
+31416,IT,Male,25,Analyst,2012-01-25,0,Master,4.58,81553,40,1,0,8,0,8,26,0,2.46,No
+31417,HR,Female,36,Specialist,2018-06-29,0,Bachelor,3.04,66469,58,11,7,10,1,4,11,0,3.1,No
+31418,Operations,Female,45,Manager,2014-12-22,12,PhD,5.0,180000,53,3,23,8,1,11,45,0,3.3,No
+31419,Sales,Male,37,Consultant,2018-06-02,11,High School,2.42,31856,42,10,18,3,4,10,65,0,4.66,No
+31420,Operations,Female,50,Analyst,2011-05-26,2,Bachelor,3.44,49431,44,7,24,5,2,12,80,1,3.58,No
+31421,HR,Female,40,Manager,2011-04-23,14,Bachelor,5.0,130411,51,8,1,3,4,7,38,0,3.33,No
+31422,Sales,Female,28,Specialist,2017-05-16,14,Master,5.0,180000,44,2,4,0,3,12,64,2,3.18,No
+31423,Sales,Female,48,Specialist,2015-07-24,0,Diploma,1.92,27066,49,10,14,1,3,9,27,0,3.49,Yes
+31424,Sales,Male,41,Consultant,2015-07-20,4,Master,5.0,120773,45,10,33,11,2,2,86,1,4.32,No
+31425,Finance,Female,55,Consultant,2012-03-23,8,Master,5.0,144644,40,7,31,6,3,3,38,0,3.34,No
+31426,Finance,Male,40,Analyst,2010-01-31,6,Master,4.13,71260,47,8,5,9,3,9,43,2,3.62,Yes
+31427,Operations,Male,24,Consultant,2022-08-04,10,Bachelor,3.41,75022,39,9,6,10,1,5,42,0,3.87,No
+31428,Operations,Female,34,Consultant,2014-06-17,11,Bachelor,4.89,101009,47,11,11,3,2,5,78,0,3.66,No
+31429,Operations,Male,36,Manager,2011-11-12,13,Bachelor,5.0,109935,55,2,14,3,1,4,94,2,2.35,Yes
+31430,Operations,Male,46,Manager,2021-03-27,8,Diploma,4.53,47258,47,10,24,5,2,6,90,2,2.59,No
+31431,Finance,Female,48,Engineer,2018-05-29,2,Bachelor,2.8,38169,38,8,4,3,4,13,11,1,4.46,No
+31432,Finance,Female,30,Engineer,2012-02-28,6,Diploma,3.49,47581,36,9,10,4,2,4,21,2,2.64,No
+31433,Finance,Female,45,Analyst,2020-05-16,12,Bachelor,3.83,42067,48,1,21,10,3,6,19,0,3.23,Yes
+31434,Finance,Female,44,Consultant,2010-10-25,6,Master,5.0,129922,47,10,25,5,0,12,57,0,3.72,No
+31435,Operations,Male,41,Engineer,2022-03-27,8,Bachelor,3.28,82992,50,1,34,11,3,3,12,0,3.1,No
+31436,Marketing,Female,34,Analyst,2014-02-21,0,Diploma,1.89,18696,58,9,24,2,2,7,71,1,2.36,No
+31437,HR,Female,30,Analyst,2019-11-11,5,Diploma,3.62,19968,59,10,15,7,2,3,30,2,2.82,Yes
+31438,IT,Male,26,Consultant,2019-05-28,9,High School,2.42,36073,53,1,20,8,0,12,83,2,3.7,No
+31439,Operations,Male,50,Analyst,2017-07-10,2,Diploma,2.95,31457,54,11,30,5,2,3,22,0,3.03,No
+31440,Finance,Male,24,Consultant,2014-02-22,7,High School,3.78,29835,58,11,11,11,0,2,23,0,2.75,Yes
+31441,HR,Male,28,Manager,2019-12-22,7,Bachelor,5.0,117909,56,11,4,0,4,13,81,0,2.58,No
+31442,HR,Female,34,Manager,2017-03-22,6,Diploma,3.9,48918,53,4,22,1,3,8,7,0,3.95,No
+31443,Operations,Female,57,Consultant,2010-02-06,11,Master,5.0,175412,43,6,20,3,2,9,88,0,3.18,No
+31444,IT,Female,37,Consultant,2013-07-10,2,Bachelor,3.36,40136,53,3,25,9,3,7,68,2,3.51,No
+31445,Operations,Female,50,Analyst,2022-10-03,14,Master,5.0,74856,55,9,2,11,2,14,80,0,3.91,No
+31446,Operations,Female,22,Analyst,2012-04-20,9,PhD,5.0,159560,41,3,29,8,4,10,74,2,4.03,No
+31447,Sales,Female,52,Specialist,2013-03-17,10,Bachelor,5.0,115365,54,9,7,6,3,14,67,0,2.5,No
+31448,Operations,Female,47,Engineer,2015-10-28,14,PhD,5.0,180000,49,7,26,6,2,4,46,0,3.61,No
+31449,Sales,Male,58,Engineer,2011-10-20,2,Master,4.71,105964,57,1,31,10,3,11,64,2,3.48,Yes
+31450,Operations,Male,46,Analyst,2020-06-01,6,Bachelor,3.63,64976,43,8,6,0,1,7,24,2,3.45,No
+31451,IT,Female,32,Consultant,2014-05-15,3,High School,4.19,32332,40,1,8,10,2,7,46,2,3.98,No
+31452,Finance,Female,55,Specialist,2012-06-25,4,Bachelor,3.83,58392,35,4,32,10,1,2,75,2,3.67,No
+31453,IT,Female,43,Analyst,2016-02-22,8,High School,4.48,29927,51,6,24,2,2,5,71,0,2.04,No
+31454,Operations,Female,26,Specialist,2013-12-27,6,Bachelor,2.64,46853,35,6,11,11,0,9,24,1,2.71,Yes
+31455,Operations,Female,57,Manager,2022-06-04,3,Bachelor,4.04,97983,37,5,0,4,4,8,26,0,2.57,No
+31456,Sales,Male,41,Manager,2017-04-19,1,Bachelor,4.62,63142,36,4,21,2,1,7,14,2,2.34,No
+31457,Marketing,Female,31,Analyst,2022-05-03,8,Bachelor,3.17,49948,43,10,25,11,1,9,64,2,2.46,No
+31458,Finance,Female,51,Manager,2018-07-17,10,High School,3.89,59406,42,6,30,7,3,10,13,2,3.32,No
+31459,Marketing,Female,41,Analyst,2010-01-29,12,Diploma,3.92,36026,45,1,22,5,0,9,97,0,2.79,Yes
+31460,Sales,Male,33,Engineer,2022-09-23,11,Bachelor,5.0,111312,52,10,0,3,2,3,57,0,4.28,No
+31461,HR,Female,41,Consultant,2019-12-18,13,High School,5.0,46069,36,9,25,3,1,10,60,0,2.83,No
+31462,IT,Male,33,Engineer,2013-07-20,1,High School,3.02,28291,49,9,32,3,3,4,25,0,4.62,Yes
+31463,Operations,Male,46,Analyst,2020-12-14,4,Bachelor,2.5,50396,44,10,0,3,2,4,23,1,4.2,No
+31464,IT,Male,48,Analyst,2022-08-17,9,Master,4.41,102845,45,10,3,11,2,13,37,0,3.36,No
+31465,IT,Male,26,Specialist,2017-08-17,9,Diploma,3.14,50624,43,6,5,0,3,7,70,1,2.05,No
+31466,IT,Male,38,Engineer,2011-12-06,0,Master,4.04,85052,49,9,17,1,4,4,22,1,2.56,Yes
+31467,Operations,Male,52,Manager,2012-03-23,12,High School,4.05,56199,53,5,26,1,4,3,90,0,2.24,No
+31468,Finance,Female,46,Analyst,2017-07-29,14,Diploma,3.52,32527,59,1,9,2,1,6,90,1,2.44,Yes
+31469,Finance,Male,38,Analyst,2016-03-02,11,PhD,5.0,145105,47,7,18,0,4,6,43,1,2.5,No
+31470,HR,Male,44,Engineer,2019-10-14,13,Bachelor,3.3,55869,51,7,17,6,0,5,6,1,4.76,No
+31471,Marketing,Female,41,Engineer,2018-01-25,6,Bachelor,4.08,42179,35,8,24,1,2,8,57,1,3.48,No
+31472,Operations,Female,56,Specialist,2014-11-02,6,Master,5.0,159569,48,9,16,7,4,8,75,0,2.34,No
+31473,Marketing,Male,37,Consultant,2010-09-24,4,Bachelor,4.15,68282,51,3,20,7,0,10,29,2,3.73,No
+31474,IT,Female,22,Consultant,2014-11-25,0,High School,1.49,33952,55,4,33,7,4,9,14,1,4.2,No
+31475,IT,Male,59,Specialist,2016-06-11,11,Master,5.0,180000,43,8,16,6,2,12,77,2,4.03,No
+31476,Marketing,Female,28,Analyst,2010-10-18,7,Master,2.83,101832,48,2,12,3,2,2,86,0,3.06,No
+31477,Marketing,Male,48,Engineer,2017-02-24,5,High School,2.84,21100,50,2,2,6,2,14,26,0,2.24,No
+31478,Finance,Male,47,Engineer,2014-06-12,13,Diploma,3.64,48718,43,9,28,8,4,3,23,2,2.15,No
+31479,HR,Female,36,Engineer,2020-12-20,5,PhD,5.0,160034,46,3,1,3,4,3,11,1,2.1,No
+31480,HR,Female,29,Analyst,2013-10-11,9,Diploma,4.81,22789,38,1,9,7,1,6,89,0,4.72,No
+31481,HR,Female,39,Consultant,2020-05-12,6,Diploma,3.91,28395,44,11,4,2,1,12,88,0,4.28,No
+31482,Finance,Female,55,Engineer,2018-10-07,2,Diploma,3.51,22396,54,2,5,4,4,12,26,0,4.18,No
+31483,Operations,Female,32,Consultant,2018-05-05,8,High School,4.66,27315,39,3,17,10,3,12,73,0,2.95,No
+31484,HR,Female,50,Engineer,2015-01-29,4,Master,3.45,82499,47,1,14,8,3,13,54,0,2.79,No
+31485,Operations,Male,48,Consultant,2010-10-26,4,High School,4.39,19932,35,9,30,10,1,3,26,0,4.14,Yes
+31486,Marketing,Female,39,Consultant,2017-11-19,11,Master,4.88,180000,42,1,19,0,0,13,72,1,4.22,No
+31487,Sales,Male,37,Analyst,2016-12-19,7,Bachelor,4.48,47557,40,1,5,2,2,14,68,0,3.93,No
+31488,Operations,Female,23,Consultant,2018-10-17,10,Diploma,5.0,51922,46,10,14,6,1,12,89,2,4.6,No
+31489,Sales,Male,41,Consultant,2022-04-05,0,Master,4.11,104594,55,3,8,2,0,4,8,2,4.39,No
+31490,Operations,Male,43,Consultant,2022-11-21,11,Bachelor,4.77,104422,50,6,25,10,3,12,35,1,4.68,No
+31491,Marketing,Female,39,Consultant,2016-04-27,5,Diploma,4.77,39945,53,5,21,11,2,5,69,2,3.68,No
+31492,Sales,Male,44,Consultant,2010-06-14,0,Diploma,2.97,41830,49,8,4,5,3,10,5,0,3.66,Yes
+31493,HR,Male,37,Specialist,2017-12-02,8,Bachelor,4.58,90179,39,7,10,2,0,6,81,1,2.24,No
+31494,Operations,Male,58,Specialist,2010-02-07,4,Master,4.68,91229,37,3,15,9,4,8,40,2,2.61,Yes
+31495,IT,Female,33,Analyst,2015-07-01,10,Bachelor,5.0,81834,49,6,23,4,1,7,95,2,2.43,Yes
+31496,HR,Female,56,Analyst,2018-11-24,0,PhD,3.39,149098,54,1,14,0,3,3,83,0,2.09,No
+31497,Marketing,Female,36,Manager,2016-08-26,10,Bachelor,4.93,117021,44,4,18,5,3,7,55,1,3.54,No
+31498,IT,Female,28,Analyst,2015-08-05,11,High School,4.62,18943,57,10,12,3,0,2,61,1,4.12,Yes
+31499,Operations,Male,49,Consultant,2020-06-01,10,Bachelor,4.51,68192,50,10,17,11,2,13,86,2,4.69,No
+31500,IT,Male,59,Engineer,2019-08-28,11,Master,4.66,86615,56,5,26,8,4,2,85,0,3.55,No
+31501,Sales,Female,47,Engineer,2018-08-13,1,PhD,5.0,155047,40,10,30,1,2,3,74,1,2.85,No
+31502,Finance,Male,26,Engineer,2010-01-07,7,PhD,5.0,124304,50,1,26,0,0,12,48,1,2.08,No
+31503,Operations,Female,24,Consultant,2010-09-01,13,Bachelor,5.0,95372,35,3,27,1,1,6,39,1,2.88,No
+31504,Sales,Male,53,Manager,2018-01-12,2,Master,4.3,170817,57,10,3,5,4,6,80,0,2.75,No
+31505,IT,Male,58,Analyst,2015-11-12,10,Master,5.0,86193,40,6,23,8,4,6,79,2,4.59,No
+31506,IT,Male,28,Specialist,2017-08-18,5,PhD,5.0,180000,39,11,5,3,3,10,70,0,3.21,No
+31507,IT,Male,49,Specialist,2012-04-05,2,High School,1.01,22516,51,3,24,3,2,14,44,2,3.98,No
+31508,Operations,Male,58,Analyst,2019-04-18,9,High School,2.92,22177,46,1,12,8,4,2,75,1,3.29,No
+31509,Operations,Female,41,Consultant,2010-11-18,11,PhD,5.0,180000,56,1,25,9,2,3,42,0,3.91,No
+31510,HR,Male,37,Engineer,2013-04-28,11,High School,4.01,38653,35,1,10,5,3,14,5,0,2.29,No
+31511,Operations,Male,43,Manager,2016-01-30,1,Bachelor,4.76,106391,35,10,28,4,1,6,56,2,2.7,No
+31512,Sales,Male,40,Analyst,2010-01-23,0,High School,1.69,14970,38,6,9,1,3,4,16,2,2.25,No
+31513,Marketing,Female,28,Engineer,2019-09-04,14,Master,5.0,153677,59,4,25,11,4,11,70,2,3.29,Yes
+31514,HR,Male,56,Analyst,2016-10-24,12,High School,3.06,35829,42,5,34,0,2,14,57,2,2.64,No
+31515,IT,Female,32,Manager,2014-12-25,6,Bachelor,3.64,71252,48,7,32,9,1,9,80,0,3.12,No
+31516,Sales,Female,34,Engineer,2012-10-25,11,Bachelor,3.64,99931,54,7,20,0,0,9,63,0,4.17,No
+31517,Finance,Male,26,Analyst,2016-05-15,6,Diploma,3.69,30693,42,9,16,8,2,11,21,0,3.27,No
+31518,Marketing,Female,54,Analyst,2019-10-27,2,High School,2.95,16142,50,10,22,5,4,12,56,0,3.9,Yes
+31519,Operations,Female,47,Engineer,2013-12-17,4,High School,3.33,19112,39,8,19,6,4,6,93,2,3.17,No
+31520,Finance,Female,46,Consultant,2011-02-04,4,Master,4.39,122017,52,1,34,3,2,7,45,1,4.12,No
+31521,Finance,Female,55,Consultant,2012-09-05,11,Master,5.0,83367,54,4,12,0,3,10,9,2,3.68,No
+31522,Operations,Female,50,Consultant,2013-07-27,0,PhD,5.0,151422,35,5,24,3,1,4,53,0,2.74,No
+31523,Sales,Female,54,Manager,2014-07-18,3,PhD,4.83,137485,57,11,23,3,2,2,98,0,4.35,Yes
+31524,Finance,Male,57,Manager,2010-03-24,13,High School,5.0,44358,56,4,14,6,4,11,9,2,2.13,No
+31525,Marketing,Female,49,Engineer,2019-11-09,0,Master,4.09,129460,37,4,27,7,4,3,44,1,3.37,No
+31526,Finance,Male,42,Analyst,2020-04-10,14,PhD,5.0,97200,51,5,11,9,1,8,10,2,4.22,No
+31527,Sales,Male,52,Engineer,2019-10-30,8,High School,4.37,34647,57,7,7,7,3,8,43,1,3.2,No
+31528,HR,Female,31,Analyst,2014-09-14,10,Bachelor,5.0,72779,41,10,12,0,1,12,88,2,4.7,No
+31529,Marketing,Female,57,Specialist,2020-03-03,0,PhD,4.34,128113,47,3,7,6,2,13,70,2,3.96,No
+31530,Sales,Male,50,Specialist,2012-03-09,9,Master,4.72,93509,50,10,32,11,3,11,77,1,4.65,No
+31531,Operations,Female,33,Consultant,2021-04-13,3,High School,3.34,32104,36,3,0,4,4,3,45,0,4.71,No
+31532,HR,Male,22,Engineer,2012-11-12,11,High School,4.42,32346,39,9,11,5,3,8,32,0,3.24,No
+31533,Finance,Male,55,Analyst,2017-01-03,14,High School,4.48,25810,44,5,32,3,4,7,28,2,2.46,No
+31534,Marketing,Female,32,Engineer,2017-06-02,10,Master,4.64,78449,49,1,5,7,2,8,37,1,2.01,Yes
+31535,Operations,Female,25,Consultant,2013-04-26,12,Bachelor,4.13,79401,46,10,5,3,0,13,63,2,3.92,Yes
+31536,Sales,Male,55,Manager,2015-06-15,0,Diploma,1.76,51539,35,4,29,11,4,9,96,1,2.53,No
+31537,Sales,Male,36,Specialist,2018-10-15,12,Bachelor,5.0,99853,53,4,4,3,3,10,66,1,2.52,No
+31538,HR,Male,45,Analyst,2011-02-22,8,PhD,4.15,132984,38,4,18,5,2,14,47,2,3.64,Yes
+31539,Finance,Female,50,Consultant,2018-04-18,10,Bachelor,3.2,96825,35,2,34,2,2,12,27,0,4.67,No
+31540,Operations,Male,44,Analyst,2010-11-20,6,Diploma,3.1,30789,56,3,7,8,2,14,41,0,4.15,Yes
+31541,Finance,Male,54,Engineer,2016-09-21,2,Bachelor,3.7,41155,55,10,0,7,4,3,24,1,4.15,No
+31542,HR,Female,39,Consultant,2017-08-26,5,Master,4.52,76644,56,5,18,0,2,2,35,1,4.57,No
+31543,Operations,Female,55,Analyst,2020-07-22,12,Diploma,3.24,42222,55,4,0,3,1,3,51,0,3.27,No
+31544,HR,Male,52,Specialist,2014-07-12,1,High School,3.32,30983,49,5,31,8,0,6,40,0,4.25,No
+31545,HR,Female,22,Consultant,2014-01-02,3,High School,3.32,19051,39,4,9,0,2,4,72,0,2.35,Yes
+31546,Finance,Male,51,Manager,2014-11-13,5,High School,3.45,34017,51,4,28,11,0,13,88,0,3.28,No
+31547,Finance,Male,49,Specialist,2013-03-20,6,Diploma,4.27,50742,45,3,14,8,4,3,29,0,2.49,No
+31548,IT,Male,32,Consultant,2016-06-19,9,Master,4.64,130623,54,3,25,7,0,8,65,0,2.51,No
+31549,Marketing,Male,43,Analyst,2014-10-24,13,Diploma,3.3,45399,41,7,10,7,3,5,18,0,3.32,No
+31550,Operations,Female,42,Engineer,2012-09-15,3,Bachelor,4.73,62967,41,7,29,3,2,6,22,1,3.21,No
+31551,Operations,Female,28,Consultant,2013-09-27,6,PhD,5.0,106260,48,6,16,9,4,14,82,2,2.09,No
+31552,HR,Male,46,Analyst,2012-01-24,8,Bachelor,4.06,39972,45,5,19,4,1,14,45,0,4.45,No
+31553,Finance,Male,22,Consultant,2020-06-23,4,Bachelor,3.41,43654,55,3,18,1,4,2,69,0,4.16,Yes
+31554,Sales,Male,58,Manager,2019-02-01,2,Diploma,3.54,30133,58,8,17,6,1,6,57,2,3.57,No
+31555,IT,Male,46,Consultant,2010-11-07,14,Diploma,4.19,38257,54,7,15,6,2,6,77,0,2.89,No
+31556,Sales,Female,53,Engineer,2020-10-26,1,Diploma,2.75,20814,36,1,4,3,1,11,53,0,2.59,Yes
+31557,HR,Male,36,Analyst,2022-02-28,13,Diploma,5.0,38010,35,4,5,11,4,7,69,2,3.7,No
+31558,IT,Male,45,Engineer,2018-08-13,9,High School,4.54,21970,48,10,13,8,1,2,65,0,3.56,No
+31559,Marketing,Female,41,Engineer,2021-04-04,4,High School,2.83,29133,52,10,33,10,1,2,48,0,2.72,Yes
+31560,HR,Female,57,Analyst,2011-05-28,2,Master,3.94,79362,49,1,8,5,2,6,84,2,3.27,No
+31561,Sales,Female,38,Manager,2010-04-27,7,Diploma,3.16,62622,54,1,19,7,1,12,36,0,4.49,No
+31562,Marketing,Female,53,Consultant,2021-11-09,14,Master,5.0,179799,40,9,3,11,0,3,69,2,4.7,No
+31563,IT,Female,55,Engineer,2022-07-13,8,Bachelor,4.73,58232,39,4,15,0,3,4,72,1,3.6,Yes
+31564,Sales,Male,44,Manager,2017-12-11,0,High School,3.6,33255,49,9,5,8,2,14,54,1,3.03,No
+31565,Finance,Male,24,Specialist,2019-02-27,7,Bachelor,4.52,86895,39,4,20,3,1,4,52,2,2.92,No
+31566,Finance,Male,43,Consultant,2018-03-13,1,PhD,4.04,151626,56,9,25,3,1,14,66,0,4.59,No
+31567,Operations,Male,58,Analyst,2011-03-01,12,Bachelor,3.99,67646,41,10,5,0,3,11,13,2,2.66,No
+31568,HR,Male,49,Engineer,2014-12-28,10,Bachelor,4.34,49249,39,10,28,2,3,2,23,1,4.04,Yes
+31569,Sales,Male,51,Specialist,2012-06-09,6,PhD,5.0,140257,57,9,7,6,2,8,68,0,4.3,No
+31570,Operations,Male,41,Analyst,2020-10-10,2,High School,3.32,16536,44,4,22,9,1,2,87,2,2.74,No
+31571,Finance,Female,41,Engineer,2018-01-29,13,High School,3.03,32497,58,10,2,11,0,5,10,0,2.24,No
+31572,IT,Female,29,Consultant,2012-08-06,10,Master,5.0,179191,53,8,17,2,1,13,43,2,3.69,No
+31573,IT,Female,55,Engineer,2015-12-16,0,Master,4.67,78331,40,1,5,6,1,9,65,0,2.73,No
+31574,Sales,Female,36,Engineer,2015-04-14,8,Bachelor,3.96,74217,50,8,14,1,3,14,10,2,4.79,No
+31575,Operations,Female,28,Specialist,2018-07-18,7,Diploma,4.25,48743,59,4,30,2,2,5,10,2,3.97,No
+31576,IT,Male,31,Consultant,2019-09-21,4,High School,4.22,30274,38,11,34,2,1,7,65,2,4.15,No
+31577,HR,Male,54,Specialist,2015-04-15,7,Diploma,3.21,36595,35,8,1,6,1,7,57,1,2.05,No
+31578,Marketing,Male,24,Manager,2017-07-15,6,Master,5.0,168915,50,3,23,3,1,6,12,1,2.18,No
+31579,HR,Female,26,Consultant,2022-08-22,6,Diploma,4.05,49639,41,7,20,5,2,11,67,0,2.49,No
+31580,Marketing,Male,40,Analyst,2012-08-25,6,Bachelor,3.99,70368,50,9,28,6,3,12,15,0,4.29,No
+31581,IT,Male,54,Consultant,2017-03-27,13,High School,4.1,45339,49,10,12,3,4,10,77,0,3.11,No
+31582,Marketing,Female,52,Engineer,2020-12-30,10,Bachelor,4.95,47427,37,1,24,8,0,4,59,1,4.01,No
+31583,Sales,Male,23,Consultant,2012-06-24,8,Bachelor,5.0,100300,53,9,24,1,2,7,95,0,4.19,No
+31584,Marketing,Male,36,Manager,2019-09-03,8,Diploma,3.57,45067,38,5,29,10,0,10,94,2,3.73,No
+31585,Sales,Female,49,Analyst,2017-07-26,0,Diploma,3.71,21463,47,8,16,6,0,11,85,2,4.16,No
+31586,IT,Female,44,Specialist,2014-04-23,13,Diploma,2.48,39950,50,3,19,10,4,14,42,2,2.1,No
+31587,HR,Male,51,Analyst,2022-03-06,5,High School,2.48,25657,57,10,9,6,2,7,81,0,4.04,Yes
+31588,HR,Female,34,Analyst,2021-09-06,5,High School,3.51,16755,38,8,25,3,4,8,56,2,2.21,No
+31589,HR,Male,55,Manager,2021-02-02,14,PhD,5.0,180000,53,8,13,0,0,12,72,2,2.6,No
+31590,Sales,Female,26,Analyst,2013-09-18,0,Master,2.37,47832,55,11,34,9,4,3,71,0,4.07,No
+31591,Finance,Female,34,Engineer,2021-02-26,5,High School,2.11,26813,46,9,28,4,0,8,47,0,3.19,No
+31592,Finance,Male,25,Specialist,2010-03-18,13,Bachelor,4.15,76772,56,11,14,7,0,11,26,2,3.1,No
+31593,Sales,Female,24,Manager,2019-07-18,0,Master,5.0,147056,47,4,8,11,4,11,13,1,4.14,Yes
+31594,IT,Male,45,Engineer,2012-03-17,14,PhD,4.95,168143,44,10,16,8,0,10,75,0,2.49,No
+31595,Marketing,Female,55,Engineer,2021-02-23,11,Bachelor,4.45,46828,52,5,17,7,3,6,95,0,3.94,No
+31596,Operations,Male,26,Consultant,2016-07-21,6,Master,5.0,157696,41,7,10,6,2,4,14,1,4.41,No
+31597,Marketing,Male,31,Consultant,2013-12-13,13,Master,5.0,180000,39,9,31,0,0,9,59,0,2.98,No
+31598,Sales,Male,40,Analyst,2011-05-05,10,Master,5.0,131931,36,4,10,10,4,11,73,2,3.07,No
+31599,IT,Female,43,Specialist,2018-02-23,2,Bachelor,3.17,71521,49,8,1,1,2,10,19,0,4.56,No
+31600,Sales,Male,32,Engineer,2015-10-16,3,Diploma,3.69,27866,58,5,3,8,0,14,22,0,2.1,No
+31601,Operations,Male,59,Analyst,2020-06-01,2,Bachelor,3.32,30406,37,4,9,7,1,7,70,1,4.26,Yes
+31602,Finance,Male,41,Specialist,2013-12-24,9,Master,5.0,123085,45,2,16,2,1,10,5,2,2.37,Yes
+31603,Sales,Female,46,Specialist,2014-01-02,9,High School,3.41,39661,50,3,9,7,2,11,7,0,2.75,No
+31604,Marketing,Male,22,Consultant,2020-10-04,4,Master,4.61,122540,41,2,21,10,2,10,19,2,4.15,No
+31605,Marketing,Female,45,Analyst,2018-07-05,7,Bachelor,3.53,45543,48,11,13,11,3,4,23,2,3.91,No
+31606,IT,Female,47,Engineer,2020-11-14,6,Master,5.0,113600,59,2,29,4,3,4,74,2,4.33,No
+31607,Sales,Male,31,Analyst,2013-12-03,11,Bachelor,4.69,66939,54,5,4,1,4,12,79,1,3.0,No
+31608,Finance,Male,48,Analyst,2019-03-15,9,Diploma,4.01,31182,56,5,5,11,4,7,17,0,2.17,No
+31609,Sales,Male,47,Analyst,2022-05-24,0,Bachelor,4.38,39945,43,7,25,3,2,10,44,2,3.9,No
+31610,Finance,Male,59,Manager,2018-05-04,7,Bachelor,5.0,117711,53,9,5,9,3,8,89,1,4.49,No
+31611,IT,Male,29,Manager,2011-01-21,6,High School,3.62,46501,44,7,6,1,4,7,49,0,4.48,No
+31612,HR,Male,57,Specialist,2016-03-15,11,High School,3.79,33261,44,2,27,9,1,6,42,0,3.51,No
+31613,Marketing,Female,35,Analyst,2017-08-18,6,Diploma,2.78,30001,53,7,9,1,2,9,62,1,2.96,No
+31614,Marketing,Female,38,Specialist,2020-09-22,14,Bachelor,4.27,131973,55,7,28,1,2,3,99,0,3.3,No
+31615,Operations,Male,24,Specialist,2014-12-30,12,Diploma,3.88,49492,50,8,16,11,1,7,83,1,2.92,No
+31616,Finance,Male,22,Specialist,2013-07-31,0,Diploma,3.75,37194,39,6,12,0,4,6,68,1,2.76,No
+31617,HR,Male,48,Engineer,2016-01-25,2,High School,3.31,28283,49,1,19,0,0,10,36,0,3.45,No
+31618,Marketing,Male,50,Consultant,2012-05-05,13,Master,5.0,179271,43,4,8,6,1,4,93,1,3.92,No
+31619,IT,Male,44,Engineer,2018-05-15,7,Bachelor,2.38,48602,45,7,17,3,4,3,92,1,3.37,No
+31620,IT,Male,43,Manager,2013-05-18,0,Bachelor,3.81,81392,46,10,12,5,3,7,75,0,3.92,No
+31621,Operations,Male,48,Manager,2019-05-18,4,PhD,4.88,180000,39,3,17,2,2,13,33,1,4.34,No
+31622,Operations,Female,50,Specialist,2010-06-04,4,Diploma,4.5,26218,51,10,5,0,0,5,30,2,4.03,No
+31623,Marketing,Male,53,Analyst,2019-05-30,11,Master,5.0,106727,52,11,33,10,2,9,43,2,4.53,No
+31624,HR,Male,32,Analyst,2020-10-05,9,Diploma,3.93,34728,54,3,28,10,4,7,97,2,3.33,No
+31625,Sales,Female,37,Engineer,2015-02-08,0,Master,3.9,63073,41,1,28,1,4,14,21,2,3.79,No
+31626,Marketing,Female,49,Specialist,2019-03-28,2,Diploma,2.93,41852,38,10,6,9,4,14,53,0,4.76,No
+31627,Operations,Male,58,Engineer,2018-12-09,4,Bachelor,2.56,53874,51,8,13,11,2,4,44,2,3.51,Yes
+31628,IT,Male,26,Engineer,2018-06-18,8,Master,4.69,143800,37,9,1,9,3,11,37,2,4.19,No
+31629,Marketing,Male,35,Engineer,2022-10-25,9,Master,5.0,151155,57,4,26,6,1,5,92,1,3.08,Yes
+31630,Operations,Female,56,Engineer,2019-04-01,10,Diploma,3.53,41310,47,4,9,9,1,3,64,0,4.24,Yes
+31631,HR,Female,59,Engineer,2015-11-24,14,Master,5.0,119860,39,1,11,1,0,11,64,2,2.85,No
+31632,HR,Male,25,Manager,2011-11-06,12,Master,5.0,122165,43,4,5,4,1,14,46,0,2.75,No
+31633,Sales,Female,30,Manager,2010-11-04,7,High School,4.13,37564,49,1,24,6,2,6,30,2,4.25,No
+31634,IT,Male,50,Specialist,2015-04-15,14,Diploma,5.0,61413,50,1,5,8,4,2,33,1,4.3,No
+31635,Operations,Male,37,Engineer,2015-03-13,5,Diploma,3.67,39195,59,9,2,7,0,10,62,2,2.93,No
+31636,HR,Male,48,Manager,2014-12-02,13,Diploma,4.81,51661,56,5,8,0,2,14,86,2,3.24,No
+31637,HR,Female,40,Consultant,2017-05-05,1,High School,3.23,34767,44,9,14,8,1,4,36,0,3.22,No
+31638,Marketing,Female,29,Manager,2014-01-26,11,High School,4.51,31570,44,1,28,10,0,5,21,0,3.89,No
+31639,Sales,Male,48,Analyst,2018-04-22,10,Master,4.91,99628,35,4,4,0,1,14,55,1,2.23,No
+31640,Operations,Male,57,Engineer,2016-04-16,2,Bachelor,3.66,83654,38,2,32,5,3,14,94,2,2.85,No
+31641,IT,Male,42,Engineer,2019-09-15,10,Diploma,3.66,50242,41,5,19,6,1,9,39,0,3.12,No
+31642,Finance,Male,37,Analyst,2011-04-04,10,Bachelor,3.51,57038,49,4,6,1,2,3,59,1,3.53,No
+31643,HR,Female,37,Analyst,2014-05-01,4,PhD,5.0,135634,40,4,19,10,4,13,37,1,4.53,No
+31644,Finance,Male,56,Consultant,2019-03-30,13,Bachelor,4.6,74603,47,9,26,1,2,12,69,2,4.58,No
+31645,IT,Female,40,Consultant,2011-03-12,4,Master,5.0,160279,36,7,9,7,2,10,49,1,3.15,Yes
+31646,Finance,Male,24,Specialist,2018-11-05,2,Master,3.35,108042,38,8,8,1,4,8,54,1,4.02,No
+31647,Operations,Female,53,Manager,2019-06-27,3,PhD,5.0,180000,46,10,21,11,4,4,49,0,3.13,No
+31648,IT,Female,53,Engineer,2014-10-02,6,Master,5.0,130144,49,2,25,2,4,6,18,0,4.37,No
+31649,Marketing,Female,52,Analyst,2012-01-23,1,Diploma,2.89,28898,47,11,33,11,4,8,70,2,4.27,No
+31650,Operations,Male,25,Analyst,2018-07-29,8,PhD,5.0,154857,42,11,24,10,0,10,97,2,2.67,No
+31651,HR,Female,37,Specialist,2014-11-22,6,Bachelor,3.64,87165,37,1,5,10,4,3,59,1,3.41,No
+31652,Operations,Female,53,Specialist,2010-10-12,5,Diploma,3.77,52342,56,3,1,1,0,13,12,2,3.65,No
+31653,HR,Male,30,Analyst,2017-01-22,4,PhD,5.0,144207,41,8,6,8,2,9,83,0,3.63,No
+31654,Marketing,Female,36,Analyst,2016-06-18,5,Bachelor,3.17,60781,48,3,20,9,3,12,47,2,4.41,No
+31655,Operations,Female,52,Analyst,2013-12-15,1,High School,3.22,12492,40,3,20,2,3,9,68,2,4.23,Yes
+31656,IT,Female,46,Consultant,2016-09-22,4,High School,4.08,36226,43,10,12,9,2,3,71,1,3.68,No
+31657,Sales,Male,44,Consultant,2015-11-29,13,Master,5.0,180000,59,3,8,4,4,3,75,2,4.8,No
+31658,Marketing,Female,41,Analyst,2010-04-26,3,Master,4.88,83993,35,6,14,11,2,3,42,1,2.62,No
+31659,IT,Male,46,Manager,2022-05-10,0,Bachelor,3.08,52682,43,5,4,11,4,5,21,2,2.02,No
+31660,Sales,Male,51,Specialist,2012-12-31,1,Bachelor,3.99,91328,42,3,25,6,1,10,77,1,2.92,No
+31661,Finance,Female,36,Analyst,2010-04-22,8,Bachelor,5.0,74465,57,10,24,9,0,14,50,2,3.2,No
+31662,Finance,Female,37,Specialist,2022-08-16,9,Bachelor,4.55,118067,36,1,24,11,4,4,86,2,3.8,Yes
+31663,HR,Male,22,Specialist,2021-03-15,5,Master,5.0,145614,47,9,20,7,2,2,88,2,2.09,No
+31664,Finance,Male,43,Manager,2018-09-04,7,Diploma,3.95,46861,44,8,0,9,3,2,88,1,2.5,No
+31665,IT,Female,37,Analyst,2021-05-27,6,PhD,5.0,142857,45,1,14,1,0,5,52,0,2.49,Yes
+31666,Sales,Female,56,Engineer,2012-08-16,7,High School,4.53,38368,51,6,25,1,2,10,26,2,3.28,No
+31667,IT,Male,40,Specialist,2020-09-10,4,Master,5.0,171374,45,1,25,6,4,10,15,0,4.55,No
+31668,Sales,Male,42,Analyst,2019-12-15,7,Bachelor,3.89,53510,49,4,17,8,4,14,58,1,2.59,No
+31669,Finance,Male,46,Specialist,2019-01-04,0,Bachelor,3.59,64134,51,2,2,7,1,8,66,2,2.57,No
+31670,IT,Female,41,Engineer,2018-07-03,1,Master,3.81,129391,53,1,10,1,4,11,62,0,2.22,No
+31671,Sales,Female,27,Engineer,2013-07-03,13,High School,4.87,38638,36,2,23,4,1,8,75,1,2.07,Yes
+31672,Finance,Female,34,Consultant,2018-11-30,8,High School,3.27,32212,55,8,33,7,2,10,37,0,2.8,No
+31673,Finance,Male,22,Engineer,2020-08-29,10,Bachelor,5.0,106726,51,1,18,3,4,3,52,0,2.2,No
+31674,Operations,Female,49,Engineer,2022-05-16,4,Master,3.85,70026,40,8,20,2,3,14,16,0,2.51,No
+31675,Marketing,Male,30,Analyst,2020-04-11,8,Diploma,3.5,39223,38,9,30,4,3,3,37,0,3.1,Yes
+31676,HR,Female,43,Specialist,2016-01-08,10,High School,4.04,51462,38,3,22,3,0,3,54,2,2.58,No
+31677,IT,Male,23,Consultant,2015-12-11,5,Diploma,3.09,40091,46,3,27,0,3,5,86,2,4.29,Yes
+31678,Sales,Male,55,Specialist,2010-04-06,4,Diploma,4.77,26888,53,3,16,11,1,5,87,0,4.71,No
+31679,Sales,Female,31,Engineer,2013-03-14,10,Bachelor,5.0,77608,45,10,34,6,2,2,8,1,2.9,No
+31680,IT,Male,43,Consultant,2019-11-19,1,High School,3.16,35457,58,4,5,6,4,3,14,0,3.4,No
+31681,IT,Female,43,Specialist,2015-02-15,14,Diploma,4.72,44130,39,8,25,4,4,10,10,1,4.59,No
+31682,Operations,Male,41,Engineer,2014-09-10,14,Diploma,2.76,35242,39,8,31,5,1,6,46,2,2.56,Yes
+31683,IT,Male,22,Specialist,2010-01-02,14,Bachelor,5.0,107803,45,2,13,9,3,12,86,2,3.31,No
+31684,HR,Male,49,Manager,2013-07-24,4,PhD,5.0,180000,56,3,32,9,3,8,32,1,4.33,No
+31685,Marketing,Female,28,Consultant,2011-07-15,12,Bachelor,5.0,90467,42,5,10,7,1,11,69,0,4.08,No
+31686,IT,Female,48,Analyst,2011-12-01,3,Bachelor,3.58,38753,53,6,15,10,1,11,48,2,4.34,Yes
+31687,IT,Female,40,Analyst,2010-08-27,9,Master,3.8,97422,45,9,9,11,4,9,19,2,2.44,No
+31688,IT,Male,50,Specialist,2017-12-15,11,High School,5.0,37791,53,8,8,11,3,11,67,1,2.5,No
+31689,Marketing,Female,57,Analyst,2015-11-23,4,Bachelor,3.7,59774,51,11,22,1,2,3,68,0,2.06,No
+31690,Operations,Male,46,Specialist,2015-07-30,14,Master,5.0,180000,48,8,6,6,1,2,85,2,3.83,Yes
+31691,Operations,Male,45,Specialist,2017-11-21,8,Bachelor,3.34,80176,59,6,5,7,0,14,61,0,2.05,No
+31692,IT,Female,38,Analyst,2012-02-24,13,Bachelor,4.78,46513,41,8,18,6,2,9,81,2,3.69,No
+31693,Operations,Male,49,Manager,2012-12-23,0,Bachelor,4.62,100513,40,6,23,2,3,12,8,0,4.37,No
+31694,HR,Female,27,Analyst,2022-11-21,8,Bachelor,4.02,60053,40,8,28,11,0,9,47,0,2.11,No
+31695,IT,Male,27,Specialist,2013-07-13,0,Bachelor,3.55,60036,42,3,14,6,3,6,83,1,2.92,No
+31696,IT,Male,40,Engineer,2010-12-08,8,Diploma,4.2,45156,52,1,4,4,3,2,40,1,2.97,Yes
+31697,Finance,Female,33,Specialist,2022-04-06,11,PhD,5.0,177869,42,2,31,5,3,6,87,1,4.29,No
+31698,IT,Male,43,Analyst,2017-04-30,2,Bachelor,2.7,28379,37,3,7,2,3,4,45,1,4.62,No
+31699,Operations,Female,22,Specialist,2021-04-21,7,Diploma,3.26,54819,55,8,11,7,1,7,31,1,3.91,No
+31700,IT,Female,55,Manager,2017-12-07,14,Diploma,4.19,76692,39,1,28,7,2,14,65,2,2.07,Yes
+31701,HR,Female,54,Analyst,2022-11-05,7,Diploma,3.93,19609,44,10,12,2,2,8,59,0,2.31,Yes
+31702,HR,Female,43,Analyst,2010-11-15,8,High School,3.1,28324,50,1,9,8,4,9,32,0,2.95,No
+31703,Marketing,Male,38,Specialist,2018-10-18,6,PhD,5.0,120972,54,11,22,2,4,7,65,2,4.07,No
+31704,Marketing,Female,40,Consultant,2021-08-04,1,Master,3.35,110746,47,10,14,5,0,8,59,1,2.64,No
+31705,Sales,Male,46,Analyst,2015-05-02,11,Diploma,3.58,37527,50,3,16,1,0,5,33,0,2.85,No
+31706,Operations,Male,33,Analyst,2014-12-23,12,Bachelor,4.7,85076,54,3,32,10,0,10,26,2,2.43,Yes
+31707,Finance,Female,48,Manager,2020-09-27,4,Bachelor,4.53,66582,43,4,14,0,2,11,58,1,4.05,No
+31708,Marketing,Male,53,Engineer,2020-08-25,5,Diploma,3.91,27944,51,1,19,11,1,4,47,0,3.93,No
+31709,IT,Male,39,Specialist,2012-10-20,6,High School,4.69,23940,43,2,23,4,0,8,20,2,3.41,No
+31710,HR,Female,27,Manager,2018-10-24,0,High School,4.1,32835,51,9,0,6,1,9,48,0,4.47,Yes
+31711,HR,Female,29,Manager,2021-02-20,8,Master,4.75,129537,53,10,29,10,0,7,55,2,2.2,No
+31712,HR,Male,32,Engineer,2014-12-24,14,Master,4.88,152136,52,11,4,6,3,7,78,0,2.48,No
+31713,Finance,Female,29,Analyst,2019-04-01,11,Bachelor,4.29,51275,37,6,15,6,1,2,22,0,2.9,No
+31714,Sales,Male,57,Engineer,2017-11-20,6,High School,3.3,37669,51,10,2,9,1,7,28,1,3.6,No
+31715,Marketing,Female,28,Manager,2021-03-19,8,High School,4.01,33929,53,5,13,9,4,13,64,1,2.97,No
+31716,IT,Female,41,Specialist,2022-11-06,6,Master,5.0,92951,56,6,12,2,2,9,21,1,4.52,No
+31717,Sales,Female,38,Specialist,2011-12-13,1,Bachelor,4.25,62566,50,5,14,5,3,13,7,2,4.74,No
+31718,Finance,Female,40,Engineer,2015-12-06,8,Diploma,4.1,48473,46,5,5,4,0,7,73,0,2.75,No
+31719,Finance,Female,30,Manager,2014-08-23,1,High School,2.93,26451,45,9,34,2,2,8,80,2,2.19,No
+31720,Finance,Male,44,Consultant,2012-10-04,0,Bachelor,3.0,43593,35,11,23,8,4,12,88,2,3.32,No
+31721,Marketing,Female,44,Analyst,2019-09-08,12,Diploma,3.44,36717,46,3,16,4,3,2,26,2,3.74,No
+31722,Operations,Male,49,Consultant,2020-03-08,8,High School,2.99,26794,57,6,20,8,1,5,91,2,3.59,No
+31723,IT,Male,44,Analyst,2017-12-20,5,Master,3.82,66942,52,5,28,2,4,14,7,1,4.34,No
+31724,Sales,Male,46,Analyst,2018-05-07,2,PhD,4.09,132786,37,4,20,5,1,6,41,2,3.41,No
+31725,Operations,Female,38,Specialist,2010-11-01,8,Master,5.0,145185,51,2,33,1,2,13,41,0,3.47,No
+31726,Operations,Male,51,Engineer,2019-08-21,13,Bachelor,5.0,89340,39,7,8,2,4,5,15,2,3.24,No
+31727,HR,Male,44,Engineer,2015-05-16,10,Bachelor,4.4,54811,58,1,9,6,2,8,24,1,4.62,No
+31728,Marketing,Male,53,Manager,2010-11-07,8,High School,2.9,38120,39,4,6,9,1,8,23,2,4.68,No
+31729,Finance,Female,45,Analyst,2022-04-12,4,Diploma,3.43,17550,50,8,15,3,1,14,84,0,4.72,No
+31730,Finance,Male,55,Engineer,2020-10-31,10,Diploma,4.49,38129,59,4,11,0,0,7,40,1,4.21,No
+31731,IT,Male,29,Engineer,2019-05-26,3,Bachelor,3.2,48812,47,11,12,9,0,10,16,0,4.56,No
+31732,Finance,Female,34,Consultant,2017-10-18,0,Master,3.43,73822,41,6,14,7,2,4,37,2,2.8,No
+31733,IT,Female,33,Consultant,2017-09-07,7,PhD,5.0,180000,42,10,5,8,3,12,72,0,2.69,No
+31734,Finance,Male,22,Engineer,2014-03-20,11,Diploma,4.68,55596,57,3,27,3,4,7,48,1,2.7,No
+31735,Finance,Male,34,Consultant,2020-06-11,9,Master,4.66,138643,49,5,2,0,3,6,94,1,3.38,No
+31736,IT,Female,55,Specialist,2020-11-04,11,Bachelor,4.38,99694,58,5,13,1,1,12,48,1,2.73,No
+31737,Operations,Male,33,Engineer,2017-07-26,11,High School,4.42,28229,41,8,16,11,4,5,88,0,3.27,Yes
+31738,Finance,Female,57,Consultant,2016-07-11,3,Master,4.42,72472,58,2,18,4,2,11,24,0,3.06,No
+31739,Marketing,Female,48,Engineer,2019-09-26,6,Diploma,3.32,46789,49,7,0,9,0,13,83,1,4.22,No
+31740,Marketing,Female,41,Engineer,2012-06-15,12,Master,5.0,178018,59,7,7,1,4,11,69,1,2.9,No
+31741,Marketing,Male,47,Analyst,2019-05-31,10,Bachelor,5.0,61142,49,4,32,1,4,2,8,0,3.52,No
+31742,Finance,Male,41,Manager,2016-11-15,12,Diploma,4.17,51556,55,4,6,0,1,3,22,2,2.74,No
+31743,Finance,Male,38,Specialist,2013-04-20,5,Diploma,4.49,34065,54,8,21,8,2,3,44,2,3.3,No
+31744,Sales,Female,28,Specialist,2021-01-05,7,Diploma,2.71,39780,51,8,29,2,0,6,5,1,3.62,No
+31745,IT,Male,35,Engineer,2016-08-05,13,Bachelor,4.61,66035,58,8,21,11,2,5,99,2,2.78,No
+31746,Marketing,Female,34,Manager,2017-10-09,1,Master,5.0,117555,59,10,27,5,4,13,78,1,2.36,No
+31747,Operations,Female,40,Manager,2015-08-13,8,Master,5.0,180000,59,10,1,3,4,9,78,2,2.03,Yes
+31748,Operations,Male,45,Engineer,2019-06-23,3,Diploma,3.79,28830,40,5,34,5,3,7,29,0,3.39,No
+31749,IT,Female,55,Consultant,2010-07-20,7,High School,3.5,32652,48,6,0,6,3,12,9,2,2.08,No
+31750,Operations,Female,53,Consultant,2016-02-09,7,Bachelor,3.99,75124,47,6,29,8,2,14,49,2,3.78,No
+31751,Sales,Male,36,Specialist,2012-04-09,5,Bachelor,3.63,88059,39,11,3,2,4,14,28,2,3.16,No
+31752,HR,Male,58,Specialist,2013-05-31,14,Bachelor,3.87,113513,41,2,33,4,3,11,40,0,2.86,No
+31753,Marketing,Female,25,Consultant,2011-09-20,0,Master,4.74,87778,43,10,0,5,1,14,65,1,2.51,No
+31754,HR,Female,30,Analyst,2011-11-10,5,Master,4.57,81343,57,3,28,10,0,7,90,2,2.74,No
+31755,IT,Female,40,Analyst,2021-05-04,12,Diploma,4.2,36875,41,2,16,8,3,14,48,2,4.05,No
+31756,Operations,Male,44,Specialist,2014-02-01,5,Bachelor,4.23,61619,59,4,5,4,1,3,15,0,4.76,No
+31757,Finance,Male,58,Analyst,2012-11-25,3,Master,4.7,60481,51,5,31,5,3,10,28,0,3.38,Yes
+31758,IT,Male,51,Analyst,2020-08-31,4,Master,5.0,111929,47,6,32,0,0,11,10,0,3.19,No
+31759,Operations,Female,31,Engineer,2021-01-07,2,High School,2.79,22400,47,5,14,11,0,12,61,0,3.73,Yes
+31760,IT,Male,32,Engineer,2021-08-25,12,Bachelor,5.0,101656,48,3,23,2,2,8,19,0,4.77,Yes
+31761,Marketing,Male,43,Consultant,2014-02-28,4,High School,2.98,23992,35,6,2,2,3,9,64,2,2.69,No
+31762,Operations,Female,38,Engineer,2011-04-27,8,Diploma,3.91,46623,37,7,7,0,3,13,61,2,2.96,No
+31763,HR,Male,34,Specialist,2015-01-18,6,High School,1.92,25305,53,7,4,3,0,3,95,2,2.34,No
+31764,HR,Male,49,Engineer,2018-03-14,11,PhD,4.35,130566,48,4,27,5,1,11,90,0,3.82,No
+31765,Operations,Male,35,Analyst,2019-04-29,10,Bachelor,5.0,55791,38,9,23,1,4,13,18,0,2.5,No
+31766,IT,Male,51,Specialist,2019-05-02,5,Diploma,1.64,52236,56,8,17,5,2,3,52,1,2.18,No
+31767,HR,Male,38,Consultant,2012-08-12,9,Master,5.0,86203,58,7,20,0,4,12,74,1,2.41,No
+31768,HR,Male,28,Analyst,2020-04-06,2,High School,1.92,16560,53,4,16,2,2,9,41,0,2.15,Yes
+31769,HR,Male,43,Engineer,2010-10-01,5,High School,3.62,32008,49,5,23,7,0,9,96,1,3.31,No
+31770,IT,Female,46,Consultant,2011-12-24,1,PhD,5.0,145770,57,3,32,4,4,9,32,2,2.52,No
+31771,HR,Female,47,Consultant,2010-04-04,7,Diploma,3.59,41486,52,9,0,4,1,12,80,1,2.87,No
+31772,Sales,Female,30,Engineer,2020-12-28,2,High School,1.96,18299,54,11,24,6,0,5,96,0,4.4,No
+31773,Marketing,Male,27,Specialist,2020-12-03,12,Bachelor,5.0,124581,42,8,16,1,4,12,78,1,3.35,No
+31774,IT,Female,30,Consultant,2013-06-16,4,Bachelor,3.16,58834,41,5,4,4,0,7,63,0,4.35,Yes
+31775,Sales,Male,30,Engineer,2014-05-04,12,Bachelor,4.59,95690,35,11,8,2,3,7,81,0,3.53,No
+31776,Operations,Female,31,Consultant,2020-08-29,9,Master,4.41,77932,45,10,4,5,0,5,78,2,4.76,No
+31777,Marketing,Female,34,Analyst,2022-10-18,0,Diploma,1.77,16333,56,2,11,3,4,13,93,1,3.82,No
+31778,Operations,Male,37,Consultant,2011-09-15,1,Diploma,3.82,41548,54,7,26,10,3,9,92,2,2.67,Yes
+31779,Marketing,Female,50,Engineer,2022-01-03,3,Master,4.34,89229,35,5,0,5,1,14,62,1,2.58,No
+31780,Marketing,Male,31,Engineer,2018-08-08,6,Master,4.97,119979,40,1,18,10,1,5,83,0,4.12,No
+31781,Marketing,Female,46,Consultant,2010-10-24,5,PhD,5.0,178310,38,3,34,8,0,9,99,2,2.76,No
+31782,IT,Female,58,Analyst,2011-01-20,2,Bachelor,3.5,44007,38,5,12,11,2,12,58,0,4.21,No
+31783,IT,Male,22,Consultant,2012-06-28,10,Master,4.52,118178,57,2,5,4,0,10,62,2,3.64,No
+31784,Operations,Female,35,Engineer,2019-01-04,5,Bachelor,2.94,39917,50,9,11,4,4,4,11,2,4.01,Yes
+31785,Sales,Female,34,Analyst,2020-07-02,12,Diploma,3.16,38730,59,8,3,10,4,9,35,1,4.28,No
+31786,Sales,Female,37,Engineer,2018-04-05,14,Diploma,5.0,34993,38,11,27,3,4,13,19,2,4.22,No
+31787,Sales,Female,51,Analyst,2013-02-04,7,Bachelor,2.89,61465,42,1,27,2,4,8,56,2,3.83,No
+31788,Finance,Male,53,Engineer,2010-10-06,13,Diploma,4.06,57410,49,5,1,0,2,9,35,0,2.86,No
+31789,Sales,Male,34,Engineer,2013-12-05,1,Bachelor,3.23,75487,53,1,30,6,3,11,91,1,4.11,No
+31790,Marketing,Male,48,Analyst,2013-07-30,3,High School,3.12,22380,36,10,7,8,3,14,73,1,4.64,No
+31791,Marketing,Male,38,Analyst,2016-10-09,14,Master,5.0,151304,55,9,24,8,1,13,17,2,2.11,No
+31792,HR,Female,49,Manager,2019-03-29,13,Master,5.0,164477,37,1,2,0,0,3,39,1,3.92,No
+31793,Sales,Female,31,Engineer,2021-03-08,2,Bachelor,3.33,62821,39,2,4,2,1,2,46,0,2.39,No
+31794,Marketing,Female,43,Analyst,2015-10-26,3,Diploma,2.35,19208,59,3,1,4,4,5,11,0,3.28,No
+31795,Finance,Male,35,Consultant,2016-12-17,11,Bachelor,4.2,89681,51,6,21,6,2,12,19,2,2.27,Yes
+31796,Operations,Male,56,Manager,2010-04-17,6,Master,5.0,127038,49,4,34,2,1,12,34,0,4.02,No
+31797,Operations,Female,27,Specialist,2010-04-01,9,Bachelor,5.0,74617,44,11,7,7,2,12,58,1,2.76,No
+31798,Finance,Male,28,Specialist,2017-01-29,2,Bachelor,3.31,42528,38,10,28,9,0,3,51,2,2.82,No
+31799,Operations,Female,52,Manager,2016-10-13,6,Bachelor,4.03,73729,40,10,11,11,2,14,80,0,4.69,No
+31800,HR,Female,59,Engineer,2022-08-23,12,High School,3.35,42378,50,5,24,11,3,14,66,2,2.28,Yes
+31801,Marketing,Male,30,Manager,2014-05-26,11,High School,4.27,42127,56,2,34,6,2,4,18,1,2.99,No
+31802,Finance,Male,23,Specialist,2021-04-01,7,PhD,5.0,180000,59,11,10,1,2,14,82,0,2.17,No
+31803,Sales,Male,48,Engineer,2021-09-16,13,Master,5.0,96604,41,2,20,0,4,12,97,1,3.53,No
+31804,Marketing,Male,52,Consultant,2010-01-07,10,High School,4.21,43427,41,4,9,0,3,11,62,0,4.57,No
+31805,Operations,Male,45,Specialist,2014-06-29,0,High School,2.68,36802,55,9,10,6,4,7,41,0,4.75,No
+31806,IT,Male,53,Specialist,2012-07-16,11,PhD,5.0,180000,45,5,26,9,0,5,33,1,3.93,Yes
+31807,IT,Male,25,Analyst,2019-06-19,5,High School,4.83,28402,57,1,28,2,4,2,35,0,3.24,No
+31808,IT,Male,33,Manager,2021-07-07,1,PhD,4.81,180000,38,7,24,5,2,8,54,2,2.27,No
+31809,IT,Male,52,Specialist,2011-09-20,0,Bachelor,4.31,85680,39,3,11,5,3,14,97,1,2.02,Yes
+31810,Operations,Male,24,Analyst,2015-01-16,6,High School,3.7,28290,53,11,22,8,1,4,30,2,4.52,Yes
+31811,Marketing,Female,24,Consultant,2022-06-24,8,Master,4.7,154611,42,3,15,6,4,13,22,0,2.61,No
+31812,Operations,Male,44,Engineer,2014-10-26,12,Diploma,4.38,57633,46,4,20,10,1,14,39,2,4.34,No
+31813,Finance,Female,41,Engineer,2021-03-21,4,Master,4.31,64283,41,10,8,7,2,5,23,0,4.21,Yes
+31814,Operations,Male,48,Analyst,2013-12-20,1,Bachelor,3.01,32529,51,2,21,6,4,3,91,1,4.38,No
+31815,IT,Female,52,Analyst,2014-02-02,10,High School,3.18,29964,56,11,7,5,2,9,15,1,2.07,No
+31816,IT,Female,45,Engineer,2011-01-16,2,Master,5.0,126218,39,1,26,3,2,3,28,0,4.4,No
+31817,Marketing,Male,23,Analyst,2019-09-17,1,Diploma,3.28,15638,41,7,25,2,2,5,62,2,2.09,No
+31818,Operations,Female,53,Manager,2011-04-16,5,High School,3.08,29244,43,6,10,5,3,9,21,2,3.45,No
+31819,Finance,Female,39,Manager,2015-08-01,10,High School,4.06,35995,47,10,4,2,2,2,15,2,4.07,No
+31820,Marketing,Male,25,Specialist,2011-03-03,11,PhD,5.0,180000,54,2,9,6,0,5,91,1,4.74,Yes
+31821,Sales,Female,37,Manager,2011-06-21,6,PhD,5.0,180000,40,1,10,7,4,12,13,2,2.06,Yes
+31822,Sales,Male,44,Analyst,2016-02-23,6,Diploma,3.34,31105,38,11,10,9,2,3,56,0,2.34,No
+31823,Finance,Male,30,Analyst,2019-05-28,6,Bachelor,3.76,49411,40,6,26,5,3,4,56,2,4.17,No
+31824,IT,Female,26,Analyst,2010-09-07,1,PhD,4.07,140970,44,10,28,3,0,7,11,2,3.87,No
+31825,HR,Male,33,Manager,2018-07-25,13,Master,5.0,148482,36,8,29,2,1,11,10,0,3.95,No
+31826,Operations,Male,56,Manager,2022-12-25,7,Diploma,4.7,66931,59,9,7,4,1,13,50,1,3.8,No
+31827,Sales,Male,43,Analyst,2019-04-14,6,Diploma,2.81,34814,42,3,32,3,2,6,13,2,2.7,No
+31828,Operations,Female,38,Engineer,2019-05-14,14,High School,4.45,49882,57,6,15,1,2,7,62,2,3.91,Yes
+31829,Finance,Female,24,Analyst,2021-04-28,7,Diploma,2.98,23879,43,3,26,7,4,2,65,1,4.19,No
+31830,HR,Female,40,Engineer,2017-07-22,4,Bachelor,2.83,72261,55,7,3,4,3,9,93,1,4.41,No
+31831,IT,Male,31,Specialist,2012-03-29,5,Master,3.26,101896,55,6,4,5,0,2,15,2,2.13,No
+31832,Marketing,Male,39,Engineer,2010-08-30,12,Bachelor,3.64,96473,43,3,25,11,1,8,84,2,3.14,No
+31833,Finance,Female,26,Analyst,2019-08-11,12,Diploma,2.55,28318,47,4,4,4,3,4,27,0,2.65,No
+31834,Sales,Female,27,Analyst,2021-05-08,3,PhD,4.72,124202,55,6,32,5,2,4,79,2,2.22,No
+31835,Marketing,Male,54,Consultant,2019-10-30,0,Bachelor,5.0,70546,44,3,32,1,3,3,93,1,2.03,No
+31836,Operations,Female,43,Consultant,2012-06-03,12,Diploma,4.6,39854,49,1,10,6,0,8,44,1,3.96,No
+31837,IT,Male,28,Specialist,2019-01-16,5,Bachelor,3.1,56017,55,5,32,11,2,11,66,1,4.74,Yes
+31838,Marketing,Female,31,Engineer,2021-09-21,8,Master,5.0,138029,42,8,11,11,2,11,47,0,2.75,Yes
+31839,Finance,Female,43,Manager,2019-02-01,8,Diploma,4.22,67250,53,10,6,5,0,12,16,1,2.01,No
+31840,Operations,Female,43,Engineer,2016-06-10,5,Diploma,4.03,32870,58,11,30,1,1,13,48,2,2.56,Yes
+31841,IT,Male,26,Analyst,2013-05-19,5,High School,2.31,25350,51,2,25,5,4,6,41,0,3.69,No
+31842,HR,Female,32,Engineer,2021-10-10,13,Diploma,4.18,45653,41,9,29,2,1,11,65,0,3.9,No
+31843,Marketing,Male,55,Engineer,2021-12-20,5,Diploma,3.39,44513,50,9,33,10,1,5,45,2,4.23,Yes
+31844,IT,Female,43,Manager,2011-03-08,3,Master,4.37,126620,36,9,15,0,2,6,98,2,2.89,Yes
+31845,HR,Male,44,Engineer,2014-05-21,5,Diploma,3.01,34596,59,7,2,4,1,2,68,2,4.41,Yes
+31846,Sales,Male,52,Manager,2017-09-18,0,Master,5.0,155736,59,8,12,2,3,9,24,0,3.25,No
+31847,Marketing,Female,56,Manager,2018-08-06,7,Bachelor,3.42,99714,42,5,18,0,2,4,9,1,2.21,No
+31848,Operations,Male,29,Specialist,2014-10-29,5,Bachelor,4.64,69348,50,11,9,10,4,13,30,2,4.47,No
+31849,Finance,Female,22,Engineer,2016-08-28,5,Bachelor,3.81,63570,36,1,21,11,4,12,56,0,4.7,No
+31850,Marketing,Female,31,Analyst,2020-12-05,4,High School,3.43,23159,45,6,3,10,1,10,69,2,2.07,No
+31851,HR,Male,47,Analyst,2022-08-02,13,High School,4.62,27328,40,3,17,3,4,10,88,2,4.53,No
+31852,Marketing,Male,44,Analyst,2017-09-03,7,Diploma,3.11,33112,58,10,34,2,0,9,58,2,2.15,Yes
+31853,HR,Female,56,Analyst,2020-10-25,4,Bachelor,4.47,65569,56,4,12,4,0,7,30,2,3.6,No
+31854,HR,Male,38,Engineer,2021-04-01,9,Master,4.83,99306,55,9,33,0,0,13,50,0,4.51,No
+31855,IT,Male,51,Manager,2012-03-29,7,Bachelor,3.5,63263,44,2,14,7,0,4,34,2,3.09,No
+31856,IT,Female,32,Specialist,2022-04-18,1,Master,3.71,120871,56,3,3,2,1,8,28,1,4.35,No
+31857,Marketing,Female,24,Analyst,2020-08-05,10,Bachelor,4.53,66305,41,9,20,5,2,12,53,2,4.56,No
+31858,HR,Female,51,Manager,2014-08-24,3,High School,2.97,34679,37,1,4,5,1,9,8,1,3.28,No
+31859,HR,Male,41,Engineer,2018-09-19,4,Bachelor,3.87,41402,37,10,7,3,1,6,80,2,2.99,No
+31860,IT,Female,24,Specialist,2019-02-21,1,Bachelor,3.57,79666,44,11,9,7,4,11,88,1,3.89,No
+31861,IT,Male,29,Specialist,2021-07-02,6,Bachelor,4.28,101277,57,4,28,5,3,14,91,0,4.19,Yes
+31862,Sales,Male,26,Analyst,2016-11-03,9,Master,5.0,130989,51,2,8,5,2,8,71,1,4.72,Yes
+31863,Sales,Female,32,Analyst,2012-09-05,11,Master,3.53,83852,53,9,21,9,3,4,40,0,3.89,No
+31864,Operations,Male,49,Manager,2020-06-13,8,Master,4.69,131917,38,4,17,1,2,13,34,1,4.46,No
+31865,Finance,Female,28,Analyst,2016-07-13,9,Bachelor,4.42,72500,50,2,33,0,3,3,43,1,4.73,No
+31866,IT,Female,29,Engineer,2011-05-02,8,Master,5.0,128670,52,1,31,4,2,3,80,1,4.01,No
+31867,Finance,Male,46,Analyst,2015-04-12,10,Bachelor,3.56,53026,56,3,30,4,1,2,48,2,4.02,No
+31868,Finance,Male,48,Consultant,2017-02-03,14,Master,5.0,114797,36,9,24,9,0,5,17,2,4.45,No
+31869,Sales,Female,47,Engineer,2013-08-29,8,Master,5.0,117341,47,9,18,2,2,14,55,0,3.23,No
+31870,Sales,Female,58,Specialist,2021-12-18,0,Master,3.62,122106,56,8,18,0,4,12,5,2,3.3,No
+31871,Marketing,Female,25,Specialist,2015-02-24,14,Master,5.0,180000,37,11,33,1,2,4,34,0,2.83,No
+31872,Sales,Female,48,Specialist,2012-11-13,10,High School,3.31,37037,55,10,28,7,3,5,43,2,3.84,No
+31873,Finance,Female,59,Consultant,2018-10-28,0,Master,4.97,112060,48,2,3,0,4,11,28,0,2.03,No
+31874,IT,Male,44,Manager,2021-07-14,0,Bachelor,3.3,94458,43,4,10,6,3,11,57,1,3.51,No
+31875,Finance,Female,23,Manager,2010-06-17,8,Master,4.78,150902,54,1,19,4,4,13,75,1,2.12,Yes
+31876,Marketing,Male,56,Analyst,2016-04-13,11,High School,4.26,30592,40,4,22,0,4,2,26,1,4.03,No
+31877,Sales,Female,39,Consultant,2016-01-03,0,High School,3.62,29647,45,7,6,4,1,8,66,2,3.41,No
+31878,Operations,Female,55,Consultant,2021-10-06,1,Diploma,3.34,22192,45,9,13,4,4,13,59,2,2.19,No
+31879,Marketing,Male,22,Specialist,2018-04-12,2,Bachelor,4.62,94622,37,7,22,4,1,10,87,1,2.97,No
+31880,IT,Female,53,Engineer,2018-08-06,0,Bachelor,4.31,34546,47,10,18,7,2,10,11,2,2.8,No
+31881,HR,Male,37,Consultant,2016-10-15,10,Bachelor,3.85,70117,58,5,25,0,2,10,39,1,3.07,No
+31882,Marketing,Female,52,Engineer,2021-03-10,0,High School,1.82,29329,42,5,31,3,0,14,51,2,4.61,No
+31883,IT,Female,33,Specialist,2015-01-29,1,Diploma,3.81,31072,56,8,27,11,0,4,90,2,4.18,No
+31884,Sales,Male,50,Specialist,2017-03-31,13,Master,5.0,93920,38,1,11,2,1,7,62,1,2.62,No
+31885,Finance,Male,27,Manager,2014-07-03,2,High School,2.14,39546,50,7,16,8,0,12,56,0,3.9,No
+31886,Finance,Female,42,Analyst,2022-10-25,4,Bachelor,3.76,46120,58,2,19,7,3,10,32,1,2.05,No
+31887,Finance,Female,39,Consultant,2017-11-20,6,High School,3.44,38639,40,11,22,5,3,3,54,2,2.47,No
+31888,HR,Male,31,Manager,2014-07-26,12,High School,4.77,45317,41,2,8,9,3,11,15,0,2.15,No
+31889,Marketing,Female,49,Manager,2015-06-28,8,Diploma,5.0,68307,49,10,26,9,2,14,79,1,4.8,No
+31890,Finance,Female,46,Manager,2016-02-06,12,High School,4.6,65433,52,6,6,5,1,12,88,2,4.51,Yes
+31891,Operations,Male,36,Specialist,2022-09-29,9,Diploma,4.02,42605,46,2,17,8,3,8,34,1,4.37,No
+31892,Sales,Female,56,Engineer,2018-11-28,9,Bachelor,4.69,98268,35,3,15,0,2,12,93,1,3.12,No
+31893,Marketing,Female,25,Consultant,2016-10-19,1,Diploma,4.34,29494,36,7,26,0,1,5,87,0,3.73,No
+31894,Finance,Male,41,Engineer,2019-08-26,0,Master,4.85,126626,59,3,3,3,0,11,25,2,3.08,No
+31895,Sales,Female,50,Engineer,2012-02-06,3,Diploma,2.87,23431,35,6,16,4,1,3,94,0,3.32,No
+31896,IT,Male,49,Consultant,2014-06-28,3,Diploma,1.69,28346,58,9,2,10,0,10,70,1,2.84,No
+31897,Finance,Male,37,Specialist,2014-11-25,13,Bachelor,5.0,77276,59,6,19,5,3,14,53,1,4.1,No
+31898,IT,Female,54,Manager,2016-01-28,11,High School,3.49,54470,40,8,20,8,0,11,83,2,4.75,Yes
+31899,Operations,Male,46,Manager,2021-09-12,7,Diploma,5.0,52081,38,3,30,2,3,14,43,0,3.25,No
+31900,Marketing,Female,34,Analyst,2013-10-26,2,Master,3.81,76194,50,5,11,1,2,12,53,2,2.91,No
+31901,Operations,Male,57,Analyst,2014-04-28,1,PhD,4.07,94947,42,8,26,8,4,8,12,2,4.29,No
+31902,IT,Male,47,Analyst,2017-03-08,11,Master,5.0,108964,36,7,21,5,3,10,43,0,2.38,Yes
+31903,HR,Male,25,Engineer,2019-07-30,5,PhD,5.0,160168,48,2,8,1,3,12,51,2,3.01,Yes
+31904,IT,Female,33,Analyst,2017-07-14,14,Master,4.63,96866,35,6,7,6,3,7,70,0,4.41,No
+31905,Marketing,Female,24,Manager,2010-09-24,11,Master,4.4,107873,43,4,20,0,2,10,57,2,2.05,No
+31906,Marketing,Female,31,Analyst,2019-10-10,13,High School,2.61,33765,48,3,22,1,4,9,67,0,2.95,Yes
+31907,Sales,Male,29,Analyst,2018-06-09,5,Diploma,2.48,26788,55,6,17,10,3,11,74,1,4.36,No
+31908,Sales,Female,23,Specialist,2012-03-22,4,Diploma,2.66,37846,51,9,10,8,4,12,93,0,3.98,No
+31909,HR,Male,30,Manager,2017-06-16,14,Diploma,5.0,42886,39,1,27,10,1,4,40,2,3.13,No
+31910,IT,Female,44,Analyst,2013-04-27,2,Master,4.19,48035,40,4,34,9,0,8,65,0,2.75,No
+31911,Sales,Male,46,Analyst,2014-06-18,9,Diploma,3.85,36666,38,9,12,4,2,4,7,1,2.29,No
+31912,Finance,Male,39,Analyst,2017-06-19,6,Diploma,4.1,26085,48,6,3,2,2,2,82,2,4.52,No
+31913,Finance,Male,59,Specialist,2021-12-12,6,Bachelor,4.12,62916,52,7,4,9,4,2,78,0,3.17,No
+31914,Finance,Male,38,Consultant,2015-07-01,6,Bachelor,5.0,82314,55,1,30,7,3,5,16,0,4.42,No
+31915,Sales,Male,51,Specialist,2019-12-23,12,Master,5.0,134680,35,9,27,4,3,11,9,1,2.12,No
+31916,Sales,Male,48,Specialist,2016-04-14,8,Diploma,2.83,43684,39,3,15,4,0,13,68,0,3.06,No
+31917,Finance,Female,49,Specialist,2019-01-30,4,Bachelor,3.77,87638,49,8,9,11,3,8,26,2,2.41,No
+31918,HR,Male,47,Specialist,2020-04-19,7,Diploma,2.09,34070,50,6,29,11,4,3,64,1,3.6,No
+31919,Finance,Male,22,Engineer,2021-01-08,1,Bachelor,3.65,37853,46,4,33,1,0,9,12,0,2.97,Yes
+31920,HR,Male,57,Manager,2010-08-19,7,Bachelor,4.36,93475,42,5,16,6,0,7,58,2,3.54,No
+31921,Operations,Male,38,Consultant,2014-02-18,4,Diploma,2.91,36327,39,8,33,7,2,9,52,2,2.03,No
+31922,HR,Male,30,Manager,2013-11-07,12,Bachelor,5.0,130253,47,7,27,6,4,12,17,0,2.38,Yes
+31923,Marketing,Male,31,Consultant,2012-05-06,14,Bachelor,3.95,71412,58,9,16,3,1,11,41,1,4.13,No
+31924,Operations,Male,41,Specialist,2012-05-25,0,Master,4.55,111984,56,8,19,10,2,12,97,1,3.04,Yes
+31925,HR,Male,35,Analyst,2012-03-06,11,High School,3.07,34287,42,6,2,9,3,11,21,0,3.54,Yes
+31926,IT,Female,52,Consultant,2022-01-27,1,Bachelor,4.99,80726,43,11,8,9,3,12,89,1,3.78,No
+31927,Operations,Male,22,Consultant,2010-05-28,11,Diploma,3.47,38755,41,10,10,1,3,14,23,1,3.93,No
+31928,Finance,Female,56,Analyst,2011-08-10,5,High School,3.48,23168,58,10,13,7,4,9,65,2,2.05,No
+31929,Finance,Male,55,Engineer,2019-04-09,8,PhD,5.0,173439,50,11,30,7,2,11,97,0,3.08,No
+31930,Marketing,Male,23,Specialist,2020-08-04,11,Bachelor,4.53,71729,40,8,31,6,0,9,50,1,3.33,No
+31931,Sales,Male,50,Consultant,2013-01-10,1,High School,3.81,19252,58,10,7,3,4,11,18,0,2.65,No
+31932,IT,Female,38,Consultant,2013-07-27,13,Diploma,3.29,41723,41,2,10,3,1,11,48,0,3.71,No
+31933,Marketing,Male,57,Consultant,2014-12-09,14,Diploma,3.77,48816,58,8,15,5,2,12,59,1,2.35,No
+31934,Finance,Male,22,Specialist,2011-01-02,8,PhD,5.0,180000,39,5,17,5,2,9,44,1,2.75,No
+31935,Sales,Male,46,Analyst,2011-12-06,5,Bachelor,3.78,31258,41,9,27,0,2,10,46,0,3.93,Yes
+31936,Operations,Male,22,Manager,2013-04-28,9,PhD,5.0,180000,39,8,21,11,3,13,64,1,2.84,No
+31937,Finance,Male,49,Engineer,2012-08-27,10,Diploma,4.46,49800,46,11,23,4,1,6,47,2,3.39,No
+31938,HR,Female,33,Engineer,2015-09-29,5,Bachelor,2.78,42974,36,6,12,11,1,2,21,0,2.96,No
+31939,Operations,Male,50,Consultant,2015-03-04,10,Bachelor,5.0,85955,50,5,10,4,3,11,8,2,3.8,No
+31940,HR,Male,56,Consultant,2013-11-20,11,Bachelor,5.0,83432,55,9,29,6,2,12,10,0,3.15,No
+31941,IT,Female,39,Consultant,2015-12-10,0,Master,5.0,138597,44,1,3,2,1,13,79,0,4.17,No
+31942,HR,Female,40,Analyst,2011-03-12,11,Bachelor,4.79,65113,49,6,21,2,4,11,20,0,4.61,Yes
+31943,Operations,Female,42,Manager,2022-01-19,13,Bachelor,5.0,162072,57,7,23,1,0,4,27,0,2.18,No
+31944,IT,Male,28,Consultant,2013-07-08,11,High School,2.55,31679,43,5,17,5,2,11,55,2,3.84,No
+31945,IT,Male,40,Analyst,2014-06-12,13,PhD,5.0,152784,36,8,11,1,2,7,8,2,2.47,No
+31946,IT,Male,27,Analyst,2021-06-14,14,Bachelor,5.0,84979,47,1,32,5,3,5,83,1,2.72,No
+31947,Marketing,Female,34,Engineer,2010-05-22,5,Bachelor,4.31,41271,50,9,18,6,3,9,16,1,2.8,No
+31948,HR,Female,59,Consultant,2020-09-09,3,High School,3.33,31869,37,1,25,1,4,13,32,0,4.5,No
+31949,Marketing,Male,56,Manager,2013-04-21,0,Bachelor,3.47,51615,50,8,9,4,0,2,50,2,2.37,No
+31950,Marketing,Male,33,Specialist,2017-12-20,9,Diploma,3.7,54698,56,3,22,1,0,14,30,0,2.67,No
+31951,Sales,Male,24,Specialist,2012-04-23,3,Diploma,3.96,30080,45,10,14,8,1,11,57,2,2.83,No
+31952,HR,Female,24,Specialist,2019-05-12,14,Master,5.0,107052,39,10,24,7,3,8,6,2,4.56,No
+31953,IT,Male,55,Manager,2021-09-06,4,High School,2.85,43453,52,3,20,3,0,4,14,2,3.69,No
+31954,HR,Male,47,Manager,2014-05-20,12,Diploma,4.16,69911,46,4,20,2,2,12,48,0,4.71,No
+31955,HR,Female,22,Engineer,2020-03-21,13,High School,4.27,29511,50,7,4,5,0,13,60,2,3.81,Yes
+31956,Operations,Male,22,Analyst,2022-10-12,12,Master,4.48,113220,58,7,11,2,4,5,31,0,3.08,Yes
+31957,Sales,Female,44,Analyst,2010-12-04,0,High School,3.02,19874,58,4,27,7,4,14,54,1,4.19,No
+31958,IT,Male,25,Manager,2017-08-05,12,High School,5.0,63541,36,8,6,6,2,12,30,0,2.54,Yes
+31959,Sales,Female,47,Manager,2016-03-26,9,Bachelor,4.23,111653,44,7,6,11,3,5,36,2,3.61,Yes
+31960,Finance,Female,57,Analyst,2017-10-08,14,Master,4.87,102448,47,6,10,3,2,9,23,1,3.21,No
+31961,Marketing,Female,57,Analyst,2019-08-15,12,Master,4.53,60853,51,3,0,8,2,12,82,0,2.66,Yes
+31962,IT,Female,50,Analyst,2010-10-28,11,High School,5.0,17408,59,7,34,11,2,11,28,1,4.22,No
+31963,Marketing,Female,28,Consultant,2016-12-17,5,Bachelor,2.87,47290,52,1,29,3,0,4,12,1,2.68,No
+31964,HR,Male,23,Engineer,2016-04-08,8,High School,2.62,39256,50,3,28,4,1,7,53,0,3.14,No
+31965,Sales,Female,57,Consultant,2013-01-24,11,Bachelor,4.4,89603,40,4,9,8,0,8,82,2,2.66,No
+31966,Finance,Male,42,Engineer,2019-08-03,4,Master,5.0,126923,42,4,23,4,0,4,11,2,4.17,No
+31967,Marketing,Female,31,Engineer,2019-09-09,4,High School,1.73,21703,42,11,19,5,2,14,14,1,2.41,Yes
+31968,Operations,Male,36,Engineer,2011-08-30,13,Diploma,3.43,41002,40,11,3,1,0,6,70,1,3.52,Yes
+31969,Sales,Male,25,Consultant,2012-10-12,6,Diploma,4.15,47951,39,11,18,1,3,7,37,1,2.91,No
+31970,Marketing,Male,39,Engineer,2014-11-09,3,Master,3.57,93243,48,9,7,7,3,7,79,1,2.24,No
+31971,IT,Male,31,Specialist,2017-09-15,0,High School,3.16,29137,40,7,22,3,4,14,53,1,3.23,No
+31972,Sales,Female,44,Analyst,2016-03-29,6,Master,4.58,90635,45,4,22,7,4,2,48,0,3.15,No
+31973,Finance,Male,23,Engineer,2017-12-18,1,Diploma,3.31,23776,44,1,7,4,0,6,49,2,3.03,No
+31974,IT,Male,43,Manager,2012-06-16,11,Diploma,4.47,57210,47,1,20,2,0,8,77,0,2.24,No
+31975,Marketing,Male,30,Manager,2021-02-05,13,Bachelor,3.36,126723,39,2,9,2,3,7,77,1,3.29,No
+31976,Sales,Female,56,Specialist,2014-02-26,6,Bachelor,4.83,100631,53,11,4,8,0,6,24,2,4.62,No
+31977,Operations,Male,39,Analyst,2016-02-13,0,High School,3.08,16689,52,2,29,8,1,8,80,0,3.05,Yes
+31978,HR,Female,25,Engineer,2010-07-19,4,Bachelor,3.23,44710,59,10,32,8,1,13,54,1,2.11,No
+31979,Marketing,Male,58,Consultant,2017-07-19,3,Master,3.17,82058,38,11,4,0,0,9,48,0,2.08,No
+31980,Marketing,Male,26,Analyst,2014-09-08,3,Bachelor,3.5,30905,49,10,18,6,2,13,29,0,4.03,No
+31981,HR,Male,53,Specialist,2016-07-23,0,PhD,5.0,180000,46,8,2,10,3,4,67,0,4.52,Yes
+31982,Operations,Male,39,Analyst,2012-11-21,5,Master,3.98,72300,41,6,18,0,4,11,36,2,3.86,No
+31983,Finance,Male,28,Consultant,2012-01-18,0,Master,2.49,63905,56,10,13,10,4,11,57,1,3.86,No
+31984,IT,Female,22,Specialist,2019-10-08,3,Bachelor,3.29,47920,49,11,29,7,4,5,49,0,2.3,No
+31985,IT,Male,29,Manager,2014-12-03,12,Bachelor,5.0,113102,40,4,25,2,0,5,79,1,2.08,No
+31986,IT,Male,48,Engineer,2016-11-22,6,Master,5.0,126271,44,9,0,2,0,9,22,1,4.23,No
+31987,Sales,Female,41,Engineer,2018-07-13,12,Bachelor,4.42,73121,57,6,29,9,3,3,74,0,3.74,No
+31988,Sales,Female,39,Engineer,2018-07-02,0,Master,3.93,106405,44,3,8,6,3,11,30,2,3.36,No
+31989,Finance,Male,55,Analyst,2012-05-07,1,Master,3.68,65880,45,7,0,10,4,12,9,2,2.74,No
+31990,IT,Female,40,Engineer,2013-12-29,14,Diploma,3.53,41861,37,11,26,3,0,7,71,1,3.77,No
+31991,Finance,Male,37,Engineer,2014-09-17,5,PhD,5.0,157995,53,1,9,6,2,8,16,1,4.62,No
+31992,Operations,Female,33,Consultant,2021-12-03,9,Diploma,3.96,36625,59,5,14,2,1,9,47,1,4.28,Yes
+31993,Finance,Male,31,Engineer,2016-04-15,6,Bachelor,3.65,64326,51,7,14,11,1,13,80,0,2.25,No
+31994,IT,Male,58,Analyst,2016-04-02,5,Bachelor,4.98,60970,46,7,20,10,2,7,59,2,4.3,No
+31995,Sales,Female,53,Specialist,2018-07-18,9,High School,4.37,33762,47,6,11,1,4,2,89,1,4.18,Yes
+31996,Marketing,Male,28,Consultant,2016-12-01,0,Master,3.92,103381,50,1,14,10,1,7,92,1,2.31,No
+31997,HR,Male,27,Manager,2013-06-12,0,Master,5.0,178203,51,7,3,8,2,12,84,0,3.71,No
+31998,Operations,Female,33,Consultant,2019-08-24,9,Diploma,3.49,45027,57,3,28,3,2,12,11,2,3.2,No
+31999,IT,Female,55,Manager,2013-06-16,8,High School,3.26,38947,53,9,23,3,1,6,61,0,3.16,No
+32000,Marketing,Male,40,Manager,2011-04-17,12,PhD,5.0,180000,39,8,34,5,3,14,82,2,3.25,Yes

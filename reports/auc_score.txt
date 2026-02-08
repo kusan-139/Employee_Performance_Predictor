@@ -1,0 +1,3 @@
+Low AUC: 0.0775
+Medium AUC: 0.2557
+High AUC: 0.3752
